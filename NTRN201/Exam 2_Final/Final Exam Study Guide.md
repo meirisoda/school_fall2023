@@ -1,2 +1,2 @@
 # American Diet
-American diet has 
+American diet has a huge incidence of 
