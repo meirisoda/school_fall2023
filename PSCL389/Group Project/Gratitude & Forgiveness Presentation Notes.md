@@ -68,8 +68,8 @@ So again, this is aligned with adaptation level theory.
 ## So what are the limitations of this study? 
 Limitation is that the data is obtained from this study is from only at a single point in time and do not trace out the the temporal course of adaptation. 
 A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. So following the levels of happiness before purchasing the lottery ticket, during the lottery winning and years afterwards. 
-# Alternative Explanations
-Not found in this specific study but is important to note the strain that supposedly-positive experiences can cause. 
+# Some Alternative Explanations outside of the adaptation level theory is that 
+Good luck in a lottery can actually be more painful a
 Sudden changes or extreme outcomes, even though positive, may be stress inducint (Dohrenwend & Dohrenwent, 1974; Rahe, 1972; Vinokur & Selzer, 1975). 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
 ### Second point
