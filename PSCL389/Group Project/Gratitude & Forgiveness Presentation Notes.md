@@ -7,8 +7,8 @@ There were three different groups interviewed, the lottery winners, accident vic
 ## So some questions that were asked
 were dependent on the group
 
-General background questions (age, occupation, race, religion, level of education).
-Lottery winners and accident victims were asked several open-ended questions such as:
+There were obvious General background questions (age, occupation, race, religion, level of education).
+But there were a differnece in questions asked between lottery winners and accident victims. They were asked several open-ended questions such as:
 "Has your lifestyle changed in any way wince you won? How?"
 "Do you feel you in any way deserved what happened?"
 "Do you ask yourself, 'Why me?' How do you answer?"
