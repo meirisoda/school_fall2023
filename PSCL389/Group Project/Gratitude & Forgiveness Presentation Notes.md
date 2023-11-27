@@ -71,7 +71,7 @@ A longitudinal study might be good to determine how adaptation level effects cha
 # Some Alternative Explanations outside of the adaptation level theory is that 
 Good luck in a lottery can actually be more painful and stress-inducing than pleasurable.
 
-Sudden changes or extreme outcomes, even though positive, may be stress inducing . By winning the lottery, you sudden
+Sudden changes or extreme outcomes, even though positive, may be stress inducing . By winning the lottery, you suddenly gain a large sum of money. You have pressure to conform to people's expectations of your level of happiness, you may also have to start taking preventatory measures in the case that people wa
 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that having out dreams fulfilled can create more problems than are solved.
 ### Second point
