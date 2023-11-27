@@ -1,5 +1,6 @@
 # Studies
-In order to gain a wider understanding of h
+In order to gain a wider understanding of happiness levels between different groups, they chose groups in different perceived levels of happiness:
+
 Interviewed accident victims (11 paraplegic, 18 quadriplegics; 85% response rate) as well as lottery winners (197 major winners; 52% response rate; winning amounts range from 5만 to 1million USD).
 88 people who lived in approximately the same areas of the city as the lottery winners. Response rate was 41% with 22 participants total.
 
