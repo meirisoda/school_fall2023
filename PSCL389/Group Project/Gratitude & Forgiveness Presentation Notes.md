@@ -63,10 +63,9 @@ For the Lottery winners: future > past
 	Because in **contrast** to their big winner's life, their past seems unhappy in comparison. 
 Control: past > future
 	Because they don't have any major contrast point to base their future happiness off of. 
-	
-##### Another exception for accident victims. 
-Accident victims seem less supportive of adaptation level theory; they do not take more pleasure in ordinary events and rated themselves significantly less happy in general than the control groups. 
-Paraplegics exhibited a strong nostalgia effect, rating their pasts as much happier than the controls. 
+
+So again, this is aligned with adaptation level theory. 
+
 ## Limitations 
 Limitation was that the data is obtained only at a single point in time and do not trace out the the temporal course of adaptation. 
 A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
