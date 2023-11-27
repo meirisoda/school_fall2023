@@ -73,8 +73,8 @@ Good luck in a lottery can actually be more painful and stress-inducing than ple
 
 Sudden changes or extreme outcomes, even though positive, may be stress inducing . By winning the lottery, you suddenly gain a large sum of money. You have pressure to conform to people's expectations of your level of happiness, you may also have to start taking preventatory measures in the case that people start developing maliicous feelings towards you (jealousy)
 
-Stories such as Faustus, King Midas or the Sorcerer's Apprentice that warn us that having out dreams fulfilled can create more problems than are solved.
-### Second point
+Stories such as Faustus, King Midas or the Sorcerer's Apprentice that warn us that having our dreams fulfilled may actually create more problems than are solved.
+### Another alternative explanation is that the lottery winners may have 
 While they may have downplayed their happiness to appear modest, they also did not mention anything negative. Negative features of the win should have been mentioned if they were attempting to minimize the experience.
 ## Perspective Theory 
 Giving people a new and more extreme endpoint on their subjective pleasure scale
