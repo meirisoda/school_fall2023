@@ -7,3 +7,4 @@ Basic message is: **Start Simple with MyPlate**
 To encourage a balanced diet and provide easy visualization. 
 ## Macronutrients
 ### Glucose
+Storage form is glycogen -- stored in the muscles and liver. 
