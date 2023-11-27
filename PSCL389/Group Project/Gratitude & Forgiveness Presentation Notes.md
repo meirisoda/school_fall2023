@@ -57,10 +57,10 @@ The two major explanations as to why there were differences
 
 So how this study was conducted was that lottery winners and the control group were asked more questions regarding their satisfaction of their work and personal lives, and for lottery winners, purchasing habits. 
 ## So the Results of this study show that 
-Buyers and nonbuyers of lottery tickets are quite similar in their **present** happiness but there is a significant difference in reported past and future happiness. 
+Buyers and nonbuyers of lottery tickets are quite similar in their **present** happiness but there is a significant difference in reported **past** and predicted **future** happiness. 
 
-Lottery winners: future > past
-	Because in contrast to their big winner's life, their past seems unhappy in comparison. 
+For the Lottery winners: future > past
+	Because in **contrast** to their big winner's life, their past seems unhappy in comparison. 
 Control: past > future
 ### Again, adaptation level theory
 
