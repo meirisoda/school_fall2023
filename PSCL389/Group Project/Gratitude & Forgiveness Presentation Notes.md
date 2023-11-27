@@ -33,14 +33,7 @@ And for all three groups, in order to measure general happiness, these questions
 Although ottery winners generally reported their lives after lives after winning the lottery to be generally more positive, and accident victims reported their lives to be generally less positive.
 As mentioned before, lottery winners took less pleasure than controls in a variety of ordinary events and were not in general happier than the controls. 
 
-Why is this? and 
-
-Lottery winners took less pleasure than controls in a variety of ordinary events and WERE NOT in general happier than the controls.
-
-Both lottery winners and accident victims found their happiness surrounding mundane events to be less positive compared to the control group.
-	On a scale of 0-5 (0 the worst thing and 5 the best thing):
-	Lottery 3.78 and victims 1.28
-	 it is roughly symmetric around the mean (2.5).
+Why is this? and how can this be explained with adaptation level theory? 
 
 General present happiness ratings between the two groups are similar but have significant differences in reports regarding past and future happiness.
 ## Adaptation Level Theory Justification
