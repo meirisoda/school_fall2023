@@ -65,8 +65,7 @@ Control: past > future
 	Because they don't have any major contrast point to base their future happiness off of. 
 
 So again, this is aligned with adaptation level theory. 
-
-## Limitations 
+## So what are the limitations of this study? 
 Limitation was that the data is obtained only at a single point in time and do not trace out the the temporal course of adaptation. 
 A longitudinal study might be good to determine how adaptation level effects change over time for lottery winners. 
 # Alternative Explanations
