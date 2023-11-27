@@ -9,6 +9,6 @@ To encourage a balanced diet and provide easy visualization.
 ### Glucose
 Storage form is glycogen -- stored in the muscles and liver. 
 #### Dietary Fiber
-1. **Soluble** - found in soft parts ~~ <mark class="hltr-yellow">slows digestion, reduces cholesterol and CHD, helps produce bile</mark>
-	2. **Insoluble** - cellulose ~~ bulks up stool 
-	3. **Functional Fibers** are added fibers that can usually serve as a prebiotic
+1. **Soluble** - found in soft parts ~~ slows digestion, reduces cholesterol and CHD, helps produce bile
+2. **Insoluble** - cellulose ~~ bulks up stool 
+**Functional Fibers** are added fibers that can usually serve as a prebiotic
