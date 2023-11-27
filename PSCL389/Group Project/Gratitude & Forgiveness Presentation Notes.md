@@ -30,6 +30,7 @@ And for all three groups, in order to measure general happiness, these questions
 
 # Findings and Discussion
 ==read this portion first!! ==
+As mentioned before, lottery winners took less pleasure than controls in a variety of ordinary events and were not in general happier than the controls. 
 Lottery winners generally reported their lives after lives after winning the lottery to be generally more positive, and accident victims reported their lives to be generally less positive.
 
 Lottery winners took less pleasure than controls in a variety of ordinary events and WERE NOT in general happier than the controls.
