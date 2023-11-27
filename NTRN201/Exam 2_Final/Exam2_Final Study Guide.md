@@ -8,7 +8,8 @@ To encourage a balanced diet and provide easy visualization.
 ## Macronutrients
 ### Glucose
 Storage form is glycogen -- stored in the muscles and liver. 
+
 #### Dietary Fiber
 1. **Soluble** - found in soft parts ~~ slows digestion, reduces cholesterol and CHD, helps produce bile
 2. **Insoluble** - cellulose ~~ bulks up stool 
-**Functional Fibers** are added fibers that can usually serve as a prebiotic
+**Functional Fibers** are added fibers that can usually serve as a prebiotic.
