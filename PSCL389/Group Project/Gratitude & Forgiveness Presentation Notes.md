@@ -56,8 +56,8 @@ The two major explanations as to why there were differences
 2. Merely introducing the study as a study of lottery winners may have shifted the focus of happiness to be relative to the lottery winnings.The lottery winners are aware of their special status currently and so reference point of happiness was changed to focus on their winnigns. 
 
 So how this study was conducted was that lottery winners and the control group were asked more questions regarding their satisfaction of their work and personal lives, and for lottery winners, purchasing habits. 
-## So thResults
-Buyers and nonbuyers were quite similar in their present happiness but there were significant differences in past and future happiness. 
+## So the Results of this study show that 
+Buyers and nonbuyers of lottery tickets are quite similar in their **present** happiness but there is a significant difference in reported past and future happiness. 
 
 Lottery winners: future > past
 	Because in contrast to their big winner's life, their past seems unhappy in comparison. 
