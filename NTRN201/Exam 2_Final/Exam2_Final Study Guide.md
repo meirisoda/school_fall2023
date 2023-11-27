@@ -19,4 +19,4 @@ Storage form is glycogen -- stored in the muscles and liver.
 Protein regulates and maintains bodily functions and provides a source of energy for the muscles in the instance that glucose stores run out. 
 **Provides the essential form of nitrogen.** 
 
-Complementary Proteins
+**Complementary Proteins** are incomplete proteins that can be ingested alongside another to make up for lost amino acids. 
