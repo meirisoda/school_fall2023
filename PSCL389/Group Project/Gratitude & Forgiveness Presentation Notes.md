@@ -1,5 +1,5 @@
 # Studies
-In order to gain a wider understanding of happiness levels between different groups, they chose groups in different perceived levels of happiness:
+So the first study that was conducted was to interview these differen
 
 **Lottery winners** were informed that the research was a study of lotteries. Was mentioned that other lottery winners because these respondents were keenly aware of their special status.
 **Control group** was told that the research was a study of everyday life. Did not mention the lottery winners to avoid instituting an unfavorable comparison for the controls.
