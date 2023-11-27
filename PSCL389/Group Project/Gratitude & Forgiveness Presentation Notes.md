@@ -11,9 +11,9 @@ There were obvious General background questions (age, occupation, race, religion
 But there were a differnece in questions asked between lottery winners and accident victims. They were asked several open-ended questions such as:
 "Has your lifestyle changed in any way wince you won? How?"
 "Do you feel you in any way deserved what happened?"
-"Do you ask yourself, 'Why me?' How do you answer?"
+"Do you ask yourself, 'Why me?' How do you answer to that question?"
 
-General happiness measure:
+And for all three groups, in order to measure general happiness, these questions were asked: 
 - How happy are you in your current stage of life?
 - How happy were you before winning (lottery)
 - How happy were you before the accident (victims)
