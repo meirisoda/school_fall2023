@@ -41,7 +41,9 @@ So accident victims weren't as unhappy as we would normally expect.
 
 Why is this? and how can this be explained with adaptation level theory? 
 ## Adaptation Level Theory Justification
-At first, winning the lottery would make other events seem less pleasurable, by contrast. Over time, this event may not seem to have any effect at all due to habituation.
+At first, winning the lottery would make other events seem less pleasurable, by **contrast.** Over time, this event may not seem to have any effect at all due to **habituation.**
+
+There is an interesting caveat with accdient victims. 
 ## Nostalgia Effect
 The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than their controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected.
 
