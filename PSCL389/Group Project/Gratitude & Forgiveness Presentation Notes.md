@@ -46,9 +46,10 @@ At first, winning the lottery would make other events seem less pleasurable, by 
 There is an interesting caveat with accdient victims. Although accident victims did not tend to take more pleasure in ordinary events and rated themselves as less happy than the contorls, there was a significant difference in how they rated their PAST happiness compared to their PRESENT. 
 ## This is called the Nostalgia Effect
 and this also relates back to adaptation level theory. 
-By **contrast** to their state currently, their lives seem happier before the accident. However, this 
+By **contrast** to their state currently, their lives seem happier before the accident. However, due to **habituation** their present level of happiness is not as bad as one would expect. 
 
-# Why is there a difference? 
+# Why is there a difference?
+In order to study the reasoning behind why 
 ## Second Study
 The two major explanations of why there were differences were that
 1. The difference is not an effect of the lottery but a general tendency for people who buy lottery tickets to find less pleasure in their daily lives than people who don't buy tickets. ==difference in baseline==
