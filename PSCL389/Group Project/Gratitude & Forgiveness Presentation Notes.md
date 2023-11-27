@@ -43,9 +43,9 @@ Why is this? and how can this be explained with adaptation level theory?
 ## Adaptation Level Theory Justification
 At first, winning the lottery would make other events seem less pleasurable, by **contrast.** Over time, this event may not seem to have any effect at all due to **habituation.**
 
-There is an interesting caveat with accdient victims. Although accident victims did not tend to take more pleasure in ordinary events and rated themselves as less happy than the contorls, there was a significant differ
+There is an interesting caveat with accdient victims. Although accident victims did not tend to take more pleasure in ordinary events and rated themselves as less happy than the contorls, there was a significant difference in how they rated their PAST happiness compared to their PRESENT. 
 ## Nostalgia Effect
-The accident victims recall their past as being happier than did controls (nostalgia effect) and also report their present as being less happy than their controls. However, the victim rating of present happiness is still above the midpoint of the scale and did not appear to be as unhappy as expected.
+By contrast to their state currently, 
 
 # Why is there a difference? 
 ## Second Study
