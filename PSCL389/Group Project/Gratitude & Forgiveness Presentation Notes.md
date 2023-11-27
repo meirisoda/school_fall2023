@@ -2,9 +2,11 @@
 So the first study that was conducted was to interview these different groups: 
 There were three different groups interviewed, the lottery winners, accident victims (the paraplegics/quadriplegits) and a control group (these people lived within a certain radius of the lottery winners)
 
-**Lottery winners** were informed that the research was a study of lotteries. Was mentioned that other lottery winners because these respondents were keenly aware of their special status.
+**Lottery winners** were informed that the research was a study of lotteries. 
 **Control group** was told that the research was a study of everyday life. Did not mention the lottery winners to avoid instituting an unfavorable comparison for the controls.
-## Study Method
+## So some questions that were asked
+were dependent on the group
+
 General background questions (age, occupation, race, religion, level of education).
 Lottery winners and accident victims were asked several open-ended questions such as:
 "Has your lifestyle changed in any way wince you won? How?"
