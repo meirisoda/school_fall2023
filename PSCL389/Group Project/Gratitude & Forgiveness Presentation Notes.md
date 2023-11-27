@@ -72,6 +72,7 @@ Stories such as Faustus, King Midas or the Sorcerer's Apprentice warn us that ha
 While they may have downplayed their happiness to appear modest, they also did not mention anything negative. Negative features of the win should have been mentioned if they were attempting to minimize the experience.
 ## Perspective Theory 
 Giving people a new and more extreme endpoint on their subjective pleasure scale
+
 It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events
 
 The lower pleasure ratings of winners and nostalgia effect  of the paraplegics may be due to their contrast with previous extreme experiences *rather* than alterations in their subjective scales. (Their happiness scales and perception remains objective and is just relative) -- going back to adaptation level.
