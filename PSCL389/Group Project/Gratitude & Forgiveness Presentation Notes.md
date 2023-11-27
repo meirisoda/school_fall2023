@@ -53,7 +53,7 @@ In order to study the reasoning behind why there is a differnce in happiness, a 
 ## Second Study
 The two major explanations as to why there were differences
 1. The difference is not an effect of the lottery but a general tendency for people who buy lottery tickets to find less pleasure in their daily lives than people who don't buy tickets. People who are satisfied and happy with their lives don't tend to feel the need to buy a lottery ticket to induce some sort of positive change, and people who buy tickets want that happiness trigger. ==So there is a difference in baseline==
-2. Merely introducing the study as a study of lottery winners may have shifted the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
+2. Merely introducing the study as a study of lottery winners may have shifted the focus of happiness to be relative to the lottery winnings (aka. changed the reference point). The lottery winners are aware of their special status currently, and by changing the reference point of happiness to focus on their winnings, they 
 
 Lottery winners and the control group were asked more questions regarding satisfaction of their work and personal lives, and purchasing habits. 
 ## Results
