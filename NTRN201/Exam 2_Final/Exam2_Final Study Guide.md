@@ -20,3 +20,4 @@ Protein regulates and maintains bodily functions and provides a source of energy
 **Provides the essential form of nitrogen.** 
 
 **Complementary Proteins** are incomplete proteins that can be ingested alongside another to make up for lost amino acids. 
+### Lipids
