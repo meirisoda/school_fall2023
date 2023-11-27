@@ -4,4 +4,5 @@ American diet has increased sodium, carbohydrate, fat and protein intake while n
 ### MyPlate
 Basic message is: **Start Simple with MyPlate** 
 To encourage a balanced diet and provide easy visualization. 
-
+## Macronutrients
+### Glucose
