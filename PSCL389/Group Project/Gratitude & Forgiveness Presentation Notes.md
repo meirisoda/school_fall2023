@@ -49,9 +49,9 @@ and this also relates back to adaptation level theory.
 By **contrast** to their state currently, their lives seem happier before the accident. However, due to **habituation** their present level of happiness is not as bad as one would expect. 
 
 # Why is there a difference?
-In order to study the reasoning behind why 
+In order to study the reasoning behind why there is a differnce in happiness, a second study was conducted. 
 ## Second Study
-The two major explanations of why there were differences were that
+The two major explanations as to why there were differences
 1. The difference is not an effect of the lottery but a general tendency for people who buy lottery tickets to find less pleasure in their daily lives than people who don't buy tickets. ==difference in baseline==
 2. Merely introducing the lottery as a topic may shift the focus of happiness to be relative to the lottery winnings (aka. changed the reference point).
 
