@@ -75,7 +75,8 @@ Sudden changes or extreme outcomes, even though positive, may be stress inducing
 
 Stories such as Faustus, King Midas or the Sorcerer's Apprentice that warn us that having our dreams fulfilled may actually create more problems than are solved.
 ### Another alternative explanation is that the lottery winners may have reported less pleasure in their every day events in order to appear modest and minimize the importance of their success. 
-While this may be trure this is not a valid explanation. they also did not mention anything negative. Negative features of the win should have been mentioned if they were attempting to minimize the experience.
+While this may be trure this is not a valid explanation. 
+Because if they really wanted to downplay the effects of winning, Negative features of the win should have been mentioned. But nothing 
 ## Perspective Theory 
 Giving people a new and more extreme endpoint on their subjective pleasure scale
 
