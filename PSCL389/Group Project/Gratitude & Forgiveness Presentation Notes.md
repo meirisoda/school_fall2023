@@ -84,3 +84,8 @@ This is called
 However this did not appear to be 
 # Implications these two studies is that 
 happiness *is* relative! 
+
+We, as observers, tend to overestimate the happiness and despair of others
+
+A good quote in the reading is:
+
