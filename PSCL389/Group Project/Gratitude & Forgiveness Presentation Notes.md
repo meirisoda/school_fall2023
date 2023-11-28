@@ -82,4 +82,5 @@ winning the lottery changed the perspective that people have on everyday events 
 This is called 
 ### Perspective Theory 
 However this did not appear to be 
-# Implications 
+# Implications these two studies is that 
+happiness *is* relative! 
