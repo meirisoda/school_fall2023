@@ -78,7 +78,9 @@ Stories such as Faustus, King Midas or the Sorcerer's Apprentice that warn us th
 While this may be trure this is not a valid explanation. 
 Because if they really wanted to downplay the effects of winning, Negative features of the win should have been mentioned. But nothing negative was mentioned and only the positive effects of winning the lottery were mentioned. 
 ## Another explanation is that 
-winning the lottery changed Perspective Theory 
+winning the lottery changed the perspective that people have on everyday events without changing the actual pleasure they received from these events. 
+This is called 
+### Perspective Theory 
 Giving people a new and more extreme endpoint on their subjective pleasure scale
 
 It is also entirely possible that lottery winners could just have a changed perspective on ordinary events than the actual impact of these important events
