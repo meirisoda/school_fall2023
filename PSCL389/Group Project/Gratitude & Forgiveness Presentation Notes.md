@@ -1,5 +1,5 @@
 # Studies
-So the first study that was conducted was to interview these different groups: 
+So the first study that was conducted was to interview these different groups that were mentioned beofre: 
 There were three different groups interviewed, the lottery winners, accident victims (the paraplegics/quadriplegits) and a control group (these people lived within a certain radius of the lottery winners)
 
 **Lottery winners** were informed that the research was a study of lotteries. 
