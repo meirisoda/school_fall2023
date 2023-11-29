@@ -8,4 +8,5 @@
 ### (7) **How do people communicate emotions?** Relatedly, how are emotions in other measured (behaviorally, autonomically, neurally, via self-report)?
 ### (8) What strategies do people use to regulate/control their emotions? Which strategies are most effective, and why? 
 ### (9) How do emotions influence the way in which people process information and/or form decisions?
-### (10) Jo
+### (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
+### (11) Working memory capacity and emotion 
