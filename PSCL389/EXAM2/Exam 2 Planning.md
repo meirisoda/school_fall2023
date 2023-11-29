@@ -4,3 +4,7 @@
 ### (3) **How are emotions understood?** Discrete versus dimensional accounts. Three major theories about the relationship between PA and NA. 
 ### (4) **Why/how are emotions important or functional** (intrapersonal, dyadic, in a group)? 
 ### (5) **Levenson's 1999 Core-Control System**
+### (6) **Emotion elicitation**. Pros, cons, and unique nature of each method (movies, slides, music, social psychological, etc.) - both in research and in the real world. 
+### (7) **How do people communicate emotions?** Relatedly, how are emotions in other measured (behaviorally, autonomically, neurally, via self-report)?
+### (8) What strategies do people use to regulate/control their emotions? Which strategies are most effective, and why? 
+### (9) How do emotions influence the way in which pe
