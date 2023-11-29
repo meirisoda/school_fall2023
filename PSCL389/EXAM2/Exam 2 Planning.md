@@ -10,4 +10,5 @@
 ### (9) How do emotions influence the way in which people process information and/or form decisions?
 ### (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ### (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
-### (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness us
+### (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
+### (13) Increasing Happiness - Forgiveness and Gratitude. How might someone increase their long-term happiness using these strategies? 
