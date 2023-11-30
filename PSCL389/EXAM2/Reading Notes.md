@@ -221,7 +221,8 @@ PA was associated with discriminative responding such as those in a good mood fo
 Content dependent. 
 ## Hedonism vs Eudaimonism
 **Hedonism** 
-- simple pleasure
-- 
-- eudaimonism as it emerges from activities that are expressions of one's **essential self**. 
-Fulfillment via actualization of one's potential. 
+- Simple pleasure
+- "Shortcuts to happiness" ()
+**Eudaimonism**
+- Emerges from activities that are expressions of one's **essential self**. 
+- Fulfillment via actualization of one's potential. 
