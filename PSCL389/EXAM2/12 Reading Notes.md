@@ -160,4 +160,6 @@ There is a clear implication that meaning in life contributes to a happier life.
 "Theory would suggest that meaning has a broad and pervasive influence on well-being" (Zika and Chamberlain, 1992).
 ## Meaning of Life
 Defined as a sense of one's life having a purpose or investing time and energy into the attainment of cherished goals.
-When the individual has th 
+When the individual has a sense that one's life is coherent. 
+Occuring through personal accomplishments, encounters with others, or encounters with art and nature. 
+Can be attained b
