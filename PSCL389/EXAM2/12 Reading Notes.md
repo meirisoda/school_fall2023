@@ -21,4 +21,5 @@ Study whether or not reminiscence serves the same functions for younger adults a
 
 Assuming reminiscence is positive, seems likely that individuals who used reminiscence either to gain self
 ### Techniques
-Clinical interventions aimed at teaching older adults to stimulate the pe
+Clinical interventions aimed at teaching older adults to stimulate the process of reminiscence, either by reviewing photographs, scrapbooks and other memorabilia or by making pilgrimages back to important places from their past. 
+Combining journal writing with reminiscen
