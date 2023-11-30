@@ -141,4 +141,6 @@ Success may not always generate happiness; why?
 - Achieving the goal drained too much energy
 - Value of the goal declined
 - Ambition to do better is still present
-- Achievement left a v
+- Achievement left a void
+#### Relationship between SWB and Goal Attainment
+Moderated by several variables. 
