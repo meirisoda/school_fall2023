@@ -139,4 +139,5 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 ### (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ### (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
+[[Reading]
 ### (13) Increasing Happiness - Forgiveness and Gratitude. How might someone increase their long-term happiness using these strategies? 
