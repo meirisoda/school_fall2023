@@ -135,4 +135,6 @@ Progress towards goals will only enhance SWB if the goals are in harmony with fu
 - Self-regulation/managing one's health
 - Prioritization
 ### Discussion
-People who achieve their golas have positive self-assessment and high feelings of personal efficacy
+People who achieve their golas have positive self-assessment and high feelings of personal efficacy, which in turn affects their self-image and esteem --> feedback loop. 
+
+Success may not always genera
