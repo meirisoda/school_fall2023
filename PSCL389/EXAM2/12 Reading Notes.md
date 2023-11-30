@@ -175,3 +175,5 @@ Dependent on interpersonal relationships, self-improvement and understanding and
 
 ## Cognitive Effects of PA
 PA may facilitate the discovery or construction of meaning. 
+People experiencing positive emotions are also more open to processing new types of information and have greater cognitive flexibility. 
+PA typically 
