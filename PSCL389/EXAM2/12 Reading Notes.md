@@ -10,4 +10,5 @@
 	2. Other people argue t hat it is an adaptive coping response that provides comfort, reduces negative affect, and helps resolve problems and conflicts. 
 4. A means to an end of obtaining closure on difficult events in one's life (development of the Gestalt reminiscence therapy).
 ### Reminiscence in Younger Adults 
-Adjustment remains a relevant construct across the lifespan (hence why reminiscence is not necessarily limited to a)
+Adjustment remains a relevant construct across the lifespan (hence why reminiscence is not necessarily limited to older adults).
+#### Mutual/Social Reminiscence
