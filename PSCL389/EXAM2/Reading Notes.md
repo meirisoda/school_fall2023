@@ -219,18 +219,20 @@ PA (concept and feeling) enhances the feeling that life is meaningful.
 ### Study 6
 PA was associated with discriminative responding such as those in a good mood found a meaningful task meaningful but found a meaningless task meaningless. 
 Content dependent. 
-##Ge Hedonism vs Eudaimonism
+## General Discussion
+### Hedonism vs Eudaimonism
 **Hedonism** 
 - Simple pleasure
 - "Shortcuts to happiness" (Seligman, 2002) and falls short of the greater accomplishment of a life of virtue
 **Eudaimonism**
 - Emerges from activities that are expressions of one's **essential self**. 
 - Fulfillment via actualization of one's potential. 
-## Top-Down Model
+### Top-Down Model
 PA leads to a global focus, broadened mindset and a capacity to make unusual and creative connections between elements. 
 Speculation, PA leads to an individual's personal meaning systems (thought to be fairly high in a hierarchy of motivation) to become available, allowing the person to experience the relevance of their personal meaning systems to current life experience. 
 
 PA facilitates top-down cognitive processing strategies and the use of general knowledge structures to help individuals make inferences beyond their external circumstances. 
 Broadened mind may include higher level schemas that serve as chronic sources of meaning. 
-## NA Effect
+### NA Effect
 NA is associated with lowered levels of meaning in life, but experiments don't actually show that. 
+# Layous et al. 
