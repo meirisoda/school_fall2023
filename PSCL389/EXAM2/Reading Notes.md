@@ -219,7 +219,7 @@ PA (concept and feeling) enhances the feeling that life is meaningful.
 ### Study 6
 PA was associated with discriminative responding such as those in a good mood found a meaningful task meaningful but found a meaningless task meaningless. 
 Content dependent. 
-## Hedonism vs Eudaimonism
+##Ge Hedonism vs Eudaimonism
 **Hedonism** 
 - Simple pleasure
 - "Shortcuts to happiness" (Seligman, 2002) and falls short of the greater accomplishment of a life of virtue
@@ -232,4 +232,5 @@ Speculation, PA leads to an individual's personal meaning systems (thought to be
 
 PA facilitates top-down cognitive processing strategies and the use of general knowledge structures to help individuals make inferences beyond their external circumstances. 
 Broadened mind may include higher level schemas that serve as chronic sources of meaning. 
-## NA Eff
+## NA Effect
+NA is associated with lowered levels of meaning in life, but experiments don't actually show that. 
