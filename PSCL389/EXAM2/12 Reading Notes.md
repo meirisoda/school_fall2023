@@ -28,4 +28,5 @@ People who use specific strategies to stimulate or intensify recall of the past 
 > [!highlight]
 > Enables people to obtain more affective benefits from reminiscence than simply reminiscing without using strategies
 
-Stimulating reminisence 
+Stimulating reminisence primarily based on cognitive imagery will generally be more effective than externally based imagery in generating affective and physiological states.
+	whi
