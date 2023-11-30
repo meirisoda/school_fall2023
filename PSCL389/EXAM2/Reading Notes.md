@@ -214,6 +214,9 @@ Which begs the question if there is a prospective relationship between mood and 
 There is no prospective relationship between the experience of meaning in life and PA. There may be a strong correlation, but there is not sufficient evidence.
 They are only observed in concurrent measures. 
 ### Study 4 & 5
-Meaning of life increased when individuals were primed with positive m
+Meaning of life increased when individuals were primed with positive mood concepts or when PA was induced. 
+PA (concept and feeling) enhances the feeling that life is meaningful. 
+### Study 6
+
 ## General Discussion
 Strong evidence for strong relationship between mood and the experience of meaning in life. 
