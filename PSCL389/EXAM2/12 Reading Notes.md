@@ -156,3 +156,6 @@ Also increased their orientation towards the future and developed hope and abili
 
 It is possible to teach individuals how to integrate and use the componenets/strategies involved in the different steps to achieve goal realization. 
 # King et al.
+There is a clear implication that meaning in life contributes to a happier life. 
+
+## Meaning of Life
