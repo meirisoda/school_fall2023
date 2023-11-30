@@ -183,4 +183,5 @@ Mood may provide some insight to one's experience and interpretation of their me
 However, the relationship between PA and meaning has largely been ignored because meaning of life is usually searched for when circumstances lead individuals to question the meaningfulness of existence and thus, search for meaning. 
 After negative life events, finding meaning can help return to positive levels of functioning. 
 >[!highlight]
->
+>Routine discovery of the meaning of life through negative life experiences can create strong associations in memory. 
+>PA may becom
