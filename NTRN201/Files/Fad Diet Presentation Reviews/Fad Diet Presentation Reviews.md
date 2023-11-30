@@ -1,4 +1,4 @@
-# Low Carb Diet
+# Cabbage Soup Diet
 ### What's involved with following this diet? 
 Restrict carbohydrate intake and emphasizes high protein and high fat foods. 
 There are different variations but typically follow either:
