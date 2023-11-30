@@ -8,6 +8,6 @@ For people who want to lose weight.
 No, because regardless of anecdotal evidence, the cabbage soup diet does not have any scientific evidence backing  up its claims.  
 Nor does cabbage or cabbage soup offer any extravagant fat-burning properties it's purported to have.
 ### Is it dangerous? 
-May cause some neurological and cognitive symptoms due to lack of energy stores able to be used by the brain. 
+Yes, it can be dangerous due to the severely restrictive nature of the diet. 
 ### Would you recommend? 
-I would not recommend this diet because it is not sustainable long-term. Although it may provide some health benefits, it is not enough to separate the low carb diet as special compared to some other dietary modifications. However, the low carb diet does do better compared to the Atkins diet. 
+I would not recommend this diet because it is not sustainable long-term. I personally do not a
