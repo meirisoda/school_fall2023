@@ -134,3 +134,4 @@ Progress towards goals will only enhance SWB if the goals are in harmony with fu
 	- Helps to avoid serious problems with the goals are unattainable. 
 - Self-regulation/managing one's health
 - Prioritization
+### Discussion
