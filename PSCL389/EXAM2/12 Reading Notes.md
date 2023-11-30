@@ -162,4 +162,9 @@ There is a clear implication that meaning in life contributes to a happier life.
 Defined as a sense of one's life having a purpose or investing time and energy into the attainment of cherished goals.
 When the individual has a sense that one's life is coherent. 
 Occuring through personal accomplishments, encounters with others, or encounters with art and nature. 
-Can be attained b
+Can be attained by attaching oneself or one's existence to a larger framwork of meaning such as religion or a philosophy of life. 
+
+Fulfilling four psychological needs:
+1. Purpose
+2. Value
+3. Efficac
