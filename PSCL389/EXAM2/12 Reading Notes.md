@@ -170,3 +170,5 @@ Different definitions:
 	3. Efficacy 
 	4. Self-worth
 Dependent on interpersonal relationships, self-improvement and understanding and behaving in ways that are congruent with one's beliefs. 
+>[!highlight]
+>Lives may be e
