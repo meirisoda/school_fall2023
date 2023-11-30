@@ -191,4 +191,7 @@ People are prone to use their mood as a **primary** source of information when m
 #### Cognitive Effort
 People in positive moods exert less cognitive effort when making judgements and are subsequently more likely to use a simple "feelings-as-information" heuristic when compared to people in negative moods. 
 	보통 상태가 안좋으면 자기의 감정에 따라서 결정을 내리면 안좋을 수 있으니까 보통 생각을 더 해야된다고 하는데
-	내가 생각할때는 상태가 안좋은때 사람의 결정 능력이 많이 떨어지는 것 
+	내가 생각할때는 상태가 안좋은때 사람의 결정 능력이 많이 떨어지는 것 같은데
+	But I agree with the cognitive effort and load. 
+
+Thus most measures of "meaning in life" rely on **intuitive** notions of 
