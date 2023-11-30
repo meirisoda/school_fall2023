@@ -65,5 +65,6 @@ External imagery tends to restrict one solely to details of the past that are re
 #### Sex Differences
 Women reported a greater capacity to savor positive outcomes than did men. 
 ## Study 2
-### Limitations of Study 1
+### Hypotheses and Limitations of Study 1
 Using results to draw inferences about cause and effect. 
+- Reminiscing about positive memories using either cognitive i
