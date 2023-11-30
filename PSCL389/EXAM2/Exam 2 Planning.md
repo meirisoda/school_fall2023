@@ -1,4 +1,5 @@
 One stimulus - 2 topics 
+Surprise sti
 ### (1) **What is an emotion?** The parameters used to study emotion, and the component approach. 
 
 ### (2) **What causes emotions?** Major theories about how they unfurl.
