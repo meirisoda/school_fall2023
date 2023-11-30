@@ -98,3 +98,9 @@ Personal goals are based off of self-conceptions and fundamental psychological n
 	사람따라 다르다; 그 시절에 필요한것
 Internal and external imperatives have to be made into personalized plans appropriate for the stage of life they are in. 
 Goal can affect:
+- translating motivation into action
+- energy focusing
+- behavioural self-regulation
+- personality functioning
+
+The presence of personal goals is pos
