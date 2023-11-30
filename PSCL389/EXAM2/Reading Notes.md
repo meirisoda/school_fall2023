@@ -217,6 +217,7 @@ They are only observed in concurrent measures.
 Meaning of life increased when individuals were primed with positive mood concepts or when PA was induced. 
 PA (concept and feeling) enhances the feeling that life is meaningful. 
 ### Study 6
-
+PA was associated with discriminative responding such as those in a good mood found a meaningful task meaningful but found a meaningless task meaningless. 
+Content dependent. 
 ## General Discussion
 Strong evidence for strong relationship between mood and the experience of meaning in life. 
