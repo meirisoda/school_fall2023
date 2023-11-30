@@ -82,4 +82,8 @@ Focused on retirees who find themselves at a loss for their purpose in life.
 	웃기게도 나는 은퇴 하지도 않았는데 (시작 하지도 않은 나) 나도 내 인생의 의미, 길이 뭔지를 잃은 느낌이 든다 
 
 Educational and preventative interventions that provide opportunities, not just to improve quality of life and actualize potential, but to also identify coping strategies to deal with typical problems at this stage of life. 
-Focused on the developing of attitudes and abilites to find personal projects that add 
+Focused on the developing of attitudes and abilites to find personal projects that add meaning to their life. 
+	뭔가 나도 제대로 읽어야 할 듯
+
+## Subjective Well-Being (SWB)
+Multidiment
