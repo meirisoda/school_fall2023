@@ -1,11 +1,9 @@
 # Cabbage Soup Diet
 ### What's involved with following this diet? 
-You are allowed to eat 1–2 other low-calorie foods daily in addition to the soup. However, it is
-important not to make any other substitutions and to drink only water or other calorie-free
-beverages, such as unsweetened tea.
-Increasing a
+You are allowed to eat 1–2 other low-calorie foods daily in addition to the soup. However, it is important not to make any other substitutions and to drink only water or other calorie-free beverages, such as unsweetened tea.
+Increasing and changing the food consumed with every passing day. 
 ### Who is it for? 
-For people who want to lose weight, and improve specific health markers. Not recommended for pregant individuals and athletes. 
+For people who want to lose weight. 
 ### Is it backed by scientific research? 
 Scientific research supporting this diet are mostly focused around ketosis. There is some evidence that fat may be oxidized, thus losing fat, but again, this evidence and results are not exclusive to the low carb diet. 
 ### Is it dangerous? 
