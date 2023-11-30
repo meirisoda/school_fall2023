@@ -159,4 +159,5 @@ It is possible to teach individuals how to integrate and use the componenets/str
 There is a clear implication that meaning in life contributes to a happier life. 
 "Theory would suggest that meaning has a broad and pervasive influence on well-being" (Zika and Chamberlain, 1992).
 ## Meaning of Life
-Defined as a sen
+Defined as a sense of one's life having a purpose or investing time and energy into the attainment of cherished goals.
+When the individual has th 
