@@ -71,3 +71,4 @@ Using results to draw inferences about cause and effect.
 - Reminiscing about positive memories using cognitive imagery would produce a greater increase in the reported frequency of happiness, compared to reminiscing about positive memories using memorabilia. 
 ### Results and Discussion
 Both forms of reminiscence increased the frequency of happiness over the weeklong study, whereas the control treatment did not. 
+People who used cognitive imagery reported a greater increase in happiness than externalized imagery. 
