@@ -220,5 +220,8 @@ PA (concept and feeling) enhances the feeling that life is meaningful.
 PA was associated with discriminative responding such as those in a good mood found a meaningful task meaningful but found a meaningless task meaningless. 
 Content dependent. 
 ## Hedonism vs Eudaimonism
+**Eudaimonia**, sometimes anglicized as eudaemonia or eudemonia, is a Greek word literally translating to the state or condition of 'good spirit', and which is commonly translated as 'happiness' or 'welfare'.
+Often dubbed as the hallmark of a good life. 
+
 Must partition pleasure away from the meaning of life (do not associate the two).
-Hedo
+
