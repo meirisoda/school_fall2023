@@ -95,4 +95,4 @@ Markers chosen are:
 ## Personal Goals and SWB
 ### Goal Setting
 Personal goals are based off of self-conceptions and fundamental psychological needs (also cannot ignore the broader sociocultural context)
-	사람따라 다르다; 그 시절에 필요한것이랑 
+	사람따라 다르다; 그 시절에 필요한것이랑  
