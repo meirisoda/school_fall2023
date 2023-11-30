@@ -158,5 +158,5 @@ It is possible to teach individuals how to integrate and use the componenets/str
 # King et al.
 There is a clear implication that meaning in life contributes to a happier life. 
 "Theory would suggest that meaning has a broad and pervasive influence on well-being" (Zika and Chamberlain, 1992).
-
 ## Meaning of Life
+Defined as a sen
