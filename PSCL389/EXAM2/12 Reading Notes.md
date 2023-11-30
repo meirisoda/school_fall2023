@@ -76,4 +76,4 @@ People who used cognitive imagery reported a greater increase in happiness than 
 Does vividenss of recall mediate the creater increase in frequency of happiness found in the cognitive imagery group relative to the memorabilia group? 
 
 Vividness of recalled memories does affect the greater impact of cognitive imagery, but not the amount of recalled detail. 
-## General Discussion
+# Dube et al. 
