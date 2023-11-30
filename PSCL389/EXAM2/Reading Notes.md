@@ -226,3 +226,4 @@ Content dependent.
 **Eudaimonism**
 - Emerges from activities that are expressions of one's **essential self**. 
 - Fulfillment via actualization of one's potential. 
+###
