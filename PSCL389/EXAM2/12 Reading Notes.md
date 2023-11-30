@@ -150,4 +150,5 @@ Have you:
 - Refined some skills
 - Actualized some of your potential
 - And thus have faith in your future? 
-## Study
+## Study Discussion
+
