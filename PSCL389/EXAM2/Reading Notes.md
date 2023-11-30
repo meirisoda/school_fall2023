@@ -205,3 +205,5 @@ Mood, positive emotional traits and global appraisal dimensions have significant
 General PA predicted higher levels of meaning in life, and general NA predicted lower levels. 
 
 Meaning in life is more strongly related to mood than to goal appraisals. 
+### Study 2 
+10 observations in daily mood, goal activity and meaning in life (also have to take into accou)
