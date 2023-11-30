@@ -52,3 +52,4 @@ People reminisce about relatively recent events (<5 years) compared to longer ag
 3. When both alone and feeling down
 Most people typically reminiscence when experiencing negative affect 
 --> supports the notion that positive reminiscence serves primarily as a coping strategy for reducing or eliminating subjective distress. 
+### 
