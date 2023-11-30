@@ -211,4 +211,5 @@ Meaning in life is more strongly related to mood than to goal appraisals.
 Daily meaning in life is related to **current mood** and the retrospective global estimates of meaning is related to **average daily PA**. 
 Which begs the question if there is a prospective relationship between mood and meaning in life. 
 ### Study 3
-There is no prospective relationship between the experience
+There is no prospective relationship between the experience of meaning in life and PA. There may be a strong correlation, but there is not sufficient evidence. 
+### Study 4
