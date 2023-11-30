@@ -165,7 +165,8 @@ Different definitions:
 - Occuring through personal accomplishments, encounters with others, or encounters with art and nature. 
 - Can be attained by attaching oneself or one's existence to a larger framwork of meaning such as religion or a philosophy of life. 
 - Fulfilling four psychological needs:
-	- 1Purpose
-1. Value
-2. Efficacy 
-3. Self-worth
+	1. Purpose
+	2. Value
+	3. Efficacy 
+	4. Self-worth
+Dependent on interpersonal relationships, self-improvement and understanidn
