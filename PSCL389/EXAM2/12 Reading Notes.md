@@ -20,8 +20,9 @@ Results suggest that older adults are more capable of extracting powerful positi
 Study whether or not reminiscence serves the same functions for younger adults and whether these functions are positively or negatively associated with the perceived ability to enjoy life. 
 
 Assuming reminiscence is positive, seems likely that individuals who used reminiscence either to gain self
-### Techniques and effects of
+### Techniques and effects of a strategy
 Clinical interventions aimed at teaching older adults to stimulate the process of reminiscence, either by reviewing photographs, scrapbooks and other memorabilia or by making pilgrimages back to important places from their past. 
 Combining journal writing with reminiscence enhanced well-being in older adults (which also enhanced the experience of reminiscence itself).
 
 People who use specific strategies to stimulate or intensify recall of the past may be better able to reminisce in a vivid, engaging way than people who lack specific strategies for intensifying recall. 
+[]
