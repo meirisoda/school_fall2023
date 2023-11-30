@@ -37,6 +37,7 @@ Stimulating reminisence primarily based on cognitive imagery will generally be m
 - The more time young adults spend reminiscing about positive memories, the more capable they will feel of savoring their lives. 
 	- Based off adaptive function
 - People who use reminiscence to gain self-insight will feel more capable of savoring their lives, compared to people who reminisced primarily to escape from the present. 
-	- Based of theoretical speculation (Butler, 1962; Bavighurts, 1959)
+	- Based off theoretical speculation (Butler, 1962; Bavighurts, 1959)
 - Having a personal strategy for intensifying recall will be associated with a greater perceived capacity to savor positive outcomes, relative to having no strategy. 
-	- Based off adaptive func
+	- Based off adaptive function
+- Relying 
