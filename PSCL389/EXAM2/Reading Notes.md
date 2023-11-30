@@ -220,5 +220,8 @@ PA (concept and feeling) enhances the feeling that life is meaningful.
 PA was associated with discriminative responding such as those in a good mood found a meaningful task meaningful but found a meaningless task meaningless. 
 Content dependent. 
 ## Hedonism vs Eudaimonism
-Hedonism, simple pleasure, is separate from eudaimonism as it emerges from activities that are expressions of one's **essential self**. 
-
+**Hedonism** 
+- simple pleasure
+- 
+- eudaimonism as it emerges from activities that are expressions of one's **essential self**. 
+Fulfillment via actualization of one's potential. 
