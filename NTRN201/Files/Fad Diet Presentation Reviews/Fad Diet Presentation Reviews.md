@@ -6,6 +6,6 @@ For people who want to reduce inflammation, prevent Crohn's disease, diabetes, o
 ### Is it backed by scientific research? 
 Has some scientific evidence backing it (ie. instances of reduced mortality rates from colon cancer and heart problems; improvements in insulin sensitivity and glucose tolerance). 
 ### Is it dangerous? 
-It may have some negative effects on health. Due to restriction of carbohydrates, it may decrease f
+It may have some negative effects on health. Due to restriction of carbohydrates, it may decrease the amount of energy. Also will have some nutritional imbalances in 
 ### Would you recommend? 
 I would not recommend this diet because it is not sustainable, and also has negative effects on relationship with food and bodily health. The weight loss achieved with this diet is typically very short-term. 
