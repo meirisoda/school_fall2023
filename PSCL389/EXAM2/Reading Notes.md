@@ -222,7 +222,7 @@ Content dependent.
 ## Hedonism vs Eudaimonism
 **Hedonism** 
 - Simple pleasure
-- "Shortcuts to happiness" ()
+- "Shortcuts to happiness" (Seligman, 2002) and falls short of the greater accomplishment of a life of virtue
 **Eudaimonism**
 - Emerges from activities that are expressions of one's **essential self**. 
 - Fulfillment via actualization of one's potential. 
