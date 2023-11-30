@@ -79,6 +79,7 @@ Vividness of recalled memories does affect the greater impact of cognitive image
 # Dube et al. 
 Help participants set, plan and pursue personal goals through a learning process based on literature on goal intervention. 
 Focused on retirees who find themselves at a loss for their purpose in life. 
-	웃기게도 나는 은퇴 하지도 않았는데 (시작 하지도 않은 )
+	웃기게도 나는 은퇴 하지도 않았는데 (시작 하지도 않은 나) 나도 내 인생의 의미, 길이 뭔지를 잃은 느낌이 든다 
 
 Educational and preventative interventions that provide opportunities, not just to improve quality of life and actualize potential, but to also identify coping strategies to deal with typical problems at this stage of life. 
+Focused on the developing of attitudes and abilites to find personal projects that add 
