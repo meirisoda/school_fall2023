@@ -189,4 +189,5 @@ After negative life events, finding meaning can help return to positive levels o
 People use their current mood as a source of information when making evaluative judgements. (Example: the effect of weather on mood and thus overall life satisfaction)
 People are prone to use their mood as a **primary** source of information when making judgemnets about global life domains. 
 #### Cognitive Effort
-People in positive moods exert less cognitive effort when making judgements and are subsequently more likely to use a simple "feelings-as-information" heuri
+People in positive moods exert less cognitive effort when making judgements and are subsequently more likely to use a simple "feelings-as-information" heuristic when compared to people in negative moods. 
+	보통 상태가 안좋으면 자기의 감정에 따라서 결정을 내리면 안좋을 수 있으니까 보통 생
