@@ -114,4 +114,6 @@ Planning: mental exercise that prepares for action; includes activities that hel
 - defining steps
 - identifying circumstances related to initiating action
 - identifying the required skills
-- forseeing obst
+- forseeing obstacles and planning strategies to deal with them
+- seeking help if necessary
+Som
