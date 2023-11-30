@@ -196,4 +196,4 @@ People in positive moods exert less cognitive effort when making judgements and 
 
 Thus most measures of "meaning in life" rely on **intuitive** notions of what meaning means. 
 
-"Higher-level" measures of psychogical health (such as subjective )
+Higher level measures of psychogical health (such as subjective well-being) have already been extensively studied, however, lower level not as much. 
