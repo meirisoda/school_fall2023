@@ -46,3 +46,7 @@ Stimulating reminisence primarily based on cognitive imagery will generally be m
 ### Results
 Young people seem to reminisce most often about relationships with other people rather than objects, places or events. 
 People reminisce about relatively recent events (<5 years) compared to longer ago. 
+#### When
+1. When alone
+2. When feeling down
+3. When both al
