@@ -107,3 +107,4 @@ The presence of personal goals is positively related to life satisfaction and pu
 >[!highlight]
 >If desires are not transformed into **firm intentions**, they will never be achieved and will give rise to regret, negative affects or various types of pathology.
 
+### Goal Planning
