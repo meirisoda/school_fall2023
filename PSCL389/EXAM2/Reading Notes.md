@@ -206,4 +206,5 @@ General PA predicted higher levels of meaning in life, and general NA predicted 
 
 Meaning in life is more strongly related to mood than to goal appraisals. 
 ### Study 2 
-10 observations in daily mood, goal activity and meaning in life (also have to take into accou)
+10 observations in daily mood, goal activity and meaning in life (also have to take into account dependencies).
+Daily meaning in life is related to 
