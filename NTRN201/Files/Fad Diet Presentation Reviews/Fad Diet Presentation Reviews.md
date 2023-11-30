@@ -1,7 +1,6 @@
 # Carnivore Diet
 ### What's involved with following this diet? 
-Diet is essentially the eating of meats or  animal products every meal while excluding  
-plant-based food
+Diet is essentially the eating of meats or animal products every meal while excluding plant-based food. Can be expanded to include poultry, animal fats and seafood. 
 ### Who is it for? 
 For people who want to lose weight. 
 ### Is it backed by scientific research? 
