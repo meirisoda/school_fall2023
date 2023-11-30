@@ -1,7 +1,7 @@
-# Cabbage Soup Diet
+# Carnivore Diet
 ### What's involved with following this diet? 
-You are allowed to eat 1–2 other low-calorie foods daily in addition to the soup. However, it is important not to make any other substitutions and to drink only water or other calorie-free beverages, such as unsweetened tea.
-Increasing and changing the food consumed with every passing day. 
+Diet is essentially the eating of meats or  animal products every meal while excluding  
+plant-based food
 ### Who is it for? 
 For people who want to lose weight. 
 ### Is it backed by scientific research? 
