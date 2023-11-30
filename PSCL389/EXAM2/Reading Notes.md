@@ -194,4 +194,6 @@ People in positive moods exert less cognitive effort when making judgements and 
 	내가 생각할때는 상태가 안좋은때 사람의 결정 능력이 많이 떨어지는 것 같은데
 	But I agree with the cognitive effort and load. 
 
-Thus most measures of "meaning in life" rely on **intuitive** notions of 
+Thus most measures of "meaning in life" rely on **intuitive** notions of what meaning means. 
+
+"Higher-level" measures of psychogical health (such as subjective )
