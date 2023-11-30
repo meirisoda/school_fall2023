@@ -4,8 +4,8 @@ Diet is essentially the eating of meats or animal products every meal while excl
 ### Who is it for? 
 For people who want to lose weight and lower blood sugar levels. 
 ### Is it backed by scientific research? 
-Not really. It may help lower blood sugar levels due to restricting the amount of 
+Not really. It may help lower blood sugar levels due to restricting the amount of carbs consumed. 
 ### Is it dangerous? 
 Yes, it can be dangerous because of nutritional imbalance, the high amount of sodium and fat and is not very diverse. 
 ### Would you recommend? 
-I would not recommend this diet because it is not sustainable long-term. I personally do not see any health benefits to discuss. It seems very dangerous and restrictive. 
+I would not recommend this diet because the supposed benefits: lowering blood sugar levels, weight loss, increased mental clarity, physical well0being 
