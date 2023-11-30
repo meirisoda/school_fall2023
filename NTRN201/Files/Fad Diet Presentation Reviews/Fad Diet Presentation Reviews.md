@@ -2,7 +2,7 @@
 ### What's involved with following this diet? 
 Diet involves limiting sugar, increasing vegetable intake, and limiting processed foods. You are not allowed to eat grains, dairy, processed food, refined sugar and added salt. 
 ### Who is it for? 
-For people who want to lose weight  in a quick and convenient way. 
+For people who want to reduce inflammation, prevent Crohn's disease, diabetes, obesity and indigestion. 
 ### Is it backed by scientific research? 
 Not at all. 
 ### Is it dangerous? 
