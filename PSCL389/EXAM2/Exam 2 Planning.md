@@ -1,7 +1,7 @@
 One stimulus - 2 topics 
 Surprise stimulus - 2 topics
 
-I think I want to write about either "he "
+I think I want to write about either "The Tire Iron and the Tamale" or "A Failure of Happiness"
 ### (1) **What is an emotion?** The parameters used to study emotion, and the component approach. 
 
 ### (2) **What causes emotions?** Major theories about how they unfurl.
