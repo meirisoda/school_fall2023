@@ -131,4 +131,5 @@ Progress towards goals will only enhance SWB if the goals are in harmony with fu
 - Tenacity, which is characterized by one's perserverence despite obstacles
 - Flexibility, which is the ability to adjust to situational constraitns. 
 	- Powerful predictor of SWB indicators
-	- helps to avoid serious problems with the goals are un
+	- Helps to avoid serious problems with the goals are unattainable. 
+- Self-regulation/managing one's health
