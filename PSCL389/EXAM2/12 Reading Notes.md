@@ -8,4 +8,4 @@
 3. Mechanism for coping with negative experience
 	1. Reminiscence can be a sign of deteriorating interest in the external world or an ineffective attempt to cope with present stress by escaping into the past
 	2. Other people argue t hat it is an adaptive coping response that provides comfort, reduces negative affect, and helps resolve problems and conflicts. 
-4. A means to an end of 
+4. A means to an end of obtaining closure on difficult events in one's life (development of the Gestalt reminiscene thera)
