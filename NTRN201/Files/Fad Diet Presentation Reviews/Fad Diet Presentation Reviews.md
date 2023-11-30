@@ -2,7 +2,7 @@
 ### What's involved with following this diet? 
 Diet is essentially the eating of meats or animal products every meal while excluding plant-based food. Can be expanded to include poultry, animal fats and seafood. 
 ### Who is it for? 
-For people who want to lose weight. 
+For people who want to lose weight and 
 ### Is it backed by scientific research? 
 No, because regardless of anecdotal evidence, the cabbage soup diet does not have any scientific evidence backing  up its claims.  
 Nor does cabbage or cabbage soup offer any extravagant fat-burning properties it's purported to have.
