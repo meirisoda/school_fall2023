@@ -187,4 +187,5 @@ After negative life events, finding meaning can help return to positive levels o
 >PA may become linked conceptually with the idea that life is meaningful. 
 
 People use their current mood as a source of information when making evaluative judgements. (Example: the effect of weather on mood and thus overall life satisfaction)
-People are prone t
+People are prone to use their mood as a **primary** source of information when making judgemnets about global life domains. 
+####
