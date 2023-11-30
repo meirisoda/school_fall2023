@@ -34,3 +34,4 @@ Stimulating reminisence primarily based on cognitive imagery will generally be m
 ### Hypotheses
 - Positive reminiscence would primarily serve as an adaptive function for young adults by helping them gain self-insight, solve problems, and generate positive affect. 
 - The more time young adults spend reminiscing about positive memories, the more capable they will feel of savoring their lives. 
+- People who use reminiscence to gain self-insight will
