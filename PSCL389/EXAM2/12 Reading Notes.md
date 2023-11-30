@@ -148,4 +148,5 @@ Have you:
 - Overcome certain obstacels?
 - Learned something
 - Refined some skills
-- Actualized some of your poten
+- Actualized some of your potential
+- And thus have faith in your future? 
