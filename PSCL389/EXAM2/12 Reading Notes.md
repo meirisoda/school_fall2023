@@ -116,4 +116,6 @@ Planning: mental exercise that prepares for action; includes activities that hel
 - identifying the required skills
 - forseeing obstacles and planning strategies to deal with them
 - seeking help if necessary
-Som
+
+Some things that are detrimental to SWB are resignation, hopelessness, feelings of incompetence in problem solving. 
+	뭔가 내가 할 수 없다는 거랑, 나의 미래에는 
