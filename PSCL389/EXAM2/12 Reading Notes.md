@@ -67,4 +67,5 @@ Women reported a greater capacity to savor positive outcomes than did men.
 ## Study 2
 ### Hypotheses and Limitations of Study 1
 Using results to draw inferences about cause and effect. 
-- Reminiscing about positive memories using either cognitive i
+- Reminiscing about positive memories using either cognitive imagery or memorabilia would increase the reported frequency of happiness relative to the control condition
+- Reminiscing about positive memories using cognitive imagery would produce a greater increase in the reported frequency of happ
