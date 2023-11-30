@@ -29,4 +29,4 @@ People who use specific strategies to stimulate or intensify recall of the past 
 > Enables people to obtain more affective benefits from reminiscence than simply reminiscing without using strategies
 
 Stimulating reminisence primarily based on cognitive imagery will generally be more effective than externally based imagery in generating affective and physiological states.
-	whi
+	which is very interesting because externalized cognition is quite effective at serving its purpose, but I guess in comparison to internalization, externalization is not as effective as it has a
