@@ -171,4 +171,6 @@ Different definitions:
 	4. Self-worth
 Dependent on interpersonal relationships, self-improvement and understanding and behaving in ways that are congruent with one's beliefs. 
 >[!highlight]
->Lives may be e
+>Lives may be experienced as meaning ful when they are felt to have significance beyond the trivial or momentary, to have purpose, or to have a coherence that transcends chaos. 
+
+## Cognitive Effects of a Positive Mood
