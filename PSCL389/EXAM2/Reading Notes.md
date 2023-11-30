@@ -200,3 +200,4 @@ Higher level measures of psychogical health (such as subjective well-being) have
 ## Daily Experience
 Meaning in life is not simply a global judgement made about a life as a whole, but potentially a quality of everyday existence. 
 ## Study Discussion
+Mood, positive emotional traits and global appraisal dimensions have significant relationships with meaning in life. 
