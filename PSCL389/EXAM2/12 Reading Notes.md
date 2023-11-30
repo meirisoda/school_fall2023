@@ -157,5 +157,6 @@ Also increased their orientation towards the future and developed hope and abili
 It is possible to teach individuals how to integrate and use the componenets/strategies involved in the different steps to achieve goal realization. 
 # King et al.
 There is a clear implication that meaning in life contributes to a happier life. 
+"Theory would suggest that meaning has a broad and pervasive influence on well-being" (Zika and Chamberlain, 1992).
 
 ## Meaning of Life
