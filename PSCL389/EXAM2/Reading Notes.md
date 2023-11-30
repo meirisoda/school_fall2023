@@ -184,4 +184,6 @@ However, the relationship between PA and meaning has largely been ignored becaus
 After negative life events, finding meaning can help return to positive levels of functioning. 
 >[!highlight]
 >Routine discovery of the meaning of life through negative life experiences can create strong associations in memory. 
->PA may becom
+>PA may become linked conceptually with the idea that life is meaningful. 
+
+People use their current mood as a source of information when making evaluat
