@@ -118,4 +118,4 @@ Planning: mental exercise that prepares for action; includes activities that hel
 - seeking help if necessary
 
 Some things that are detrimental to SWB are resignation, hopelessness, feelings of incompetence in problem solving. 
-	뭔가 내가 할 수 없다는 거랑, 나의 미래에는 희망이 없다; 난 지금 이 길에 너무 깊이 빠져있다는 감정들이 나 한테는 너무나 안좋은 것이다. 난 내가 할 수 있다는 것을 믿어
+	뭔가 내가 할 수 없다는 거랑, 나의 미래에는 희망이 없다; 난 지금 이 길에 너무 깊이 빠져있다는 감정들이 나 한테는 너무나 안좋은 것이다. 난 내가 할 수 있다는 것을 믿어야되고, 다만 믿지만 있지 말고, 해.내.야.한.다. 
