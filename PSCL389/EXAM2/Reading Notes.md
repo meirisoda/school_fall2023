@@ -200,5 +200,8 @@ Higher level measures of psychogical health (such as subjective well-being) have
 ## Daily Experience
 Meaning in life is not simply a global judgement made about a life as a whole, but potentially a quality of everyday existence. 
 ## Study Discussion
+### Study 1
 Mood, positive emotional traits and global appraisal dimensions have significant relationships with meaning in life. 
 General PA predicted higher levels of meaning in life, and general NA predicted lower levels. 
+
+Meaning in life is more strongly related to mood than to goal appraisals. 
