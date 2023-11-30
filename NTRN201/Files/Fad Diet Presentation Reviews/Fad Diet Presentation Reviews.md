@@ -10,4 +10,4 @@ Nor does cabbage or cabbage soup offer any extravagant fat-burning properties it
 ### Is it dangerous? 
 Yes, it can be dangerous due to the severely restrictive nature of the diet. 
 ### Would you recommend? 
-I would not recommend this diet because it is not sustainable long-term. I personally do not a
+I would not recommend this diet because it is not sustainable long-term. I personally do not see any health benefits to discuss. It seems very dangerous and restrictive. 
