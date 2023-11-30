@@ -56,3 +56,5 @@ Most people typically reminiscence when experiencing negative affect
 1. Gain new perspective and self-insight towards present problems
 2. Positive affect
 3. Escape from the present
+### Discussion
+While reminiscing about plea
