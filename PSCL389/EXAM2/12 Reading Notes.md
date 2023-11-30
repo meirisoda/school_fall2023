@@ -18,3 +18,5 @@ Mutual reminiscing (negative events as well as positive ones) do not have any ag
 Results suggest that older adults are more capable of extracting powerful positive feelings from mutual reminiscence than younger adults. 
 ## Assessment
 Study whether or not reminiscence serves the same functions for younger adults and whether these functions are positively or negatively associated with the perceived ability to enjoy life. 
+
+Assuming reminiscence is positive, 
