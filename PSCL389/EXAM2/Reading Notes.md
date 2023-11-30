@@ -186,4 +186,5 @@ After negative life events, finding meaning can help return to positive levels o
 >Routine discovery of the meaning of life through negative life experiences can create strong associations in memory. 
 >PA may become linked conceptually with the idea that life is meaningful. 
 
-People use their current mood as a source of information when making evaluat
+People use their current mood as a source of information when making evaluative judgements. (Example: the effect of weather on mood and thus overall life satisfaction)
+People are prone t
