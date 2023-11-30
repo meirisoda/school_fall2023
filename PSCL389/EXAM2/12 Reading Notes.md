@@ -62,3 +62,7 @@ While reminiscing about pleasant memories to escape present problems may be mala
 Cognitive imagery may allow one more freedom to acitvely embellish memory and to recall a wider range of details about the past event through free-association or active fantasy. 
 External imagery tends to restrict one solely to details of the past that are represented by that particular external object or environmental situation, making one less likely to recall other details, such as thoughts and feelings. 
 	This makes sense. 
+#### Sex Differences
+Women reported a greater capacity to savor positive outcomes than did men. 
+## Study 2
+
