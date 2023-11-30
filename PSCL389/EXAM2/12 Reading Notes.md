@@ -159,12 +159,13 @@ It is possible to teach individuals how to integrate and use the componenets/str
 There is a clear implication that meaning in life contributes to a happier life. 
 "Theory would suggest that meaning has a broad and pervasive influence on well-being" (Zika and Chamberlain, 1992).
 ## Meaning of Life
-Defined as a sense of one's life having a purpose or investing time and energy into the attainment of cherished goals.
-When the individual has a sense that one's life is coherent. 
-Occuring through personal accomplishments, encounters with others, or encounters with art and nature. 
-Can be attained by attaching oneself or one's existence to a larger framwork of meaning such as religion or a philosophy of life. 
-
-Fulfilling four psychological needs:
-1. Purpose
-2. Value
-3. Efficac
+Different definitions: 
+- Defined as a sense of one's life having a purpose or investing time and energy into the attainment of cherished goals.
+- When the individual has a sense that one's life is coherent. 
+- Occuring through personal accomplishments, encounters with others, or encounters with art and nature. 
+- Can be attained by attaching oneself or one's existence to a larger framwork of meaning such as religion or a philosophy of life. 
+- Fulfilling four psychological needs:
+	- 1Purpose
+1. Value
+2. Efficacy 
+3. Self-worth
