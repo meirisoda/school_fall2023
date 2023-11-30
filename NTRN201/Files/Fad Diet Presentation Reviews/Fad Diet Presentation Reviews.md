@@ -1,4 +1,4 @@
-# Paleo Diet
+# Intermittent Fasting
 ### What's involved with following this diet? 
 Diet involves limiting sugar, increasing vegetable intake, and limiting processed foods. You are not allowed to eat grains, dairy, processed food, refined sugar and added salt. 
 ### Who is it for? 
