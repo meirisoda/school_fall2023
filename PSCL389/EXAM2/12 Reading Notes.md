@@ -108,4 +108,7 @@ The presence of personal goals is positively related to life satisfaction and pu
 >If desires are not transformed into **firm intentions**, they will never be achieved and will give rise to regret, negative affects or various types of pathology.
 
 ### Goal Planning
-Planning: mental exercise that prepares for action,
+Planning: mental exercise that prepares for action; includes activities that help to achieve the selected goal: 
+- exploring possibilities
+- looking for ways to achieve it
+- defi
