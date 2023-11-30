@@ -5,7 +5,8 @@ Increasing and changing the food consumed with every passing day.
 ### Who is it for? 
 For people who want to lose weight. 
 ### Is it backed by scientific research? 
-Scientific research supporting this diet are mostly focused around ketosis. There is some evidence that fat may be oxidized, thus losing fat, but again, this evidence and results are not exclusive to the low carb diet. 
+No, because regardless of anecdotal evidence, the cabbage soup diet does not have any scientific evidence backing  up its claims.  
+Nor does cabbage or cabbage soup offer any extravagant fat-burning properties it's purported to have.
 ### Is it dangerous? 
 May cause some neurological and cognitive symptoms due to lack of energy stores able to be used by the brain. 
 ### Would you recommend? 
