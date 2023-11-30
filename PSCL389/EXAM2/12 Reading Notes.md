@@ -174,4 +174,4 @@ Dependent on interpersonal relationships, self-improvement and understanding and
 >Lives may be experienced as meaning ful when they are felt to have significance beyond the trivial or momentary, to have purpose, or to have a coherence that transcends chaos. 
 
 ## Cognitive Effects of PA
-PA may 
+PA may facilitate the discovery or construction of meaning. 
