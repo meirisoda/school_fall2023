@@ -1,11 +1,9 @@
 # Cabbage Soup Diet
 ### What's involved with following this diet? 
-Restrict carbohydrate intake and emphasizes high protein and high fat foods. 
-There are different variations but typically follow either:
-Flexible - 100-150g/day
-Moderate: 50-100g/day
-Strict: 0-50g/day
-Focus on high quality carbs even if you eat it. Limit grains, starchy, vegetables and fruit. 
+You are allowed to eat 1–2 other low-calorie foods daily in addition to the soup. However, it is
+important not to make any other substitutions and to drink only water or other calorie-free
+beverages, such as unsweetened tea.
+Increasing a
 ### Who is it for? 
 For people who want to lose weight, and improve specific health markers. Not recommended for pregant individuals and athletes. 
 ### Is it backed by scientific research? 
