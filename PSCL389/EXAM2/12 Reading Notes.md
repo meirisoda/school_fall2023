@@ -78,3 +78,5 @@ Does vividenss of recall mediate the creater increase in frequency of happiness 
 Vividness of recalled memories does affect the greater impact of cognitive imagery, but not the amount of recalled detail. 
 # Dube et al. 
 Help participants set, plan and pursue personal goals through a learning process based on literature on goal intervention. 
+
+Educational and preventative interventions that provide opportunities, not just to improve quality of life and actualize potential, but to also identify coping strategies to deal with typical problems
