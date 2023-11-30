@@ -124,3 +124,4 @@ Some things that are detrimental to SWB are resignation, hopelessness, feelings 
 Good planning is associated with a state of cognitive, emotional and behavioural readiness. 
 ### Goal Pursuit
 Optimal experience (flow). 
+Personal and environmental resources, social support a
