@@ -8,4 +8,4 @@ Has some scientific evidence backing it (ie. instances of reduced mortality rate
 ### Is it dangerous? 
 It may have some negative effects on health. Due to restriction of carbohydrates, it may decrease the amount of energy. Also will have some nutritional imbalances in 
 ### Would you recommend? 
-I would not recommend this diet because it is not sustainable, and also has negative effects on relationship with food and bodily health. The weight loss achieved with this diet is typically very short-term. 
+I would not recommend this diet becaue it seems a little unsustainable. It isn't realistic for most people. 
