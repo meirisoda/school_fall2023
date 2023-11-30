@@ -87,7 +87,10 @@ Focused on the developing of attitudes and abilites to find personal projects th
 
 ## Subjective Well-Being (SWB)
 Multidimentional and looked with both positive and negative as well as cogniftive and affective variables. 
-Markers chosen are :
+
+Markers chosen are:
 - happiness (short-term)
 - Psychological well-being indicators (personal growth, self-acceptance, positive relationships with others, environmental mastery, purpose in life, autonomy)
 - distress
+## Personal Goals and SWB
+### Goal Setting
