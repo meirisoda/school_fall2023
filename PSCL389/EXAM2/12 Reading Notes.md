@@ -13,4 +13,6 @@
 Adjustment remains a relevant construct across the lifespan (hence why reminiscence is not necessarily limited to older adults).
 #### Mutual/Social Reminiscence
 Social reminiscing was an effective emotion regulation strategy in enhancing positive emotions --> Increased with age. 
-Mutual reminiscing (negati)
+Mutual reminiscing (negative events as well as positive ones) do not have any age-dependent results. 
+
+Results suggest that older adults are more capable of extracting po
