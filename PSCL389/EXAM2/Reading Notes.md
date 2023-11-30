@@ -226,4 +226,5 @@ Content dependent.
 **Eudaimonism**
 - Emerges from activities that are expressions of one's **essential self**. 
 - Fulfillment via actualization of one's potential. 
-###
+### Top-Down Model
+PA leads to a global focus, broadened mindset and a capacity to make unusual and creative connections between elements. 
