@@ -180,4 +180,4 @@ PA typically encourages a global rather than a local focus, suggesting that posi
 ### Mood as Information and Input
 Mood may provide some insight to one's experience and interpretation of their meaning of life. Positive mood indicates that one is making satisfactory progress towards one's goals. 
 #### Search for Meaning
-However, the relationship between PA and meaning has largely been ignored because meaning of life is usually searched forr
+However, the relationship between PA and meaning has largely been ignored because meaning of life is usually searched for when circumstances lead individuals to question the meaningfulness of existence and thus, search for meaning. 
