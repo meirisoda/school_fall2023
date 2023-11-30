@@ -49,4 +49,6 @@ People reminisce about relatively recent events (<5 years) compared to longer ag
 #### When
 1. When alone
 2. When feeling down
-3. When both al
+3. When both alone and feeling down
+Most people typically reminiscence when experiencing negative affect 
+--> supports the notion that 
