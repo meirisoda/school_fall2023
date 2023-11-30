@@ -19,4 +19,6 @@ Results suggest that older adults are more capable of extracting powerful positi
 ## Assessment
 Study whether or not reminiscence serves the same functions for younger adults and whether these functions are positively or negatively associated with the perceived ability to enjoy life. 
 
-Assuming reminiscence is positive Seems likely that individuals who used reminiscence either to gain self
+Assuming reminiscence is positive, seems likely that individuals who used reminiscence either to gain self
+### Techniques
+Clinical interventions aimed at teaching older adults to stimulate the pe
