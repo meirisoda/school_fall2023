@@ -103,4 +103,4 @@ Goal can affect:
 - behavioural self-regulation
 - personality functioning
 
-The presence of personal goals is pos
+The presence of personal goals is positively related to life satisfaction and purpose in life; extremely beneficial for one's mental health. 
