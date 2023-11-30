@@ -128,5 +128,7 @@ Personal and environmental resources, social support and life events have a posi
 
 Progress towards goals will only enhance SWB if the goals are in harmony with fundamental psychological needs; ie. only beneficial if the goal-directed initiated is taken for intrinsic reasons. 
 #### Strategies for regulation
-1. Tenacity, which is characterized by one's perserverence despite obstacles
-2. Flexibility, which is the ability to adjust
+- Tenacity, which is characterized by one's perserverence despite obstacles
+- Flexibility, which is the ability to adjust to situational constraitns. 
+	- Powerful predictor of SWB indicators
+	- helps to avoid serious problems with the goals are un
