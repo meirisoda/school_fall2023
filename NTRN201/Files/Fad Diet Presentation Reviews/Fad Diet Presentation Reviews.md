@@ -4,7 +4,7 @@ Diet involves eating only during certain windows of time during the day.
 ### Who is it for? 
 For people who want to take control of their eating habits and also lose weight. 
 ### Is it backed by scientific research? 
-Has some scientific evidence backing it (ie. instances of reduced mortality rates from colon cancer and heart problems; improvements in insulin sensitivity and glucose tolerance). 
+There is some evidence saying that intermittent fasting can boost thinking and memory, improve blood pre
 ### Is it dangerous? 
 It may have some negative effects on health. Due to restriction of carbohydrates, it may decrease the amount of energy. Also will have some nutritional imbalances in 
 ### Would you recommend? 
