@@ -1,6 +1,6 @@
-# One Food/Mono Diet
+# Paleo Diet
 ### What's involved with following this diet? 
-Diet includes eating only one food item or group for all meals of the day. 
+Diet involves limiting sugar
 ### Who is it for? 
 For people who want to lose weight  in a quick and convenient way. 
 ### Is it backed by scientific research? 
