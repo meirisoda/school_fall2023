@@ -124,4 +124,6 @@ Some things that are detrimental to SWB are resignation, hopelessness, feelings 
 Good planning is associated with a state of cognitive, emotional and behavioural readiness. 
 ### Goal Pursuit
 Optimal experience (flow). 
-Personal and environmental resources, social support a
+Personal and environmental resources, social support and life events have a positive effect on SWB only if these variablese facilitate progress towards the goal. 
+
+Progress towards goals may not be beneficia
