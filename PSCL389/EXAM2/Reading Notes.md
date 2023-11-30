@@ -236,3 +236,4 @@ Broadened mind may include higher level schemas that serve as chronic sources of
 ### NA Effect
 NA is associated with lowered levels of meaning in life, but experiments don't actually show that. 
 # Layous et al. 
+Savoring is a type of emotional regulation in which people recognize and amplify the impact of positive events on positive mo
