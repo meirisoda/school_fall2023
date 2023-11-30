@@ -25,4 +25,6 @@ Clinical interventions aimed at teaching older adults to stimulate the process o
 Combining journal writing with reminiscence enhanced well-being in older adults (which also enhanced the experience of reminiscence itself).
 
 People who use specific strategies to stimulate or intensify recall of the past may be better able to reminisce in a vivid, engaging way than people who lack specific strategies for intensifying recall. 
-[]
+> [!highlight]
+> Enables people to obtain more affective benefits from reminiscence than simply reminiscing without using strategies
+
