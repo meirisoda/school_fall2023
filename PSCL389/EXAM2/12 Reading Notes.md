@@ -126,4 +126,4 @@ Good planning is associated with a state of cognitive, emotional and behavioural
 Optimal experience (flow). 
 Personal and environmental resources, social support and life events have a positive effect on SWB only if these variablese facilitate progress towards the goal. 
 
-Progress towards goals may not be beneficia
+Progress towards goals will only enhance SWB if the goals are in harmony with fundamental psychological needs; ie. only beneficial if the goal-directed init
