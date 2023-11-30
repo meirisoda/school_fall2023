@@ -178,4 +178,5 @@ PA may facilitate the discovery or construction of meaning.
 People experiencing positive emotions are also more open to processing new types of information and have greater cognitive flexibility. 
 PA typically encourages a global rather than a local focus, suggesting that positive emotions help to broaden the scope of attention. 
 ## Mood as Information and Input
-Mood may provide some insight as 
+Mood may provide some insight to one's experience and interpretation of their meaning of life. 
+Positive mood indicates that one is making satisfactory progress toward'
