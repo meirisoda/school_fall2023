@@ -154,4 +154,4 @@ Have you:
 Personal goal management program was effective in improving the participants' ability to realize their goals by learning how to set, plan, and pursue their retirement projects.
 Also increased their orientation towards the future and developed hope and ability to identify various ways to achieve their goals. 
 
-It is possible to teach individuals how to integrate and use the componenets/strategies involved in the different steps to o
+It is possible to teach individuals how to integrate and use the componenets/strategies involved in the different steps to achieve goal realization. 
