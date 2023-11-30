@@ -231,4 +231,5 @@ PA leads to a global focus, broadened mindset and a capacity to make unusual and
 Speculation, PA leads to an individual's personal meaning systems (thought to be fairly high in a hierarchy of motivation) to become available, allowing the person to experience the relevance of their personal meaning systems to current life experience. 
 
 PA facilitates top-down cognitive processing strategies and the use of general knowledge structures to help individuals make inferences beyond their external circumstances. 
-Broade
+Broadened mind may include higher level schemas that serve as chronic sources of meaning. 
+## E
