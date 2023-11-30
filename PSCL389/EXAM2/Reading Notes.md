@@ -198,4 +198,5 @@ Thus most measures of "meaning in life" rely on **intuitive** notions of what me
 
 Higher level measures of psychogical health (such as subjective well-being) have already been extensively studied, however, lower level not as much. 
 ## Daily Experience
-Meaning in life is not simply a global judgement made about a life as a whole, 
+Meaning in life is not simply a global judgement made about a life as a whole, but potentially a quality of everyday existence. 
+## Study Discussion
