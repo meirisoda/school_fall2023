@@ -232,5 +232,4 @@ Speculation, PA leads to an individual's personal meaning systems (thought to be
 
 PA facilitates top-down cognitive processing strategies and the use of general knowledge structures to help individuals make inferences beyond their external circumstances. 
 Broadened mind may include higher level schemas that serve as chronic sources of meaning. 
-## Experience of Meaning vs Search 
-The experience of meaning does not implicate the domain of m
+## NA Eff
