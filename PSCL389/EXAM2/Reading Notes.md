@@ -219,5 +219,6 @@ PA (concept and feeling) enhances the feeling that life is meaningful.
 ### Study 6
 PA was associated with discriminative responding such as those in a good mood found a meaningful task meaningful but found a meaningless task meaningless. 
 Content dependent. 
-## Hedonism?
-Must partition pleasure away from the meaning of life ()
+## Hedonism vs Eudaimonism
+Must partition pleasure away from the meaning of life (do not associate the two).
+Hedo
