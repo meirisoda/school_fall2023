@@ -143,4 +143,9 @@ Success may not always generate happiness; why?
 - Ambition to do better is still present
 - Achievement left a void
 #### Things Gained
-Regardless of if the goal was obtained, the overall 
+Regardless of if the goal was obtained, the overall process is always evaluated. 
+Have you: 
+- Overcome certain obstacels?
+- Learned something
+- Refined some skills
+- Actualized some of your poten
