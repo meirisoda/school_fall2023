@@ -151,4 +151,5 @@ Have you:
 - Actualized some of your potential
 - And thus have faith in your future? 
 ## Study Discussion
-
+Personal goal management program was effective in improving the participants' ability to realize their goals by learning how to set, plan, and pursue their retirement projects.
+Also increased their orie
