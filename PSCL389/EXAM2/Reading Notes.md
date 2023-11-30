@@ -173,10 +173,11 @@ Dependent on interpersonal relationships, self-improvement and understanding and
 >[!highlight]
 >Lives may be experienced as meaning ful when they are felt to have significance beyond the trivial or momentary, to have purpose, or to have a coherence that transcends chaos. 
 
-## Cognitive Effects of PA
+### Cognitive Effects of PA
 PA may facilitate the discovery or construction of meaning. 
 People experiencing positive emotions are also more open to processing new types of information and have greater cognitive flexibility. 
 PA typically encourages a global rather than a local focus, suggesting that positive emotions help to broaden the scope of attention. 
-## Mood as Information and Input
+### Mood as Information and Input
 Mood may provide some insight to one's experience and interpretation of their meaning of life. Positive mood indicates that one is making satisfactory progress towards one's goals. 
-### Search for Meaning
+#### Search for Meaning
+However, 
