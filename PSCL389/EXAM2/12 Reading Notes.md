@@ -44,4 +44,5 @@ Stimulating reminisence primarily based on cognitive imagery will generally be m
 	- Based on work in guided imagery. 
 - Women will report spending more time reminiscing about positive memories and having a greater capacity to savor positive experience; will be more likely to use reminiscence to gain constructive self-insight and are less likely to use reminiscence to escape from the present. 
 ### Results
-Young people seem to reminisce most often about relationships with other people rather than objects, 
+Young people seem to reminisce most often about relationships with other people rather than objects, places or events. 
+People reminisce about relatively recent events (<5 years) compared to longer ago. 
