@@ -4,7 +4,7 @@ Diet involves limiting sugar, increasing vegetable intake, and limiting processe
 ### Who is it for? 
 For people who want to reduce inflammation, prevent Crohn's disease, diabetes, obesity and indigestion. 
 ### Is it backed by scientific research? 
-Not at all. 
+Has some scientific evidence backing it (ie. instances of reduced mortality rates from colon cancer and heart problems; improvements in insulin sensiti)
 ### Is it dangerous? 
 Yes, it can be dangerous because of it is very restrictive and may promote an unhealthy relationship with food and trigger developments of unhealthy habits. It can also cause a loss of muscle mass and have potential for nutrient toxities (due to restrictions to only one food.)
 ### Would you recommend? 
