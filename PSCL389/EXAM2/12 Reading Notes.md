@@ -94,3 +94,5 @@ Markers chosen are:
 - distress
 ## Personal Goals and SWB
 ### Goal Setting
+Personal goals are based off of self-conceptions and fundamental psychological needs (also cannot ignore the broader sociocultural context)
+	사람따라 다느
