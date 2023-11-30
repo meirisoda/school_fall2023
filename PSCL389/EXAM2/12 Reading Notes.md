@@ -57,4 +57,6 @@ Most people typically reminiscence when experiencing negative affect
 2. Positive affect
 3. Escape from the present
 ### Discussion
-While reminiscing about pleasant memories to escape present problems may be maladaptive because it makes one's current situation seem even worse in contrast to the more pleasant past; reminiscing to gain motivation, perspective, or self-insight may be more adaptive because it provides something constructive that one can b
+While reminiscing about pleasant memories to escape present problems may be maladaptive because it makes one's current situation seem even worse in contrast to the more pleasant past; reminiscing to gain motivation, perspective, or self-insight may be more adaptive because it provides something constructive that one can bring back to the present to help solve ongoing problems. 
+
+Cogniti
