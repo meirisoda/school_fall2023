@@ -137,4 +137,8 @@ Progress towards goals will only enhance SWB if the goals are in harmony with fu
 ### Discussion
 People who achieve their golas have positive self-assessment and high feelings of personal efficacy, which in turn affects their self-image and esteem --> feedback loop. 
 
-Success may not always genera
+Success may not always generate happiness; why?
+- Achieving the goal drained too much energy
+- Value of the goal declined
+- Ambition to do better is still present
+- Achievement left a v
