@@ -73,4 +73,4 @@ Using results to draw inferences about cause and effect.
 Both forms of reminiscence increased the frequency of happiness over the weeklong study, whereas the control treatment did not. 
 People who used cognitive imagery reported a greater increase in happiness than externalized imagery. 
 #### Vividness and Detail in Memories
-Does vividenss of recall mediate the
+Does vividenss of recall mediate the creater increase in frequency of happiness found in the cognitive imagery group relative to the memorabilia group? 
