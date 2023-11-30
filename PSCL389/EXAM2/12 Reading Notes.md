@@ -41,4 +41,5 @@ Stimulating reminisence primarily based on cognitive imagery will generally be m
 - Having a personal strategy for intensifying recall will be associated with a greater perceived capacity to savor positive outcomes, relative to having no strategy. 
 	- Based off adaptive function
 - Relying on mental imagery to intensify recall is associated with greater perceived savoring capacity than relying primarily on behavioral strategies to intensify recall. 
-	- Based
+	- Based on work in guided imagery. 
+- Women will report spending more time reminiscing about positive memories and having a greater capacity to savor positive experience
