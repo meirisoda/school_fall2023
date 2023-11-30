@@ -115,6 +115,7 @@ Planning: mental exercise that prepares for action; includes activities that hel
 - identifying circumstances related to initiating action
 - identifying the required skills
 - forseeing obstacles and planning strategies to deal with them
+	- "Defensive pessimism" (imagining the worst)
 - seeking help if necessary
 
 Some things that are detrimental to SWB are resignation, hopelessness, feelings of incompetence in problem solving. 
