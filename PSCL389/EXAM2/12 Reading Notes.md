@@ -16,3 +16,5 @@ Social reminiscing was an effective emotion regulation strategy in enhancing pos
 Mutual reminiscing (negative events as well as positive ones) do not have any age-dependent results. 
 
 Results suggest that older adults are more capable of extracting powerful positive feelings from mutual reminiscence than younger adults. 
+## Assessment
+Study whether or not remini
