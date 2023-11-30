@@ -111,4 +111,7 @@ The presence of personal goals is positively related to life satisfaction and pu
 Planning: mental exercise that prepares for action; includes activities that help to achieve the selected goal: 
 - exploring possibilities
 - looking for ways to achieve it
-- defi
+- defining steps
+- identifying circumstances related to initiating action
+- identifying the required skills
+- forseeing obst
