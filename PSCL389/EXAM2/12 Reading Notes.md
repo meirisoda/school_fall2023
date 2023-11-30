@@ -32,4 +32,4 @@ Stimulating reminisence primarily based on cognitive imagery will generally be m
 	which is very interesting because externalized cognition is quite effective at serving its purpose, but I guess in comparison to internalization, externalization is not as effective as it has a dependency. 
 ## Study 1
 ### Hypotheses
-
+Positive reminiscence would primarily serve as an adaptive function for young adults by helping them gain self-insight, solve problems, and generate positive affect. 
