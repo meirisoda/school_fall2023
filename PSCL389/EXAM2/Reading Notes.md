@@ -242,4 +242,6 @@ Savoring is a type of emotional regulation in which people recognize and amplify
 These interventions are designed to encourage people's awareness of and receptivity to positive events. 
 ### Temporal Scarcity
 When a resource is limited, the value of it increases. 
-Example: students graduating soon
+Example: students graduating soon engage in relatively more college-oriented behaviors in their remaining time and reported relatively higher levels of happiness. 
+	씨발 나 아니야
+A moreg
