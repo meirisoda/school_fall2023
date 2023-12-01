@@ -1,5 +1,7 @@
 Research the objective and browse the Workgroup and other related objectives
 
+https://health.gov/healthypeople/objectives-and-data/browse-objectives/emergency-preparedness/increase-proportion-people-who-donate-blood-bdbs-d01
+
 Select an article from a professional journal published within the last 5 years that focuses on an intervention or strategy related to the assigned topic/objective
 
 Write a 2-3 page essay (double-spaced pages) addressing the following:
