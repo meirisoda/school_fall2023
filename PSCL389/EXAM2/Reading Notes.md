@@ -247,4 +247,6 @@ Example: students graduating soon engage in relatively more college-oriented beh
 ### Need Satisfaction
 Inducing time scarcity will enhance well-being in part due to an increase in individual's receptivity to the positive aspects of one's surroundings. 
 #### Hypothesis
-An individual's increased receptivity will in turn facilitate psycholo
+An individual's increased receptivity will in turn facilitate psychological need satisfaction, which will drive changes in well-being. 
+#### Self-Determination Theory
+People have three fundamental psychological needs that promote optimal motivation, develo
