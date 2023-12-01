@@ -238,3 +238,4 @@ NA is associated with lowered levels of meaning in life, but experiments don't a
 # Layous et al. 
 Savoring is a type of emotional regulation in which people recognize and amplify the impact of positive events on positive emotions by responding in cognitively and behaviorally receptive ways. 
 These interventions are designed to encourage people's awareness of and receptivity to positive events. 
+## Temporal Scarcity
