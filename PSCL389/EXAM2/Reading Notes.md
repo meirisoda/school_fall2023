@@ -245,4 +245,6 @@ When a resource is limited, the value of it increases.
 Example: students graduating soon engage in relatively more college-oriented behaviors in their remaining time and reported relatively higher levels of happiness. 
 	씨발 나 아니야
 ### Need Satisfaction
-Inducing time scarcity will enhance well-being in part due to an increase in individual's receptivity to the 
+Inducing time scarcity will enhance well-being in part due to an increase in individual's receptivity to the positive aspects of one's surroundings. 
+#### Hypothesis
+An individual's increased receptivity will in turn facilitate psycholo
