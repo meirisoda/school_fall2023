@@ -244,4 +244,4 @@ These interventions are designed to encourage people's awareness of and receptiv
 When a resource is limited, the value of it increases. 
 Example: students graduating soon engage in relatively more college-oriented behaviors in their remaining time and reported relatively higher levels of happiness. 
 	씨발 나 아니야
-A moreg
+A more general and broadly applicable strategy: asking people to assume that time is scarce in a given location will show the same effects 
