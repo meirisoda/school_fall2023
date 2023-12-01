@@ -1,7 +1,7 @@
 Research the objective and browse the Workgroup and other related objectives
 
 
-<iframe src="https://health.gov/healthypeople/objectives-and-data/browse-objectives/emergency-preparedness/increase-proportion-people-who-donate-blood-bdbs-d01" style="width: 100%;"></iframe>
+<iframe src="https://health.gov/healthypeople/objectives-and-data/browse-objectives/emergency-preparedness/increase-proportion-people-who-donate-blood-bdbs-d01" style="width: 100%; height: 400px;"></iframe>
 
 Select an article from a professional journal published within the last 5 years that focuses on an intervention or strategy related to the assigned topic/objective
 
