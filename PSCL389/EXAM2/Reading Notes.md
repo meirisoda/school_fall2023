@@ -253,3 +253,4 @@ People have three fundamental psychological needs that promote optimal motivatio
 1. Autonomy (feeling in control of one's own actions)
 2. Competence (feeling skilled and effective)
 3. Connectedness (feeling close and connected to others)
+Each of these needs provide positive loops to the other factors. 
