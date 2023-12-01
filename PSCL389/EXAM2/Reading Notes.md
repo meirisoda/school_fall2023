@@ -249,4 +249,7 @@ Inducing time scarcity will enhance well-being in part due to an increase in ind
 #### Hypothesis
 An individual's increased receptivity will in turn facilitate psychological need satisfaction, which will drive changes in well-being. 
 #### Self-Determination Theory
-People have three fundamental psychological needs that promote optimal motivation, develo
+People have three fundamental psychological needs that promote optimal motivation, development, and well being: 
+1. Autonomy (feeling in control of one's own actions)
+2. Competence (feeling skilled and effective)
+3. Connectedness (fee)
