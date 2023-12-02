@@ -284,3 +284,4 @@ Goals pursued only because of external pushes or sanctiones characterized by anx
 
 Self-concordant goals do not necessarily feel good. 
 ### Attainment to Well-Being Procecss
+Carver and Scheier proposed that a metalmonito
