@@ -275,4 +275,4 @@ The **phenomenal self**, an emergent and more-or-less stable mental construction
 >[!highlight]
 >Cannot be realized if the goal is not representative of the actual interests and values of their evolving self-system. 
 
-d
+Goals are said to be self-concordant when they are pursued because of either intrinsic or idneitfied motivation - the
