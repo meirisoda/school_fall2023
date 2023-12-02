@@ -279,4 +279,4 @@ Goals are said to be self-concordant when they are pursued because of either int
 ![[Pasted image 20231201202214.png]]
 Self-concordant goals are likely to receive sustained effort over time. 
 
-Goals pursued only because of external pushes or sanctiones characterized by anxiety and guilt are said to emerge from a **nonin**
+Goals pursued only because of external pushes or sanctiones characterized by anxiety and guilt are said to emerge from a **nonintegrated** region of the person. 
