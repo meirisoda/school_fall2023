@@ -268,4 +268,4 @@ Following through with goals.
 Human capacity to set and pursue personal agendas is referred to as conation. 
 Involve the proactive efforts of individuals to attain outcomes and thus meet their needs and can be conceptually distinguished from cognitive and affective processes. 
 
-Addresses the entire temporal sequence from from goal adoption to goal attainment; also models the effects of attain
+Addresses the entire temporal sequence from from goal adoption to goal attainment; also models the effects of attainment on need satisfaction and well-being. 
