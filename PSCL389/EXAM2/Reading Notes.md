@@ -292,3 +292,4 @@ Failing to attain selfconcordant goals experienced a decrement in well-being.
 Concept of need satisfaction dependent on the degree to which these three differnet qualities of experience accompanied free-listed, time-consuming daily activities. 
 Competence, autonomy and relatedness over time leades to an increase in longitudinal well-being. 
 Again, all three of these things are linked to eachother and provide positive feedback loops for each thing. 
+## St
