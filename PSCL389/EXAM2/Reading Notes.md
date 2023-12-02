@@ -287,4 +287,4 @@ Self-concordant goals do not necessarily feel good.
 Carver and Scheier proposed that a metalmonitoring system tracks the rate of progress towards goals, outputting positive affect when progress exceeds the expected rate or standard of the system. 
 Noncorcordant goals do not satisfy important psychological needs. 
 Selfconcordant goals satisfy important psychological needs. 
-Failing 
+Failing to attain selfconcordant goals experienced a decrement in well-being. 
