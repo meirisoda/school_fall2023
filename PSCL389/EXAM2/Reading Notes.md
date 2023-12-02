@@ -283,4 +283,4 @@ Goals pursued only because of external pushes or sanctiones characterized by anx
 **Controlledness**, in that the person pursuing them may feel himself or herself to be in the grip of forces to which he or she does not give full assent. 
 
 Self-concordant goals do not necessarily feel good. 
-### Attainment-to-Well-Bein
+### Attainment to Well-Being Procecss
