@@ -294,4 +294,4 @@ Competence, autonomy and relatedness over time leades to an increase in longitud
 Again, all three of these things are linked to eachother and provide positive feedback loops for each thing. 
 ## Discussion
 Horizontal time dimension and the potential for causal modeling supplied by the analysis of change is very important.
-Psychological need satisfaction is lar
+Psychological need satisfaction is largely a matter of being fully engaged and involved in one's daily life, thereby deriving and enjoing many positive experiences; personal-goal pursuit is one important way of creating such involvement. 
