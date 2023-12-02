@@ -258,3 +258,4 @@ Each of these needs provide positive loops to the other factors.
 When people distractedly move through their days, they may feel forced or trapped in their current situation, ineffective in managing daily tasks and unfulfilled by their relationships. 
 ## Study Results and Discussion
 Students prompted to savor the next 30 days showed steeper gains in well-being over time than students in the control group. 
+Thinking about time scarcity is a counterintuitive way of increasing happiness because it involves the contemplation of an upcoming 
