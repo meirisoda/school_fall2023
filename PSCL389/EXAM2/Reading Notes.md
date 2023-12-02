@@ -280,4 +280,4 @@ Goals are said to be self-concordant when they are pursued because of either int
 Self-concordant goals are likely to receive sustained effort over time. 
 #### Nonintegration
 Goals pursued only because of external pushes or sanctiones characterized by anxiety and guilt are said to emerge from a **nonintegrated** region of the person. 
-**Controlledness**, in that 
+**Controlledness**, in that the person pursuing them may feel himself or herself to be in the grip of forces to which he or she does not give full assent. 
