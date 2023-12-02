@@ -274,9 +274,10 @@ Define self: the integrated center to agentic activity.
 The **phenomenal self**, an emergent and more-or-less stable mental construction, has the potential to take control of the biocognitive machinery in such a way as to maximize organismic need satsifaction. 
 >[!highlight]
 >Cannot be realized if the goal is not representative of the actual interests and values of their evolving self-system. 
-###
+#### Integration
 Goals are said to be self-concordant when they are pursued because of either intrinsic or idneitfied motivation - they become integrated into the self. 
 ![[Pasted image 20231201202214.png]]
 Self-concordant goals are likely to receive sustained effort over time. 
-
+#### Nonintegration
 Goals pursued only because of external pushes or sanctiones characterized by anxiety and guilt are said to emerge from a **nonintegrated** region of the person. 
+**Controlledness**, in that 
