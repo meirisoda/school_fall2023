@@ -272,4 +272,7 @@ Addresses the entire temporal sequence from from goal adoption to goal attainmen
 ### Inception to Attainment Process
 Define self: the integrated center to agentic activity. 
 The **phenomenal self**, an emergent and more-or-less stable mental construction, has the potential to take control of the biocognitive machinery in such a way as to maximize organismic need satsifaction. 
-Cannot be realized if th
+>[!highlight]
+>Cannot be realized if the goal is not representative of the actual interests and values of their evolving self-system. 
+
+d
