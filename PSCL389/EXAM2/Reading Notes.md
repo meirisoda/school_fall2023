@@ -265,4 +265,5 @@ Following through with goals.
 **Conative Process**: the motivational sequene that begins at goal inception, contintuous through the period in which goals are pursued and either attained or abandoned, and has important ramifications for individuals' happiness and further motivation. 
 	나 한테 좀 중요한 단어다 
 ## Self-Concordance Model
-Human capacity to set and pursue personal agendas is referred to as cona
+Human capacity to set and pursue personal agendas is referred to as conation. 
+Involve the proactive efforts of individuals to attain outcomes and thus meet their needs and can be conceptually distinguished from cognitive and affective 
