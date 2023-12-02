@@ -260,4 +260,5 @@ When people distractedly move through their days, they may feel forced or trappe
 Students prompted to savor the next 30 days showed steeper gains in well-being over time than students in the control group. 
 Thinking about time scarcity is a counterintuitive way of increasing happiness because it involves the contemplation of an upcoming loss. 
 - People tend to think about how much it is going to make them feel sad because they fixate on the impending loss. 
-# S
+# Sheldon et al. 
+Following through with goals. 
