@@ -263,4 +263,4 @@ Thinking about time scarcity is a counterintuitive way of increasing happiness b
 # Sheldon et al. 
 Following through with goals. 
 **Conative Process**: the motivational sequene that begins at goal inception, contintuous through the period in which goals are pursued and either attained or abandoned, and has important ramifications for individuals' happiness and further motivation. 
-	나 한테 좀 중용ㄹ
+	나 한테 좀 중요한 단어다 
