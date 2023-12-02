@@ -262,3 +262,4 @@ Thinking about time scarcity is a counterintuitive way of increasing happiness b
 - People tend to think about how much it is going to make them feel sad because they fixate on the impending loss. 
 # Sheldon et al. 
 Following through with goals. 
+**Conative Process**: the motivational sequene that begins 
