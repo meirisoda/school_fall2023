@@ -293,4 +293,5 @@ Concept of need satisfaction dependent on the degree to which these three differ
 Competence, autonomy and relatedness over time leades to an increase in longitudinal well-being. 
 Again, all three of these things are linked to eachother and provide positive feedback loops for each thing. 
 ## Discussion
-Horizontal time dimension and the potential for causal modeling supplied by the analysis of change is very important
+Horizontal time dimension and the potential for causal modeling supplied by the analysis of change is very important.
+Psychological need satisfaction is lar
