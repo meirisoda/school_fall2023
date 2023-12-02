@@ -297,4 +297,5 @@ Horizontal time dimension and the potential for causal modeling supplied by the 
 Psychological need satisfaction is largely a matter of being fully engaged and involved in one's daily life, thereby deriving and enjoing many positive experiences; personal-goal pursuit is one important way of creating such involvement. 
 
 The self-concordance model makes little assumptions of the nature of need satisfaction and about the effects of need satisfaction on well-being. 
-It builds from and complements self-determination theory --> addresses individuals' proactive and self-generated initatives for life-improvement and self-expansion.
+It builds from and complements self-determination theory --> addresses individuals' proactive and self-generated initatives for life-improvement and self-expansion, not just their responses to situational or domain specific forces.
+
