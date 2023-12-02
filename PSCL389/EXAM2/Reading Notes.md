@@ -289,4 +289,5 @@ Noncorcordant goals do not satisfy important psychological needs.
 Selfconcordant goals satisfy important psychological needs. 
 Failing to attain selfconcordant goals experienced a decrement in well-being. 
 #### Self-Determination Theory
-Concept of need satisfaction dependent on the degree to which these three differnet qualities of experience accompanied free-
+Concept of need satisfaction dependent on the degree to which these three differnet qualities of experience accompanied free-listed, time-consuming daily activities. 
+Competence, autonomy and relatedness. 
