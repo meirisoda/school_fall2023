@@ -271,3 +271,4 @@ Involve the proactive efforts of individuals to attain outcomes and thus meet th
 Addresses the entire temporal sequence from from goal adoption to goal attainment; also models the effects of attainment on need satisfaction and well-being. 
 ### Inception to Attainment Process
 Define self: the integrated center to agentic activity. 
+The **phenomenal self* **an emergent and more-or-less stable mental construction
