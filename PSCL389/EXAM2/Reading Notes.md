@@ -266,4 +266,4 @@ Following through with goals.
 	나 한테 좀 중요한 단어다 
 ## Self-Concordance Model
 Human capacity to set and pursue personal agendas is referred to as conation. 
-Involve the proactive efforts of individuals to attain outcomes and thus meet their needs and can be conceptually distinguished from cognitive and affective 
+Involve the proactive efforts of individuals to attain outcomes and thus meet their needs and can be conceptually distinguished from cognitive and affective processes. 
