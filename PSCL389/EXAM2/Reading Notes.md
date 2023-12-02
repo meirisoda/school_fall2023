@@ -288,5 +288,4 @@ Carver and Scheier proposed that a metalmonitoring system tracks the rate of pro
 Noncorcordant goals do not satisfy important psychological needs. 
 Selfconcordant goals satisfy important psychological needs. 
 Failing to attain selfconcordant goals experienced a decrement in well-being. 
-[[School_Fall2023/PSCL389/EXAM2/Reading Notes|Reading Notes#Self-Determination%Theory]]
 
