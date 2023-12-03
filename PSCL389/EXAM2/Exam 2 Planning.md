@@ -177,7 +177,9 @@ Assumed to allow for flexible, controlled processing of information in the servi
 1. To allocate attention to a task
 2. To enable the flexible, content-relevant manipulation of Working Memory
 3. To inhibit prepotent responses that may interfere with the present task or goal.
-### Self-Regulation
+### Self-Regulation & Working Memory
+Antyhing that involves the control of internal states and/or external behavior; overriding prepotent responses. 
+
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
