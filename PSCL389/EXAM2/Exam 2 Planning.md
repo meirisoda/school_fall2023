@@ -180,7 +180,9 @@ Assumed to allow for flexible, controlled processing of information in the servi
 ### Self-Regulation & Working Memory
 Antyhing that involves the control of internal states and/or external behavior; overriding prepotent responses. 
 By keeping an active representation of goals and goal-relevant information in your working memory, self-regulation is increased. 
-- it can flexbily update the working memor
+- it can flexbily update the working memory and keep it focused on context-relevant information pertinent to the desired goal
+- It inhibits unwanted thoughts and emotional reactions that run counter to said goal
+- It inhibits and overrides unwatne
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
