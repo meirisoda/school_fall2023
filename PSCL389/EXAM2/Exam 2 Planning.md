@@ -169,6 +169,8 @@ These two systems tend to compete, resulting in irrational behaviour.
 - Temporarily holds verbal and acoustic information; is limited
 #### Visuospatial Sketchpad
 - Temporarily holds visual and spatial information; also is limited.
+#### Episodic Buffer
+- Forms and interface betwen the above, long-term memory and the central executive
 - 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
