@@ -139,7 +139,7 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 ## (9) How do emotions influence the way in which people process information and/or form decisions?
 In the past our emotions, which can be categorized as a system of their own, helped us to survive. It helped us assess our situations and act quickly and correctly. However, we no longer live in a society where our lives are always at stake, and the decisions that we have to make are much more complex. 
 Two systems are usually at work with a person's cognitive-emotional decision marking: the emotions (core) system and the higher-level (control) system. The emotional system is highly reactive, and give us quick and automatic responses. They are good for situations that require that level of quick-"thinking" but not so good at more general tasks that require behavior that is consistent across time and can support a broader range of goals. 
-These two systems are always at odds with eachother and it is the balance between the two that will affect the decisions that one makes. Finding and maintaining balance proves to be quite difficult, as our emotions often act as information. This is called the 
+These two systems are always at odds with eachother and it is the balance between the two that will affect the decisions that one makes. Finding and maintaining balance proves to be quite difficult, as our emotions often act as information. This is called the "Affect-as-Information" Hypothesis, and it states that affect often serves as an information that affec
 
 Affect as information -- positive emotions are an indicator of the value of stimulus. 
 Important for a person's own cognitions and inclinations. 
