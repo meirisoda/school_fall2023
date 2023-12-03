@@ -179,7 +179,7 @@ Assumed to allow for flexible, controlled processing of information in the servi
 3. To inhibit prepotent responses that may interfere with the present task or goal.
 ### Self-Regulation & Working Memory
 Antyhing that involves the control of internal states and/or external behavior; overriding prepotent responses. 
-
+By keeping an active representation of goals and 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
