@@ -160,7 +160,7 @@ People should behave in ways to optimize their utility - but they often don't.
 - Extremely limited (can only procecss 1 or 2 things at a time)
 - More adaptive; supports a broad range of goals
 
-These two systems tend to compete. 
+These two systems tend to compete, resulting in irrational behaviour. 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
