@@ -162,6 +162,7 @@ People should behave in ways to optimize their utility - but they often don't.
 
 These two systems tend to compete, resulting in irrational behaviour. 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
+
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[School_Fall2023/PSCL389/EXAM2/Reading Notes]]
