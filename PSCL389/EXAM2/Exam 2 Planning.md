@@ -162,7 +162,7 @@ People should behave in ways to optimize their utility - but they often don't.
 
 These two systems tend to compete, resulting in irrational behaviour. 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
-
+People make decisions that maximize their utility - which is an a
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### Subsystems
