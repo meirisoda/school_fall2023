@@ -165,7 +165,10 @@ These two systems tend to compete, resulting in irrational behaviour.
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### Subsystems
-
+#### Phonological Loop
+- Temporarily holds verbal and acoustic information; is limited
+#### Visuospatial Sketchpad
+- Temporarily holds visual and spatial informait
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
