@@ -168,7 +168,8 @@ These two systems tend to compete, resulting in irrational behaviour.
 #### Phonological Loop
 - Temporarily holds verbal and acoustic information; is limited
 #### Visuospatial Sketchpad
-- Temporarily holds visual and spatial informait
+- Temporarily holds visual and spatial information; also is limited.
+- 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
