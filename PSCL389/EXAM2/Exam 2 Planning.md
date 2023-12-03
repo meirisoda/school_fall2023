@@ -176,7 +176,8 @@ Assumed to allow for flexible, controlled processing of information in the servi
 #### Functions
 1. To allocate attention to a task
 2. To enable the flexible, content-relevant manipulation of Working Memory
-3. To inhibit prepotent responses that may interfere with the 
+3. To inhibit prepotent responses that may interfere with the present task or goal.
+### Self-Regulation
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
