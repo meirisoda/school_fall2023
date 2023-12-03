@@ -199,7 +199,9 @@ Discrepancies between the current states and goal states may be identified and r
 
 One can modify behavior or alter goals once identified. (Intelligent self-regulation involves flexibly adjusting plans when confronted with obstacles)
 ### Thought Suppression
-Is not sustainable long-term because it 
+Is not sustainable long-term because it places attentional spotlight on the thing that you want to ignore and requires an immense amount of mental energy and saps resources. 
+
+By suppressing 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
