@@ -144,6 +144,8 @@ Happy moods caue people to rely on brand names relative to product attributes (i
 ### Fear vs Anger
 **Fear** arises from and elicits appraisals of uncertainty and situational control
 **Anger** tends to elicit feelings of certainty and individual control
+### Approaches in Motivation
+Low approach motivation tends to be small things, like funny 
 
 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
