@@ -192,7 +192,11 @@ Strong signals
 Look at the goal and keep you on the right track. 
 ### Monitoring of the Self
 Monitor the:
-- 
+- Current context/situation
+- One's inner states
+- One's actions
+Discrepancies between the current states and goal states may be identified and resolved.
+One can modify behavior 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
