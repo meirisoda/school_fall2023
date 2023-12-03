@@ -165,7 +165,7 @@ Happiness stems from activities which demand the individual's full involvement a
 - Those with autotelic personalities report more frequent experiences of happiness. 
 How to achieve flow:
 - Create conditions that allow for full angagement in activities
-- Seek out flow in places that demand phys
+- Seek out flow in places that demand physical, mental, or emotional energy
 ### Material Rewards
 Why aren't they enough? 
 - Escalation of expectations
