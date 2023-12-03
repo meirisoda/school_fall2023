@@ -2,9 +2,9 @@ One stimulus - 2 topics
 Surprise stimulus - 2 topics
 
 I think I want to write about either "The Tire Iron and the Tamale" or "A Failure of Happiness"
-### (1) **What is an emotion?** The parameters used to study emotion, and the component approach. 
+## (1) **What is an emotion?** The parameters used to study emotion, and the component approach. 
 
-### (2) **What causes emotions?** Major theories about how they unfurl.
+## (2) **What causes emotions?** Major theories about how they unfurl.
 Functionalist perspective -- emotions are functional and constitute solutions to environmental changes.
 - **Evolutionary Theories**
 	- Based on the notion that emotions are biologically based and serve an <mark class="hltr-grey">evolutionary function</mark> to provide advantages for survival
@@ -19,7 +19,7 @@ Functionalist perspective -- emotions are functional and constitute solutions to
 - **Social Constructionist Theories**
 	- Differs between cultures and social norms
 	- an individual cannot experience any given emotion until he has<mark class="hltr-yellow"> learned to interpret situations in terms of the standards and moral imperatives endorsed by the culture that are relevant to that emotion.</mark>
-### (3) **How are emotions understood?** Discrete versus dimensional accounts. Three major theories about the relationship between PA and NA. 
+## (3) **How are emotions understood?** Discrete versus dimensional accounts. Three major theories about the relationship between PA and NA. 
 - **Theories**
 	- **Fredrickson**:<mark style="background: #ADCCFFA6;"> Broaden and Build</mark> -- for self
 		- Positive emotions lead to a <mark class="hltr-grey">building of physical and psychological resources</mark>
@@ -36,7 +36,7 @@ Functionalist perspective -- emotions are functional and constitute solutions to
 	- relatively poorly differentiated
 	- lack of interest and research
 - **Negative Affectivity**
-### (4) **Why/how are emotions important or functional** (intrapersonal, dyadic, in a group)? 
+## (4) **Why/how are emotions important or functional** (intrapersonal, dyadic, in a group)? 
 - Emotions are used to communicate; helps anticipate behavior and understand why -- appears to be innate
 - **Intrapersonal**
 	- emotions motivate adaptive action and facilitate adjustment to environmental demands
@@ -50,7 +50,7 @@ Functionalist perspective -- emotions are functional and constitute solutions to
 	- helps define hierarchy of the group
 
 <div style="page-break-after: always;"></div>
-### (5) **Levenson's 1999 Core-Control System**
+## (5) **Levenson's 1999 Core-Control System**
 Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of working out an etiquette of action and interaction between the two emotion systems... let the core system sufficiently free reign so that it can serve its<mark style="background: #FFF3A3A6;"> basic adaptive functions</mark>, while maintaining sufficient controls so as to minimize the potential negative effects that unrestrained emotions can have on the individual and on others.
 - 2 system model
 	1. Input goes into the core system
@@ -63,7 +63,7 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 			- reduces emotional behavior and felt emotion with little physiological cost
 		2. Alters the **output** by <mark style="background: #FFF3A3A6;">intercepting tendencies to response to prototypic situations in characteristic ways; modulates the translation of response tendencies to resulting behavior</mark>
 			- reduces emotional behavior but doesn't change felt emotion -- physiological cost
-### (6) **Emotion elicitation**. Pros, cons, and unique nature of each method (movies, slides, music, social psychological, etc.) - both in research and in the real world. 
+## (6) **Emotion elicitation**. Pros, cons, and unique nature of each method (movies, slides, music, social psychological, etc.) - both in research and in the real world. 
 - **Movies** 
 	- film images are an illusion of reality and represent a dynamic display of prototypic situations relevant to well-being and survival --> high in ecological validity. 
 	- films are naturalistic and more generalizable 
@@ -135,17 +135,17 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 	- **Automatic** -- initiated by simple registration of sensory inputs, knowledge structures (schema, scripts), shape functions 
 		- can become maladaptive and unable to recognize negative emotions 
 
-### (9) How do emotions influence the way in which people process information and/or form decisions?
+## (9) How do emotions influence the way in which people process information and/or form decisions?
 Affect as information -- positive emotions are an indicator of the value of stimulus. 
 Important for a person's own cognitions and inclinations. 
 
-### (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
-### (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
-### (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
+## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
+## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
+## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[School_Fall2023/PSCL389/EXAM2/Reading Notes]]
 Mention the broaden and build theory!!! 
-#### Self-Determination Theory
+### Self-Determination Theory
 Concept of need satisfaction dependent on the degree to which these three differnet qualities of experience accompanied free-listed, time-consuming daily activities. 
 Competence, autonomy and relatedness over time leades to an increase in longitudinal well-being. 
 Again, all three of these things are linked to eachother and provide positive feedback loops for each thing. 
-### (13) Increasing Happiness - Forgiveness and Gratitude. How might someone increase their long-term happiness using these strategies? 
+## (13) Increasing Happiness - Forgiveness and Gratitude. How might someone increase their long-term happiness using these strategies? 
