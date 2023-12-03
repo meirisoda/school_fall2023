@@ -165,3 +165,9 @@ Happiness stems from activities which demand the individual's full involvement a
 - Those with autotelic personalities report more frequent experiences of happiness. 
 ### Material Rewards
 Why aren't they enough? 
+- Escalation of expectations
+- Relative Deprivation
+	- Individuals compare their position to those who have the most
+	- Sociocultural
+- Need a variety in sources of happiness
+- 
