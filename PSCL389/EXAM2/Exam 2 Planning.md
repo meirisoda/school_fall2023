@@ -164,7 +164,7 @@ These two systems tend to compete, resulting in irrational behaviour.
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 People make decisions that maximize their utility - which is an assumption that people always act rationally in accordance with their long-term goals. 
 It is more realistic to assume that people seek to optimize utility subject to their constraints, which can be: limited access to information, limited ability to learn and the limited ability to focus and control behavior. 
-While our emotional repsonses were systems that helped us survive, it is not always as reliable as they used to be. 
+In the past our emotions, which can be categorized as a system of their own, helped us to survive. It helped us assess our situations and While our emotional repsonses were systems that helped us survive, it is not always as reliable as they used to be. 
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### Subsystems
