@@ -167,6 +167,7 @@ These two systems tend to compete, resulting in irrational behaviour.
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
+
 ### Self-Determination Theory
 Concept of need satisfaction dependent on the degree to which these three differnet qualities of experience accompanied free-listed, time-consuming daily activities. 
 Competence, autonomy and relatedness over time leades to an increase in longitudinal well-being. 
