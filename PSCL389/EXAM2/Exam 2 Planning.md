@@ -163,6 +163,8 @@ Happiness stems from activities which demand the individual's full involvement a
 - Experiences that are worth doing for their own sake
 - Requires skill, concentration and perserverence
 - Those with autotelic personalities report more frequent experiences of happiness. 
+How to achieve flow:
+Create conditions that allow for full angagement 
 ### Material Rewards
 Why aren't they enough? 
 - Escalation of expectations
