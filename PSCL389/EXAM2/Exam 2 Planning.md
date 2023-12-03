@@ -139,7 +139,6 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 Affect as information -- positive emotions are an indicator of the value of stimulus. 
 Important for a person's own cognitions and inclinations. 
 
-
 ### (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ### (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
