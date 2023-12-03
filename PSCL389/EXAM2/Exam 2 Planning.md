@@ -186,7 +186,10 @@ By keeping an active representation of goals and goal-relevant information in yo
 #### Maintain focus on the goal
 ### Top-Down vs Bottom-Up Processing 
 #### Bottom-Up Processes
-Emotions, desires, urges involve automatic
+Emotions, desires, urges involve automatic and prepotent responses
+Strong signals 
+#### Top-Down Processing
+Look at the gola dn 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
