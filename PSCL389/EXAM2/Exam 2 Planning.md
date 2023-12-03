@@ -161,4 +161,5 @@ Material goods, spiritual and psychological origins and also flow states.
 #### Flow states
 Happiness stems from activities which demand the individual's full involvement and attention. 
 - Experiences that are worth doing for their own sake
-- Requires skill, concentratio
+- Requires skill, concentration and perserverence
+- Those with autotelic personalities report more frequent experiences of happiness. 
