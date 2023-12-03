@@ -196,7 +196,8 @@ Monitor the:
 - One's inner states
 - One's actions
 Discrepancies between the current states and goal states may be identified and resolved.
-One can modify behavior 
+
+One can modify behavior or alter goals once identified. (Intelligent self-regulation involves flexibly adjusting plans when)
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
