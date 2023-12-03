@@ -147,7 +147,7 @@ Happy moods caue people to rely on brand names relative to product attributes (i
 ### Approaches in Motivation
 Low approach motivation tends to be small things, like funny films or recalling pleasant memories
 High Approach motivation is associated with enthusiasm or desire 
-
+--> PA does not broaden, and rather narrows. 
 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
