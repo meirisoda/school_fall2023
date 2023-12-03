@@ -204,7 +204,7 @@ Is not sustainable long-term because it places attentional spotlight on the thin
 By suppressing your thoughts, you are adding a secondary task, which will compromise the executive functioning of yourself. 
 ### Attention Control
 Attnetion is typically bottom-up; we attend to salient, motivationally relevant stimuli
-W
+We also have some top-down control of attention, based on goal representations in the working memeory. 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
