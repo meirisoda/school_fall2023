@@ -173,7 +173,9 @@ These two systems tend to compete, resulting in irrational behaviour.
 - Forms and interface betwen the above, long-term memory and the central executive
 ### Central Executive
 Assumed to allow for flexible, controlled processing of information in the service of one's goals. 
-#### Function
+#### Functions
+1. To allocate attention to a task
+2. To enable 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
