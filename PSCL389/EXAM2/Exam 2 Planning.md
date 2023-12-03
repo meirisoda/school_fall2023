@@ -136,6 +136,7 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 		- can become maladaptive and unable to recognize negative emotions 
 
 ### (9) How do emotions influence the way in which people process information and/or form decisions?
+Affect as information -- post
 ### (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ### (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
