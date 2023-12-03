@@ -170,4 +170,4 @@ Why aren't they enough?
 	- Individuals compare their position to those who have the most
 	- Sociocultural
 - Need a variety in sources of happiness
-- 
+- Time Scarcity 
