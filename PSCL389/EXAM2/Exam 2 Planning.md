@@ -157,3 +157,6 @@ Competence, autonomy and relatedness over time leades to an increase in longitud
 Again, all three of these things are linked to eachother and provide positive feedback loops for each thing. 
 ## (13) Increasing Happiness - Forgiveness and Gratitude. How might someone increase their long-term happiness using these strategies? 
 ### What causes happiness?
+Material goods, spiritual and psychological origins and also flow states. 
+#### Flow states
+Happiness stems from 
