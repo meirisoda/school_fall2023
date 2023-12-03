@@ -83,7 +83,7 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 	- involves manipulation -- quite difficult 
 	- Extremely realistic, avoids demand characteristics, potent, targets discrete emotions that are difficult to elicit
 
-### (7) **How do people communicate emotions?** Relatedly, how are emotions in other measured (behaviorally, autonomically, neurally, via self-report)?
+## (7) **How do people communicate emotions?** Relatedly, how are emotions in other measured (behaviorally, autonomically, neurally, via self-report)?
 - Communication
 	- Verbally (words, tone, volume)
 	- Facial Expression
@@ -104,7 +104,7 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 	- Differential Emotions Scale (DES)
 	- **Self-Assessment Manikin (SAM)**
 		- ![[Pasted image 20231015185019.png]]
-### (8) What strategies do people use to regulate/control their emotions? Which strategies are most effective, and why? 
+## (8) What strategies do people use to regulate/control their emotions? Which strategies are most effective, and why? 
 - **Response Systems**
 	- **Experiential** -- emotional valence or discrete emotions
 	- **Behavioral** -- facial expression, postural changes, behavioral movements
@@ -138,7 +138,8 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 ## (9) How do emotions influence the way in which people process information and/or form decisions?
 Affect as information -- positive emotions are an indicator of the value of stimulus. 
 Important for a person's own cognitions and inclinations. 
-
+### Global vs Local Focus
+Highly anxious people adopt a more "local" focus. 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
