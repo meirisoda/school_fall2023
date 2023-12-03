@@ -141,6 +141,8 @@ Important for a person's own cognitions and inclinations.
 ### Global vs Local Focus
 Highly anxious people adopt a more "local" focus. 
 Happy moods caue people to rely on brand names relative to product attributes (ie. associating the quality of the product based off of brand experience)
+### Fear vs Anger
+**Fear** arises from and elicits appraisals of uncertainty and situational controlo 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
