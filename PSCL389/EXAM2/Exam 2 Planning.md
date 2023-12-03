@@ -175,4 +175,4 @@ Why aren't they enough?
 - Need a variety in sources of happiness
 - Time Scarcity 
 ### Relative Happiness
-Individuals tend to enha
+Individuals tend to enhance the relative value of their own outcome with someone else's less fortunate outcome. 
