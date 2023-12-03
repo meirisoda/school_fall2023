@@ -202,6 +202,9 @@ One can modify behavior or alter goals once identified. (Intelligent self-regula
 Is not sustainable long-term because it places attentional spotlight on the thing that you want to ignore and requires an immense amount of mental energy and saps resources. 
 
 By suppressing your thoughts, you are adding a secondary task, which will compromise the executive functioning of yourself. 
+### Attention Control
+Attnetion is typically bottom-up; we attend to salient, motivationally relevant stimuli
+W
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
