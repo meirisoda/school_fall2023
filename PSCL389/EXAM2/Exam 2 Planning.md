@@ -164,6 +164,8 @@ These two systems tend to compete, resulting in irrational behaviour.
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
+### Subsystems
+
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
