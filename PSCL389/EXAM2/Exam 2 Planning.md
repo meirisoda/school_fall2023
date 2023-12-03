@@ -148,7 +148,8 @@ Happy moods caue people to rely on brand names relative to product attributes (i
 Low approach motivation tends to be small things, like funny films or recalling pleasant memories
 High Approach motivation is associated with enthusiasm or desire 
 --> PA does not broaden, and rather narrows. 
-### Brain Systems
+### Brain Systems & Rationality
+People should behave in ways to optimize 
 #### Emotional
 - Tends to be automatic
 - Evolutionarily old
