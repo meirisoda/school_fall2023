@@ -159,4 +159,6 @@ Again, all three of these things are linked to eachother and provide positive fe
 ### What causes happiness?
 Material goods, spiritual and psychological origins and also flow states. 
 #### Flow states
-Happiness stems from 
+Happiness stems from activities which demand the individual's full involvement and attention. 
+- Experiences that are worth doing for their own sake
+- Requires skill, concentratio
