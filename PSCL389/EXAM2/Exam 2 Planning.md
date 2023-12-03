@@ -157,7 +157,7 @@ High Approach motivation is associated with enthusiasm or desire
 #### Cognitive
 - Controlled and conscious
 - Extremely limited (can only procecss 1 or 2 things at a time)
-- 
+- More adaptive; supports a broad range of goals
 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
