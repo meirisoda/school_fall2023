@@ -171,7 +171,9 @@ These two systems tend to compete, resulting in irrational behaviour.
 - Temporarily holds visual and spatial information; also is limited.
 #### Episodic Buffer
 - Forms and interface betwen the above, long-term memory and the central executive
-- 
+### Central Executive
+Assumed to allow for flexible, controlled processing of information in the service of one's goals. 
+#### Function
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
