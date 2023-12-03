@@ -201,7 +201,7 @@ One can modify behavior or alter goals once identified. (Intelligent self-regula
 ### Thought Suppression
 Is not sustainable long-term because it places attentional spotlight on the thing that you want to ignore and requires an immense amount of mental energy and saps resources. 
 
-By suppressing 
+By suppressing your thoughts, you are adding a secondary task, which will compromise the executive functioning of yourself. 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
