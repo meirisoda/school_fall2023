@@ -175,7 +175,8 @@ These two systems tend to compete, resulting in irrational behaviour.
 Assumed to allow for flexible, controlled processing of information in the service of one's goals. 
 #### Functions
 1. To allocate attention to a task
-2. To enable 
+2. To enable the flexible, content-relevant manipulation of Working Memory
+3. To inhibit prepotent responses that may interfere with the 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
