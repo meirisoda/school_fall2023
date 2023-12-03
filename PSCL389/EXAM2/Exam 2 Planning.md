@@ -163,3 +163,5 @@ Happiness stems from activities which demand the individual's full involvement a
 - Experiences that are worth doing for their own sake
 - Requires skill, concentration and perserverence
 - Those with autotelic personalities report more frequent experiences of happiness. 
+### Material Rewards
+Why aren't they enough? 
