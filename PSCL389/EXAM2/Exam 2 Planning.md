@@ -145,7 +145,8 @@ Happy moods caue people to rely on brand names relative to product attributes (i
 **Fear** arises from and elicits appraisals of uncertainty and situational control
 **Anger** tends to elicit feelings of certainty and individual control
 ### Approaches in Motivation
-Low approach motivation tends to be small things, like funny 
+Low approach motivation tends to be small things, like funny films or recalling pleasant memories
+High Approach motivation is associated with enthusiasm or desire 
 
 
 ## (10) Jonathon Cohen: How does the brain reflect a person's cognitive-emotion decision-making?
