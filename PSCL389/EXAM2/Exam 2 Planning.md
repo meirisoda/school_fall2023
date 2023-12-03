@@ -189,7 +189,10 @@ By keeping an active representation of goals and goal-relevant information in yo
 Emotions, desires, urges involve automatic and prepotent responses
 Strong signals 
 #### Top-Down Processing
-Look at the gola dn 
+Look at the goal and keep you on the right track. 
+### Monitoring of the Self
+Monitor the:
+- 
 ## (12) Increasing Happiness - Perspective Taking and Goals. How might someone increase their long-term happiness using these strategies? 
 [[12 Reading Notes]]
 Mention the broaden and build theory!!! 
