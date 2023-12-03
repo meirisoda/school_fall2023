@@ -165,7 +165,7 @@ These two systems tend to compete, resulting in irrational behaviour.
 People make decisions that maximize their utility - which is an assumption that people always act rationally in accordance with their long-term goals. 
 It is more realistic to assume that people seek to optimize utility subject to their constraints, which can be: limited access to information, limited ability to learn and the limited ability to focus and control behavior. 
 In the past our emotions, which can be categorized as a system of their own, helped us to survive. It helped us assess our situations and act quickly and correctly. However, we no longer live in a society where our lives are always at stake, and the decisions that we have to make are much more complex. 
-Two systems are usually at work with a person's cognitive-emotional decision marking: the emotions and the supposed higher level 
+Two systems are usually at work with a person's cognitive-emotional decision marking: the emotions (core) system and the higher-level (control) system. The emotional system is 
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 ### Subsystems
