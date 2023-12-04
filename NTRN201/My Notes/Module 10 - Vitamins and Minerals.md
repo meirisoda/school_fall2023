@@ -42,7 +42,11 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 - can also be synthesized from the amino acid tryptophan.
 ### Vitamin K
 **Functions** 
-Plays 
+- Plays an essential role in blood clotting
+- Activates prothrombin, which increases thrombin
+- Converts soluble fibrinogin into insoluble fibrinogin
+- Important in bone heatlh 
+- 
 **Sources**
 - can also be synthesized by the gut bacteria to some extent. 
 ## Water-Soluble Vitamins
