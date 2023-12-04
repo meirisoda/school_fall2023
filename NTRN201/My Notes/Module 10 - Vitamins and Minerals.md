@@ -126,8 +126,9 @@ Vitamin D increases calcium absorption.</mark>
 in the muscle tissue, organs and glands. 
 ## Iron (Fe)
 RDA
-- Male: 8mg/d
-- Female: 18mg/
+- Male: 8mg/day
+- Female: 18mg/day
+
 **Functions**
 - Used as parts of many enzymes and proteins
 - Needed for brain and immune function
