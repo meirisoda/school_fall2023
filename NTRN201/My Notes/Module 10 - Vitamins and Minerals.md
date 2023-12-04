@@ -57,8 +57,10 @@ Involved in the metabolism of carbohydrates and branched-chain amino acids.
 Absorbed from the small intenstine, transported in coenzyme form by RBCs and excreted via urine. 
 ##### Deficiencies -- Beriberi
 **Dry beriberi**: affects peripheral nervous and muscular systems
-	
+	peripheral neuropathy, weakness, muscle pain, anorexia, and confusion
 **Wet beriberi**: affects the cardiovascular system
+	enlargement of the heart, difficulty breathing and edema
+	##### Deficiencies -- Beriberi
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
