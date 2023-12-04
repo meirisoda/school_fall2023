@@ -124,6 +124,9 @@ Interacts with fiber: phytic acid and oxalic may decrease some mineral absorptio
 Vitamin D increases calcium absorption.</mark>
 #### Storage
 in the muscle tissue, organs and glands. 
+## Iron (Fe)
+
+
 # Miscellaneous
 ## Blood 
 Blood has different parts
@@ -137,7 +140,7 @@ Blood has different parts
 Can be caused by:
 - Low RBC production or low hemoglobin production in RBCs
 - Loss or destruction of blood
-Symptoms result from 
+Symptoms result from inadequate $O_{2}$ to organs
 ### White Blood Cell Types
 #### Leukocyte
 White blood cell; involved in the immune system
