@@ -14,4 +14,4 @@ Write a 2-3 page essay (double-spaced pages) addressing the following:
 - Why is it important to work towards the objectives outlined in Healthy People 2030?
 - Include a link to the article at the end of your essay.
 
-This article talks about the 
+Existing fears and perceived risk that are main barriers to blood donations: infe
