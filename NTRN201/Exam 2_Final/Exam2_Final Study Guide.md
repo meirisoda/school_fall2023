@@ -27,5 +27,4 @@ end at 32
 ---
 # Final Content
 (begin 33)
-
 ## Vitamins
