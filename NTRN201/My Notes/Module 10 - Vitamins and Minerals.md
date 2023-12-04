@@ -121,4 +121,5 @@ in the muscle tissue, organs and glands.
 ## Blood 
 Blood has different parts
 **Plasma** - fluid, extracellular portion of blood
-**Erythrocytes** - RBC that contain 
+**Erythrocytes** - RBC that contain hemoglobin, which transports oxygen from lungs to all body cells 
+### Blood Cell Types
