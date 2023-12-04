@@ -99,6 +99,8 @@ Recommended is 400 mcg/day (600mcg/day for pregnancy)
 Coenzyme of folate metabolism and aids in nerve function. ==maintains myeliln sheath that insulates neurons==
 Requires Intrinsic Factor for absorption!!! 
 Stored in the liver. 
+##### Defiency
+Will cause destruction 
 ### Choline
 # Minerals 
 Individual chemical elements; cannot be broken down further.
