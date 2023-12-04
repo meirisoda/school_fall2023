@@ -29,4 +29,4 @@ Main motivators to blood donations:
 - free infectious disease screening
 - financial and tangible rewards
 
-The level of information that people have about blood donations in general are also a contributor to whether or not donations will happen
+The level of information that people have about blood donations in general are also a contributor to whether or not donations will happen.
