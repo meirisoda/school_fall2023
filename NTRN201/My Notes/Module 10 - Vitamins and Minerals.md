@@ -52,7 +52,8 @@ Particularly susceptible to destruction by heat, light, air exposure, cooking in
 Excreted via urine. 
 ### Vitamin C
 ### Vitamin B Complex
-#### Thiamine
+#### Thiamine (B1)
+Involved in the metabolism of carbohydrates and branc
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
