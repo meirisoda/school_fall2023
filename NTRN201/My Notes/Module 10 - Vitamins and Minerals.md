@@ -84,6 +84,8 @@ Rough skin
 Associated with corn-based diets 
 #### Pantothenic acid
 #### Biotin
+Coenzyme of glucose production and fat sysnthesis
+
 #### Vitamin B6
 Stored in the liver. 
 #### Folate (folic acid)
