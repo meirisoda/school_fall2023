@@ -62,7 +62,9 @@ Absorbed from the small intenstine, transported in coenzyme form by RBCs and exc
 	enlargement of the heart, difficulty breathing and edema
 ##### Deficiencies -- Wernicke-Korsakoff Syndrome
 Related to alcohol abuse, which decreases thiamin absorption and increases excretion (may also decrease intake due to the primary source of calories and nutrients being from alcohol)
-A
+Affects the central nervous system
+	**Wernicke's**: acute confusion, changes in vision, ataxia
+	**Korsakoff's**: amnesia, psycho
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
