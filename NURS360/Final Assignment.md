@@ -13,3 +13,5 @@ Write a 2-3 page essay (double-spaced pages) addressing the following:
 - Describe how nurses can bring change to a community by focusing on these evidence-based strategies/interventions.
 - Why is it important to work towards the objectives outlined in Healthy People 2030?
 - Include a link to the article at the end of your essay.
+
+This article talks about the 
