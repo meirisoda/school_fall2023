@@ -30,3 +30,4 @@ Main motivators to blood donations:
 - financial and tangible rewards
 
 The level of information that people have about blood donations in general are also a contributor to whether or not donations will happen.
+It was found that general advertising has only a limited role to play in stimulating donations and instead, word-of-mouth, plays a much larger role. It offers an alternati
