@@ -28,6 +28,6 @@
 		{"id":"c0e741b352be0ff9","fromNode":"10a36f46c6378062","fromSide":"bottom","toNode":"e9282d3c9529b7d1","toSide":"top"},
 		{"id":"84ba73517e7eaa8a","fromNode":"10a36f46c6378062","fromSide":"bottom","toNode":"05ed805ef30efa42","toSide":"top"},
 		{"id":"6a5529bf28f2b533","fromNode":"05ed805ef30efa42","fromSide":"bottom","toNode":"60676c8d5205fbb9","toSide":"top"},
-		{"id":"ab6fd95e82ae2af6","fromNode":"e95d675e822db7e4","fromSide":"bottom","toNode":"e9282d3c9529b7d1","toSide":"left","color":"1"}
+		{"id":"ab6fd95e82ae2af6","fromNode":"e95d675e822db7e4","fromSide":"left","toNode":"e9282d3c9529b7d1","toSide":"left","fromEnd":"arrow","color":"1","label":"Vitamin C helps absorb iron"}
 	]
 }
