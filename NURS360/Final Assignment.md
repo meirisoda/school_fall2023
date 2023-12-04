@@ -20,4 +20,5 @@ Existing fears and perceived risk that are main barriers to blood donations:
 - seeing blood
 - supposed unpleasant feelings after donation (such as vasovagal responses)
 Main motivators to blood donations:
--
+- altruism (helping others generally)
+- collectivism (helping members of a specific group )
