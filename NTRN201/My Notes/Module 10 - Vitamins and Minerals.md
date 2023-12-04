@@ -49,8 +49,9 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 
 **Sources**
 - can also be synthesized by the gut bacteria to some extent. 
+- Liver, dark leafy greens, broccoli, asparagus, peas 
 
-Important to supply infants with vitamin K because they can't 
+Important to supply infants with vitamin K because they can't synthesize the vitamin K needed for clotting 
 ## Water-Soluble Vitamins
 Absorbed primarily in the small intestine. 
 Transported to the liver via portal vein & distributed to body tissues, in which later they are stored. 
