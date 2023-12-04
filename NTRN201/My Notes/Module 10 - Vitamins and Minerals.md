@@ -134,7 +134,9 @@ Blood has different parts
 - Carry $O_{2}$ from lungs to tissues and also carries $CO_{2}$ from tissues to the lungs
 - Contain hemoglobin which carries 4 molecules of $O_{2}$
 #### Anemia
-
+Can be caused by:
+- Low RBC production or low hemoglobin production in RBCs
+- Loss or destruction of blood
 ### White Blood Cell Types
 #### Leukocyte
 White blood cell; involved in the immune system
