@@ -77,6 +77,9 @@ Comes in two forms:
 - nicotinamid (niacinamide)
 Functions in coenzymes (NAD+ and NADP+), catabolism of energy-yielding nutrients and fatty acid biosynthesis
 Can be taken in directly from foods or indirectly (synthesized from tryptophan)
+
+Absorbed inthe small intestine and transported to liver, excreted via urine
+####
 #### Pantothenic acid
 #### Biotin
 #### Vitamin B6
