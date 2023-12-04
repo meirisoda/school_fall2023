@@ -123,3 +123,8 @@ Blood has different parts
 **Plasma** - fluid, extracellular portion of blood
 **Erythrocytes** - RBC that contain hemoglobin, which transports oxygen from lungs to all body cells 
 ### Blood Cell Types
+#### Leukocyte
+White blood cell; involved in the immune system
+#### Neutrophil
+WBC that fights infections
+Levels rise during bacterial 
