@@ -127,4 +127,9 @@ Blood has different parts
 White blood cell; involved in the immune system
 #### Neutrophil
 WBC that fights infections
-Levels rise during bacterial 
+Levels rise during bacterial or fungal infections
+#### Lymphocyte 
+WBC responsible for immune response
+Regulates antibody production
+#### Monocyte
+WBC that ingests foreign cells; aka phagocyte
