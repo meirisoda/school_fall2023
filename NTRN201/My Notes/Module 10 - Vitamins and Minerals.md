@@ -70,7 +70,8 @@ Involved in energy metabolism, B-vitamin metabolism (converts niacin from trypto
 HCl in the stomach releases bound riboflavin --> absorbed by active transport or facilitated diffusion from the small intestine (60-65% efficiency) --> transported through the blood by protein carriers --> converted to coenzyme form mainly in the small intestine, liver, heart and kidneys
 ##### Defiency -- Ariboflavinosis
 Rare and requires 2 months of constnat deficient intake
-#### Niacin
+	Inflamed throat, stomatitis, glossitis, angular cheilitis, seborrheic dermatitis, anemia, fatigue, confusion, headaches
+#### Niacin (B3)
 #### Pantothenic acid
 #### Biotin
 #### Vitamin B6
