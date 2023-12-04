@@ -4,13 +4,16 @@
 		{"id":"8e6a5efff649d068","type":"text","text":"## Fat-Soluble Vitamins\nAbsorbed and stored with dietary fat (so anything that interferes with fat absorption will impair vitamin absorption) -- not readily excreted by the body","x":-560,"y":-14,"width":250,"height":298},
 		{"id":"10a36f46c6378062","type":"text","text":"## Water-Soluble Vitamins","x":80,"y":-14,"width":250,"height":76},
 		{"id":"7eefe4ddef9925fc","type":"text","text":"### Vitamin A\nRDA: 900mcg/700mcg\nUL: 3000mcg\n#### Functions\n- promote vision (both night and color)\n- promotes growth\n- prevents drying of the skin and eyes\n- promotes resistance to bacterial infection and overall immune system function\n#### Sources\n- Liver, fortified milk and cereals, dark leafy greens, sweet potatoes, carrots, cantaloupe, apricots\n- Can also be synthesized from beta-carotene! \n#### Deficiency\nNight blindness, poor growth, dry skin\n#### Toxicity\nFetal malformations, hair loss and skin changes, bone pain and fractures","x":-960,"y":383,"width":325,"height":1000},
-		{"id":"5262489f848f2b83","type":"text","text":"### Vitamin E\nRDA: 900mcg/700mcg\nUL: 3000mcg\n#### Functions\n- \n#### Sources\n- Can be synthesized from typtophanskin in sunlight\n#### Deficiency\nNight blindness, poor growth, dry skin\n#### Toxicity\nFetal malformations, hair loss and skin changes, bone pain and fractures","x":-251,"y":383,"width":331,"height":1000},
+		{"id":"5262489f848f2b83","type":"text","text":"### Vitamin E\n#### Functions\n- \n#### Sources\n- Can be synthesized from typtophanskin in sunlight\n#### Deficiency\nNight blindness, poor growth, dry skin\n#### Toxicity\nFetal malformations, hair loss and skin changes, bone pain and fractures","x":-251,"y":383,"width":331,"height":1000},
 		{"id":"d5492feeffd5f299","type":"text","text":"### Vitamin D\nRDA: 900mcg/700mcg\nUL: 3000mcg\n#### Functions\n- Maintenance of calcium and phosphorus\n- Immune system function\n- Cell cycle regulation \n#### Sources\n- Can be synthesized from skin in sunlight\n#### Deficiency\nNight blindness, poor growth, dry skin\n#### Toxicity\nFetal malformations, hair loss and skin changes, bone pain and fractures","x":-600,"y":383,"width":331,"height":1000},
-		{"id":"b3922023d23cc00a","type":"text","text":"### Vitamin E\nRDA: 900mcg/700mcg\nUL: 3000mcg\n#### Functions\n- \n#### Sources\n- Can be synthesized from typtophanskin in sunlight\n#### Deficiency\nNight blindness, poor growth, dry skin\n#### Toxicity\nFetal malformations, hair loss and skin changes, bone pain and fractures","x":-359,"y":328,"width":331,"height":1000}
+		{"id":"b3922023d23cc00a","type":"text","text":"### Vitamin K\n#### Functions\n- \n#### Sources\n- Can be synthesized from typtophanskin in sunlight\n#### Deficiency\nNight blindness, poor growth, dry skin\n#### Toxicity\nFetal malformations, hair loss and skin changes, bone pain and fractures","x":120,"y":383,"width":331,"height":1000}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
 		{"id":"bb2b7b5c684523a7","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"10a36f46c6378062","toSide":"top"},
-		{"id":"24b3a9ef36a23e1b","fromNode":"8e6a5efff649d068","fromSide":"bottom","toNode":"7eefe4ddef9925fc","toSide":"top"}
+		{"id":"24b3a9ef36a23e1b","fromNode":"8e6a5efff649d068","fromSide":"bottom","toNode":"7eefe4ddef9925fc","toSide":"top"},
+		{"id":"1938431cbb329645","fromNode":"8e6a5efff649d068","fromSide":"bottom","toNode":"d5492feeffd5f299","toSide":"top"},
+		{"id":"76192aaa978d1be5","fromNode":"8e6a5efff649d068","fromSide":"bottom","toNode":"5262489f848f2b83","toSide":"top"},
+		{"id":"e5f6940c9c6e56e5","fromNode":"8e6a5efff649d068","fromSide":"bottom","toNode":"b3922023d23cc00a","toSide":"top"}
 	]
 }
