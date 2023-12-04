@@ -82,6 +82,7 @@ Absorbed inthe small intestine and transported to liver, excreted via urine
 ##### Defiency -- Pellagra
 Rough skin
 Associated with corn-based diets 
+Absorbed in the sma
 #### Pantothenic acid
 #### Biotin
 Coenzyme of glucose production and fat sysnthesis
