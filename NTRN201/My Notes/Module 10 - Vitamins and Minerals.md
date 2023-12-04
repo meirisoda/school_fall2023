@@ -54,7 +54,7 @@ Excreted via urine.
 ### Vitamin B Complex
 #### Thiamine (B1)
 Involved in the metabolism of carbohydrates and branched-chain amino acids. 
-
+Absorbed from the small intenstine 
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
