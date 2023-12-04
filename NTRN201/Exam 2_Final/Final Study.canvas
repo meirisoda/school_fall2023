@@ -1,8 +1,11 @@
 {
 	"nodes":[
 		{"id":"5cdbadd76df3a2e4","x":-247,"y":-306,"width":250,"height":266,"type":"text","text":"# Vitamins\nCarbon containing substances needed in small amounts by the body\nAre essential (meaning the body cannot synthesize them)"},
-		{"id":"8e6a5efff649d068","x":-432,"y":16,"width":250,"height":60,"type":"text","text":"## Fat-Soluble Vitamins"},
-		{"id":"10a36f46c6378062","x":-77,"y":24,"width":250,"height":60,"type":"text","text":"## Water "}
+		{"id":"8e6a5efff649d068","x":-400,"y":-18,"width":250,"height":198,"type":"text","text":"## Fat-Soluble Vitamins\nAbsorbed and stored with dietary fat (so anything that inter)"},
+		{"id":"10a36f46c6378062","x":-100,"y":-14,"width":250,"height":76,"type":"text","text":"## Water-Soluble Vitamins"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
+		{"id":"bb2b7b5c684523a7","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"10a36f46c6378062","toSide":"top"}
+	]
 }
