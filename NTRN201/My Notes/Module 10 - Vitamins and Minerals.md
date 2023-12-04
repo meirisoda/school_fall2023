@@ -61,7 +61,8 @@ Absorbed from the small intenstine, transported in coenzyme form by RBCs and exc
 **Wet beriberi**: affects the cardiovascular system
 	enlargement of the heart, difficulty breathing and edema
 ##### Deficiencies -- Wernicke-Korsakoff Syndrome
-Related to alcohol abuse, which decreases thiamin absorption and increases excretion (may also d)
+Related to alcohol abuse, which decreases thiamin absorption and increases excretion (may also decrease intake due to the primary source of calories and nutrients being from alcohol)
+A
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
