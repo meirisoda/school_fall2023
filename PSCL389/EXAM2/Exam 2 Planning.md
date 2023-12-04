@@ -183,7 +183,7 @@ The activation of brain regions regarding emotional and more "practical" respons
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
 There are three subsystems (or storage methods) involved in working memory capacity, which includes the phonological loop, the visuaospatial sketchpad and the episodic buffer. THe phonological loop is involved in holding verbal and audio information and tends to be quite limited. The visuospatial sketchpad, like its name, holds visual and spatial information and also is quite limited. There is also the episodic buffer that links the two above with long term memory and the central executive.
-The central executive is another system that allows for flexible and controlled processing of information. It updates and replaces old information with new, relevant information, allocates one's a
+The central executive is another system that allows for flexible and controlled processing of information. It updates and replaces old information with new, relevant information, allocates one's attention to a task or goal, and inhibits any dominant or automatic responses thtat might interfere with the present task or g
 
 ### Subsystems
 #### Phonological Loop
