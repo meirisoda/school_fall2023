@@ -14,4 +14,10 @@ Write a 2-3 page essay (double-spaced pages) addressing the following:
 - Why is it important to work towards the objectives outlined in Healthy People 2030?
 - Include a link to the article at the end of your essay.
 
-Existing fears and perceived risk that are main barriers to blood donations: infe
+Existing fears and perceived risk that are main barriers to blood donations:
+- perceived infection risks
+- fear of needles
+- seeing blood
+- supposed unpleasant feelings after donation (such as vasovagal responses)
+Main motivators to blood donations:
+-
