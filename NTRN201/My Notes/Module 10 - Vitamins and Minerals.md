@@ -74,6 +74,9 @@ Rare and requires 2 months of constnat deficient intake
 #### Niacin (B3)
 Comes in two forms:
 - nicotinic acid (niacin)
+- nicotinamid (niacinamide)
+Functions in coenzymes (NAD+ and NADP+), catabolism of energy-yielding nutrients and fatty acid biosynthesis
+Can be taken in directly from foods or 
 #### Pantothenic acid
 #### Biotin
 #### Vitamin B6
