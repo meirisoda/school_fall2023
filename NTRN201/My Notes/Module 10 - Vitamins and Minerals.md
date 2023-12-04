@@ -130,7 +130,9 @@ Blood has different parts
 **Plasma** - fluid, extracellular portion of blood
 **Erythrocytes** - RBC that contain hemoglobin, which transports oxygen from lungs to all body cells 
 ### Red Blood Cells
-**Erythropoiesis**: formation of RBC
+**Erythropoiesis**: formation of RBCs
+- Carry O2 from lungs to tissues and also carries CO2 from tissues to the lungs
+- Contain hemoglobin which carries 4 molecules of O2
 ### White Blood Cell Types
 #### Leukocyte
 White blood cell; involved in the immune system
