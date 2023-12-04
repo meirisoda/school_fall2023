@@ -82,14 +82,14 @@ Absorbed inthe small intestine and transported to liver, excreted via urine
 ##### Defiency -- Pellagra
 Rough skin
 Associated with corn-based diets 
-Absorbed in the sma
 #### Pantothenic acid
 #### Biotin
 Coenzyme of glucose production and fat sysnthesis
-
+Absorbed in the small intestine, and excreted via bile and urine
 #### Vitamin B6
 Stored in the liver. 
-#### Folate (folic acid)
+#### Folate (B9)
+Involved in cell division, metabolism of 
 #### Vitamin B12 
 Stored in the liver. 
 ### Choline
