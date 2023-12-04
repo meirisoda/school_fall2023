@@ -93,6 +93,8 @@ Involved in cell division, metabolism of amino acids and DNA formation
 ##### Deficiency -- Megaloblastic Anemia (Macrocytic anemia)
 Immature cells can't divide because they can't form new DNA and keep growing larger
 	Tongue inflammation, diarrhea, poor growth, mental confusion, depression, nerve dysfunction 
+Recommended is 400 mcg/day (600mcg/day for pregnancy)
+- Low folate levels in pregnant women are linked to neural tube defects in fetuses
 #### Vitamin B12 
 Stored in the liver. 
 ### Choline
