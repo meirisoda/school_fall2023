@@ -27,7 +27,7 @@
 		{"id":"39dc693b66643012","type":"text","text":"promotes bone health through antioxidant activity","x":165,"y":335,"width":165,"height":185,"color":"3"},
 		{"id":"76816f9e7c3e4930","type":"text","text":"required by an enzyme that converts vitamin D to its active form","x":483,"y":-921,"width":157,"height":201,"color":"3"},
 		{"id":"2b07e97cd58f0b8d","type":"text","text":"","x":972,"y":-921,"width":130,"height":50,"color":"1"},
-		{"id":"8896831b1d7a078c","x":1680,"y":-896,"width":250,"height":416,"type":"text","text":"### Zinc\ncofactors for enzymes of bone remodeling \n### Copper and Silicon\ncontributes to collagen synthesis"},
+		{"id":"8896831b1d7a078c","x":1680,"y":-896,"width":320,"height":416,"color":"3","type":"text","text":"### Zinc\ncofactors for enzymes of bone remodeling \n### Copper and Silicon\ncontributes to collagen synthesis\n### Boron \nbone structure and strength"},
 		{"id":"31b10366bbc54d30","type":"text","text":"calcium binding ability in bone proteins","x":-289,"y":284,"width":165,"height":156,"color":"3"}
 	],
 	"edges":[
