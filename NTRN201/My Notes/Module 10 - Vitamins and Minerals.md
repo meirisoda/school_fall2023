@@ -89,7 +89,9 @@ Absorbed in the small intestine, and excreted via bile and urine
 #### Vitamin B6
 Stored in the liver. 
 #### Folate (B9)
-Involved in cell division, metabolism of 
+Involved in cell division, metabolism of amino acids and DNA formation
+##### Deficiency -- Megaloblastic Anemia (Macrocytic anemia)
+Immature cells can
 #### Vitamin B12 
 Stored in the liver. 
 ### Choline
