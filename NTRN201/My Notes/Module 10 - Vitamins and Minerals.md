@@ -72,6 +72,8 @@ HCl in the stomach releases bound riboflavin --> absorbed by active transport or
 Rare and requires 2 months of constnat deficient intake
 	Inflamed throat, stomatitis, glossitis, angular cheilitis, seborrheic dermatitis, anemia, fatigue, confusion, headaches
 #### Niacin (B3)
+Comes in two forms:
+- nicotinic acid (niacin)
 #### Pantothenic acid
 #### Biotin
 #### Vitamin B6
