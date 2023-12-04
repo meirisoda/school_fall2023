@@ -66,7 +66,8 @@ Affects the central nervous system
 	**Wernicke's**: acute confusion, changes in vision, ataxia
 	**Korsakoff's**: amnesia, psychosis
 #### Riboflavin
-Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the b6 coenzyme and folate metablilsm)
+Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the b6 coenzyme and folate metablilsm), also is an antioxidant. 
+
 #### Niacin
 #### Pantothenic acid
 #### Biotin
