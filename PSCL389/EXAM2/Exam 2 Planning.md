@@ -148,7 +148,7 @@ However, we see that when he wants to check himself into rehab, that he had retu
 Highly anxious people adopt a more "local" focus. 
 Happy moods caue people to rely on brand names relative to product attributes (ie. associating the quality of the product based off of brand experience)
 ### Fear vs Anger
-**Fear** arises from and elicits appraisals of uncertainty and situational con프라임킹즈trol
+**Fear** arises from and elicits appraisals of uncertainty and situational control
 **Anger** tends to elicit feelings of certainty and individual control
 ### Approaches in Motivation
 Low approach motivation tends to be small things, like funny films or recalling pleasant memories
