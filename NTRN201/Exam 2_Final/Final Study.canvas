@@ -10,8 +10,8 @@
 		{"id":"e9282d3c9529b7d1","type":"text","text":"### Vitamin C\n#### Functions\n- \n#### Sources\n- \n#### Deficiency\n\n#### Toxicity\n","x":-1,"y":360,"width":331,"height":1000},
 		{"id":"05ed805ef30efa42","type":"text","text":"### Vitamin B Complex\n","x":360,"y":360,"width":331,"height":50},
 		{"id":"60676c8d5205fbb9","type":"text","text":"### Thiamine (B1)\n#### Functions\n- Involved in the metabolism of carbohydrates and branched-chain amino acids\n#### Deficiency\n##### Beriberi\n**Dry Beriberi** affects the peripheral nervous and muscular systems\nSx -- cause peripheral neuropathy, weakness, muscle pain, anorexia and confusion\n**Wet beriberi** affects the cardiovascular system\nSx -- enlargement of the heart, difficulty breathing and anemia\n##### Wernicke-Korsakoff Syndrome\nRelated to alcohol abuse (decreases thiamine absorption and increases excretion)\nAffects the central nervous system","x":360,"y":440,"width":331,"height":760},
-		{"id":"797618595b32eabe","type":"text","text":"### Riboflavin\n#### Functions\n- Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the B6 coenzyme and folate metabolism)\n- Antioxidant\n#### Deficiency\n##### Ariboflavinosis\nRare and requires 2 months of consistent deficiency in intake\nSx -- inflamed throat, stomatitis, glossitis, angular chelitis, seborrheic dermatitis, anemia, fatigue, confusion and headaches","x":360,"y":1240,"width":331,"height":560},
-		{"id":"2213cb40ac52ab1b","type":"text","text":"### Riboflavin\n#### Functions\n- Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the B6 coenzyme and folate metabolism)\n- Antioxidant\n#### Deficiency\n##### Ariboflavinosis\nRare and requires 2 months of consistent deficiency in intake\nSx -- inflamed throat, stomatitis, glossitis, angular chelitis, seborrheic dermatitis, anemia, fatigue, confusion and headaches","x":360,"y":1840,"width":331,"height":560}
+		{"id":"797618595b32eabe","type":"text","text":"### Riboflavin\n#### Functions\n- Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the B6 coenzyme and folate metabolism)\n- Antioxidant\n#### Deficiency\n##### Ariboflavinosis\nRare and requires 2 months of consistent deficiency in intake\nSx -- inflamed throat, stomatitis, glossitis, angular chelitis, seborrheic dermatitis, anemia, fatigue, confusion and headaches","x":720,"y":440,"width":331,"height":560},
+		{"id":"2213cb40ac52ab1b","type":"text","text":"### Niacin (B3)\n#### Functions\n- Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the B6 coenzyme and folate metabolism)\n- Antioxidant\n#### Deficiency\n##### Ariboflavinosis\nRare and requires 2 months of consistent deficiency in intake\nSx -- inflamed throat, stomatitis, glossitis, angular chelitis, seborrheic dermatitis, anemia, fatigue, confusion and headaches","x":1080,"y":440,"width":331,"height":560}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
@@ -22,8 +22,6 @@
 		{"id":"e5f6940c9c6e56e5","fromNode":"8e6a5efff649d068","fromSide":"bottom","toNode":"b3922023d23cc00a","toSide":"top"},
 		{"id":"c0e741b352be0ff9","fromNode":"10a36f46c6378062","fromSide":"bottom","toNode":"e9282d3c9529b7d1","toSide":"top"},
 		{"id":"84ba73517e7eaa8a","fromNode":"10a36f46c6378062","fromSide":"bottom","toNode":"05ed805ef30efa42","toSide":"top"},
-		{"id":"6a5529bf28f2b533","fromNode":"05ed805ef30efa42","fromSide":"bottom","toNode":"60676c8d5205fbb9","toSide":"top"},
-		{"id":"100014ac3bf5f3a7","fromNode":"60676c8d5205fbb9","fromSide":"bottom","toNode":"797618595b32eabe","toSide":"top"},
-		{"id":"7a57441acfadc38e","fromNode":"797618595b32eabe","fromSide":"bottom","toNode":"2213cb40ac52ab1b","toSide":"top"}
+		{"id":"6a5529bf28f2b533","fromNode":"05ed805ef30efa42","fromSide":"bottom","toNode":"60676c8d5205fbb9","toSide":"top"}
 	]
 }
