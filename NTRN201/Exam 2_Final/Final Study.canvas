@@ -24,10 +24,10 @@
 		{"id":"a2a0c512500db2ee","type":"text","text":"# Minerals\nIndividual chemical elements; cannot be broken down further\n**Major**: > 100mg/day\n**Minor**: <100mg/day","x":-122,"y":-1151,"width":452,"height":200,"color":"6"},
 		{"id":"e6b32c1615b099b5","type":"text","text":"### Phosphorus\nRDA: 700mg\nUL: 3-4 g/day (may cause tissue calcification and stone formation)s\nRDA: 700mg\n#### Functions\n- Component of hydroxyapatite (contributes to bone and teeth strength)\n- Part of DNA and RNA\n- Primary component of ATP\n- Allows enzymes and B vitamins to function\n- Component of phospholipid membrane\n#### Sources\nMilk, cheese, meat, bread, nuts, fish, breakfast cereals, bran, eggs","x":720,"y":-896,"width":452,"height":536,"color":"3"},
 		{"id":"06fbb856c3dfab46","type":"text","text":"### Magnesium (Mg)\nRDA: 400mg/day ; 310mg/day\nUL: 350mg/day\n#### Functions\n- Bone contains 60% of the body's magnesium\n- Nerve and heart function\n- Relaxes muscles after contraction\n- Provides rigidity to bones\n- Lowers risk of type 2 diabetes\n#### Sources\nFound in chlorophyll and comes from plant sources, milk and meats, some magnesium in chocolate, espresso\n#### Deficiency\nAlcoholism increases risk of deficiency\nSx -- irregular heartbeat, decreased bone strength and bone volume, poor bone development and formation ","x":1200,"y":-896,"width":452,"height":536,"color":"3"},
-		{"id":"39dc693b66643012","type":"text","text":"","x":165,"y":335,"width":130,"height":50,"color":"3"},
+		{"id":"39dc693b66643012","type":"text","text":"promotes bone health through antioxidant activity","x":165,"y":335,"width":165,"height":185,"color":"3"},
 		{"id":"76816f9e7c3e4930","type":"text","text":"","x":483,"y":-921,"width":130,"height":50,"color":"3"},
 		{"id":"2b07e97cd58f0b8d","type":"text","text":"","x":972,"y":-921,"width":130,"height":50,"color":"1"},
-		{"id":"8896831b1d7a078c","x":1643,"y":-783,"width":250,"height":50,"type":"text","text":""}
+		{"id":"8896831b1d7a078c","x":1680,"y":-896,"width":250,"height":416,"type":"text","text":"### Zinc"}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
