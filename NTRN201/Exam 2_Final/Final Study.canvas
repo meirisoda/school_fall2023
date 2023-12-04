@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"5cdbadd76df3a2e4","x":-247,"y":-306,"width":250,"height":266,"type":"text","text":"# Vitamins\nCarbon containing substances needed in small amounts by the body\nAre essential (meaning the body cannot synthesize them)"},
 		{"id":"8e6a5efff649d068","x":-400,"y":-18,"width":250,"height":298,"type":"text","text":"## Fat-Soluble Vitamins\nAbsorbed and stored with dietary fat (so anything that interferes with fat absorption will impair vitamin absorption) -- not readily excreted by the body"},
-		{"id":"10a36f46c6378062","x":-100,"y":-14,"width":250,"height":76,"type":"text","text":"## Water-Soluble Vitamins"}
+		{"id":"10a36f46c6378062","x":-100,"y":-14,"width":250,"height":76,"type":"text","text":"## Water-Soluble Vitamins"},
+		{"id":"7eefe4ddef9925fc","x":-542,"y":337,"width":250,"height":60,"type":"text","text":"### Vitamin A\nRDA: 900mcg/700mcg\n**Functions**\n- promote vision (both night and color)"}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
