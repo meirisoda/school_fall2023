@@ -137,4 +137,9 @@ WBC that ingests foreign cells; aka phagocyte
 WBC that increases in number during allergic reactions; another phagocyte
 #### Basophil
 WBC that controlls inflammation
-Levels increase during
+Levels increase during poisonings
+#### Thrombocyte (Platelets)
+Protoplasmic disc smaller than RBCs
+Promotes coagulation
+#### Plasma
+Fluid, extracellular portion of the blood
