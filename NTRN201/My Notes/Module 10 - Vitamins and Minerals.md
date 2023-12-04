@@ -42,7 +42,7 @@ RDA: 900 micrograms (남) 700 micrograms (녀)
 - can also be synthesized from the amino acid tryptophan.
 ### Vitamin K
 **Functions** 
-
+Plays 
 **Sources**
 - can also be synthesized by the gut bacteria to some extent. 
 ## Water-Soluble Vitamins
@@ -146,4 +146,5 @@ Fluid, extracellular portion of the blood
 ### Hemostasis
 Process of stopping blood loss
 - **Vasoconstriction**: narrows the blood vessels, which limits the blood flow to damaged tissue
-- **Platelet Plug**: platelets stick to damaged tissue and each other, creates temporary se
+- **Platelet Plug**: platelets stick to damaged tissue and each other, creates temporary seal that stops the bleeding
+- **Coagulation (blood clotting)**: changes the blood from liquid to solid
