@@ -133,3 +133,8 @@ WBC responsible for immune response
 Regulates antibody production
 #### Monocyte
 WBC that ingests foreign cells; aka phagocyte
+#### Eosinophil
+WBC that increases in number during allergic reactions; another phagocyte
+#### Basophil
+WBC that controlls inflammation
+Levels increase during
