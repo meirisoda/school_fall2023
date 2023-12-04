@@ -143,3 +143,6 @@ Protoplasmic disc smaller than RBCs
 Promotes coagulation
 #### Plasma
 Fluid, extracellular portion of the blood
+### Hemostasis
+Process of stopping blood loss
+- **Vasoconstriction**: 
