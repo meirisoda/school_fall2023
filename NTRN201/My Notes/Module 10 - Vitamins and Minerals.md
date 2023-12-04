@@ -145,4 +145,5 @@ Promotes coagulation
 Fluid, extracellular portion of the blood
 ### Hemostasis
 Process of stopping blood loss
-- **Vasoconstriction**: 
+- **Vasoconstriction**: narrows the blood vessels, which limits the blood flow to damaged tissue
+- **Platelet Plug**: platelets stick to damaged tissue and each other, creates temporary se
