@@ -83,6 +83,7 @@ Emotion regulation is a <mark class="hltr-grey">lifelong process</mark> of worki
 	- involves manipulation -- quite difficult 
 	- Extremely realistic, avoids demand characteristics, potent, targets discrete emotions that are difficult to elicit
 
+Testingtesting
 ## (7) **How do people communicate emotions?** Relatedly, how are emotions in other measured (behaviorally, autonomically, neurally, via self-report)?
 - Communication
 	- Verbally (words, tone, volume)
