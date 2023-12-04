@@ -54,7 +54,9 @@ Excreted via urine.
 ### Vitamin B Complex
 #### Thiamine (B1)
 Involved in the metabolism of carbohydrates and branched-chain amino acids. 
-Absorbed from the small intenstine 
+Absorbed from the small intenstine, transported in coenzyme form by RBCs and excreted via urine. 
+##### Deficiencies -- Beriberi
+**Dry **
 #### Riboflavin
 #### Niacin
 #### Pantothenic acid
