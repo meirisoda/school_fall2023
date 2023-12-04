@@ -117,5 +117,8 @@ Interacts with fiber: phytic acid and oxalic may decrease some mineral absorptio
 Vitamin D increases calcium absorption.</mark>
 #### Storage
 in the muscle tissue, organs and glands. 
-# Blood Health
-Blood has different 
+# Miscellaneous
+## Blood 
+Blood has different parts
+**Plasma** - fluid, extracellular portion of blood
+**Erythrocytes** - RBC that contain 
