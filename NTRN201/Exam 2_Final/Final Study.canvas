@@ -16,7 +16,7 @@
 		{"id":"431832726ab30e75","type":"text","text":"### B12\n#### Functions\n- Coenzyme of folate metabolism and aids in nerve function\n- Maintains myelin sheath\n\nRequires intrinsic factor (IF) for absdorption!! \n#### Deficiency\nWill cause destruction of parts of the myelin sheath\nSx -- irregular muscle actions, impaired reflexes and eventual paralysis or death\n","x":691,"y":1680,"width":331,"height":480},
 		{"id":"5cdbadd76df3a2e4","type":"text","text":"# Vitamins\nCarbon containing substances needed in small amounts by the body\nAre essential (meaning the body cannot synthesize them)","x":-310,"y":-280,"width":452,"height":200},
 		{"id":"a2a0c512500db2ee","type":"text","text":"# Minerals\nIndividual chemical elements; cannot be broken down further\n**Major**: > 100mg/day\n**Minor**: <100mg/day","x":-309,"y":-520,"width":452,"height":200},
-		{"id":"e95d675e822db7e4","x":205,"y":-550,"width":250,"height":370,"type":"text","text":"### Iron\nRDA: 8mg/day ; 18mg/day\n#### Functions\n- Used as part of many enzymes and proteins \n- Needed for brain and immune function\n- Helps detoxify drugs in the liver\n"}
+		{"id":"e95d675e822db7e4","x":205,"y":-550,"width":250,"height":370,"type":"text","text":"### Iron\nRDA: 8mg/day ; 18mg/day\n#### Functions\n- Used as part of many enzymes and proteins \n- Needed for brain and immune function\n- Helps detoxify drugs in the liver\n#### Deficiency\n##### Iron Deficiency Anemia\nStage 1: Deplete\n"}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
