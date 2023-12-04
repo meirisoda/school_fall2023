@@ -64,8 +64,9 @@ Absorbed from the small intenstine, transported in coenzyme form by RBCs and exc
 Related to alcohol abuse, which decreases thiamin absorption and increases excretion (may also decrease intake due to the primary source of calories and nutrients being from alcohol)
 Affects the central nervous system
 	**Wernicke's**: acute confusion, changes in vision, ataxia
-	**Korsakoff's**: amnesia, psycho
+	**Korsakoff's**: amnesia, psychosis
 #### Riboflavin
+Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the b6 coenzyme and folate metablilsm)
 #### Niacin
 #### Pantothenic acid
 #### Biotin
