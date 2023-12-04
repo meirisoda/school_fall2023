@@ -67,7 +67,9 @@ Affects the central nervous system
 	**Korsakoff's**: amnesia, psychosis
 #### Riboflavin
 Involved in energy metabolism, B-vitamin metabolism (converts niacin from tryptophan, activates the b6 coenzyme and folate metablilsm), also is an antioxidant. 
-HCl in the stomach releases bound riboflavin --> absorbed by active transport or facilitated diffusion from the small intestine (60-65% efficiency) --> transported through the blood by protein carriers --> converted to coenzyme form mainly in the small 
+HCl in the stomach releases bound riboflavin --> absorbed by active transport or facilitated diffusion from the small intestine (60-65% efficiency) --> transported through the blood by protein carriers --> converted to coenzyme form mainly in the small intestine, liver, heart and kidneys
+##### Defiency -- Ariboflavinosis
+Rare and requires 2 months of constnat deficient intake
 #### Niacin
 #### Pantothenic acid
 #### Biotin
