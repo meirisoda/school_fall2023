@@ -76,7 +76,7 @@ Comes in two forms:
 - nicotinic acid (niacin)
 - nicotinamid (niacinamide)
 Functions in coenzymes (NAD+ and NADP+), catabolism of energy-yielding nutrients and fatty acid biosynthesis
-Can be taken in directly from foods or 
+Can be taken in directly from foods or indirectly (synthesized from tryptophan)
 #### Pantothenic acid
 #### Biotin
 #### Vitamin B6
