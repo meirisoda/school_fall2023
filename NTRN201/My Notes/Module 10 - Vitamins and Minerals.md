@@ -91,7 +91,8 @@ Stored in the liver.
 #### Folate (B9)
 Involved in cell division, metabolism of amino acids and DNA formation
 ##### Deficiency -- Megaloblastic Anemia (Macrocytic anemia)
-Immature cells can
+Immature cells can't divide because they can't form new DNA and keep growing larger
+	Tongue inflammation, diarrhea, poor growth, mental confusion, depression, nerve dysfunction 
 #### Vitamin B12 
 Stored in the liver. 
 ### Choline
