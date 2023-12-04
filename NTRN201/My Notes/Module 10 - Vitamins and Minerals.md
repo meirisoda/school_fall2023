@@ -137,6 +137,7 @@ Blood has different parts
 Can be caused by:
 - Low RBC production or low hemoglobin production in RBCs
 - Loss or destruction of blood
+Symptoms result from 
 ### White Blood Cell Types
 #### Leukocyte
 White blood cell; involved in the immune system
