@@ -181,7 +181,8 @@ We watch his slow descent into addiction and his efforts to stay afloat - a cons
 However, our brain still requires further brain structures to aid in decision making and behavior control. These brain structures (referring to the prefrontal cortex) are usually associated with higher-level processes: reasoning abilities and the capacity for cognitive control. Cognitive control can be defined as the ability to change behavior and appraisal in association with the person's goals or intentions, even when emotions prevent "correct" action. 
 The activation of brain regions regarding emotional and more "practical" responses were studied by giving participants in a research study certain choices they had to make. The classic trolley problem (where a person has to decide between letting a train kill 5 workers tied to a track, or divert those 5 deaths by switching the trolley to a different track, which will instead kill one person) was presented alongside an alternative dilemma known as the footbridge scenario. This situation replaces the more distanced decision by instead directly pushing a person off a bridge to stop the trolley from running over the 5 workers. This places the two dilemmas in two different categories: a "personal" moral dilemma, the footbridge dilemma which inflicts direct and serious bodily harm on a different individal, and "impersonal" moral dilemmas like the switch dilemma, which involves the harm in a more removed fashion. 
 
-## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?T
+## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
+There are three subsystems involved in working memory capacity 
 
 ### Subsystems
 #### Phonological Loop
