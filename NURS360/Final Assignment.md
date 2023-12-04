@@ -20,3 +20,5 @@ The level of information that people have about blood donations in general are a
 The questions that this article sought to answer were: (1) the awareness of the blood service; (2) the willingness to donate blood; (3) to what extent were donors willing to recommend the blood service to other potential donors; (4) what were the factors influencing the willingness to recommend and (5) what communication channels were used. 
 
 As mentioned previously, word-of-mouth as an alternative advertising method was thought to be more effective than general advertising. Word of mouth communication that employed selective exposure strategies and words that sought to change attitudes were found to be quite effective. WIth word of mouth, a level of satisfaction by the user is implied and it is assumed that one is recommending it as they found it to be a good alternative or decision (so in this case, donating blood). 
+
+It was found that the influence of word-of-mouth on individuals' willingness to donate blood 
