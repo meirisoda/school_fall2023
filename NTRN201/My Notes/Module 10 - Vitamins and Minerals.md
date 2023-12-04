@@ -125,10 +125,14 @@ Vitamin D increases calcium absorption.</mark>
 #### Storage
 in the muscle tissue, organs and glands. 
 ## Iron (Fe)
+RDA
+- Male: 8mg/d
+- Female: 18mg/
+**Functions**
 - Used as parts of many enzymes and proteins
 - Needed for brain and immune function
 - **Helps detoxify drugs in the liver**
-- Iron is part of red and white blood c
+- Iron is part of red and white blood cells
 
 # Miscellaneous
 ## Blood 
