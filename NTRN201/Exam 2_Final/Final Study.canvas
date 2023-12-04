@@ -41,6 +41,6 @@
 		{"id":"58c6bff4d3e1d7b0","fromNode":"a2a0c512500db2ee","fromSide":"bottom","toNode":"e95d675e822db7e4","toSide":"top"},
 		{"id":"8e2fa87fb8c98cfc","fromNode":"a2a0c512500db2ee","fromSide":"bottom","toNode":"4753509a408226b5","toSide":"top"},
 		{"id":"ecbb4d3d31e3bc79","fromNode":"d5492feeffd5f299","fromSide":"top","toNode":"e6b32c1615b099b5","toSide":"left","color":"3"},
-		{"id":"372532093045a227","fromNode":"e6b32c1615b099b5","fromSide":"bottom","toNode":"06fbb856c3dfab46","toSide":"bottom","label":"reduces absorption"}
+		{"id":"372532093045a227","fromNode":"e6b32c1615b099b5","fromSide":"bottom","toNode":"06fbb856c3dfab46","toSide":"bottom","label":"Phosphorus reduces absorption"}
 	]
 }
