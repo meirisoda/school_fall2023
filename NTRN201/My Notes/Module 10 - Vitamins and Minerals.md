@@ -125,7 +125,10 @@ Vitamin D increases calcium absorption.</mark>
 #### Storage
 in the muscle tissue, organs and glands. 
 ## Iron (Fe)
-
+- Used as parts of many enzymes and proteins
+- Needed for brain and immune function
+- **Helps detoxify drugs in the liver**
+- Iron is part of red and white blood c
 
 # Miscellaneous
 ## Blood 
