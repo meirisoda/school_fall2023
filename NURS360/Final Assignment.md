@@ -30,5 +30,5 @@ Main motivators to blood donations:
 - financial and tangible rewards
 
 The questions that this article sought to answer were: (1) the awareness of the blood service; (2) the willingness to donate blood; (3) to what extent were donors willing to recommend the blood service to other potential donors; (4) what were the factors influencing the willingness to recommend and (5) what communication channels were used. 
-The major barriers to donating blood were perceived infection rates, fear of needles, seeing blood and the supposed unpleasant feelings or
+The major barriers to donating blood were perceived infection rates, fear of needles, seeing blood and the supposed unpleasant feelings or changes after donation (such as vas)
 The level of information that people have about blood donations in general are also a contributor to whether or not donations will happen. It was found that general advertising has only a limited role to play in stimulating donations and instead, word-of-mouth, plays a much larger role. It offers an alternative form of attracting and persuading potential and existing blood donors, especially with the advent of the internet allowing users to promote and share their experiences with others. 
