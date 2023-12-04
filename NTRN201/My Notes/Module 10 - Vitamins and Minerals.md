@@ -96,6 +96,7 @@ Immature cells can't divide because they can't form new DNA and keep growing lar
 Recommended is 400 mcg/day (600mcg/day for pregnancy)
 - Low folate levels in pregnant women are linked to neural tube defects in fetuses (important because neural tubes close within the first 28 days of pregnancy)
 #### Vitamin B12 
+Coenzyme of folate metabolism and aids in nerve function. ==maintains myeliln sheath that insulate
 Stored in the liver. 
 ### Choline
 # Minerals 
