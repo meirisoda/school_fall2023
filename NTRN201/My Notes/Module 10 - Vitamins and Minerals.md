@@ -100,7 +100,9 @@ Coenzyme of folate metabolism and aids in nerve function. ==maintains myeliln sh
 Requires Intrinsic Factor for absorption!!! 
 Stored in the liver. 
 ##### Defiency
-Will cause destruction 
+Will cause destruction of parts of the myelin sheath
+	Irregular muscle actions, impaired reflexes and eventual paralysis
+Pernicious anemia (anemia from lack of b12 absorption)
 ### Choline
 # Minerals 
 Individual chemical elements; cannot be broken down further.
