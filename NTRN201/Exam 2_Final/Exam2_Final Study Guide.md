@@ -29,3 +29,4 @@ end at 32
 (begin 33)
 ## Vitamins
 Carbon-containing substance sneeded in small amounts by the body. In order to classify as a vitamin, the body can't make enough to maintain its health and in the case of deficiencies, whatever function was lost can be cured if the vitamin is resupplied. 
+![[Module 10 - Vitamins and Minerals]]
