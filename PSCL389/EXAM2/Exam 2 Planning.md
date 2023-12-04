@@ -182,7 +182,7 @@ However, our brain still requires further brain structures to aid in decision ma
 The activation of brain regions regarding emotional and more "practical" responses were studied by giving participants in a research study certain choices they had to make. The classic trolley problem (where a person has to decide between letting a train kill 5 workers tied to a track, or divert those 5 deaths by switching the trolley to a different track, which will instead kill one person) was presented alongside an alternative dilemma known as the footbridge scenario. This situation replaces the more distanced decision by instead directly pushing a person off a bridge to stop the trolley from running over the 5 workers. This places the two dilemmas in two different categories: a "personal" moral dilemma, the footbridge dilemma which inflicts direct and serious bodily harm on a different individal, and "impersonal" moral dilemmas like the switch dilemma, which involves the harm in a more removed fashion. 
 
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions?
-There are three subsystems involved in working memory capacity, which includes the phono
+There are three subsystems (or storage methods) involved in working memory capacity, which includes the phonological loop, the visuaospatial sketchpad and the episodic buffer. THe phonological loop is involved in holding verbal and audio information a
 
 ### Subsystems
 #### Phonological Loop
