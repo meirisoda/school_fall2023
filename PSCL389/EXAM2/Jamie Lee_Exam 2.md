@@ -23,4 +23,5 @@ Another way that emotions can be useful are in group settings. In the readings a
 ## (7) How do people communicate emotions? Relatedly, how are emotions in others measured (behaviorally, autonomically, neutrally, via self report)? 
 Emotions are extremely important in communicating and maintaining relationships. Again, they serve several different functions intrapersonally, betwen two people and in groups. These emotions are usually communicated in three different ways: verbally, facial expression and bodily cues. These three are what other people are able to see and respond to. 
 Appraisals and interpretations of what somebody is feeling tends to be quite subjective and can be highly unreliable, but there have been many different methods devised to measure emotions, known as affect research. 
-Affect research typically involve inducing emotions in as-close-to-real-life-situations-as-possible, reading highl
+Affect research typically involve inducing emotions in as-close-to-real-life-situations-as-possible, reading highly emotionally coded statements, inducing certain facial expressions and using imagery or stimuli to induce emotions. 
+The most widely used scales 
