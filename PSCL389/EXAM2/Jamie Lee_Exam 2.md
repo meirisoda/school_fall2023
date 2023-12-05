@@ -1,5 +1,3 @@
-Jamie Lee 
-Final Exam
 # A Failure of Happiness
 ## (9) How do emotions influence the way in which people process information and/or form decisions?
 In the past, emotions helped us survive. It helped us assess our situations and act quickly and correctly in order to preserve our lives. However, we no longer live in a society where our livelihoods are being threatened, and the decisions that we have to make are much more complex. One has to take into account many different factors, such as their personal emotions, other people's emotions, the impact of their decision... the list goes on and on. 
