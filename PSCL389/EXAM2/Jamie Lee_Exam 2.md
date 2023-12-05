@@ -3,7 +3,7 @@ Final Exam
 # A Failure of Happiness
 ## (9) How do emotions influence the way in which people process information and/or form decisions?
 In the past, emotions helped us survive. It helped us assess our situations and act quickly and correctly in order to preserve our lives. However, we no longer live in a society where our livelihoods are being threatened, and the decisions that we have to make are much more complex. One has to take into account many different factors, such as their personal emotions, other people's emotions, the impact of their decision... the list goes on and on. 
-When making these more complex, cognitive-emotional decisions, two systems are usually at work: The emotions (core) system and the higher-level (control) syste
+When making these more complex, cognitive-emotional decisions, two systems are usually at work: The emotions (core) system and the higher-level (control) system. This is known as Levenson's Core and Control System Theory. The emotional system is highly reactive and gives us quick and automati
 ## (11) Working memory capacity and emotion regulation: How does WMC influence one's ability to control their emotions? 
 # Surprise Stimulus
 ## (4) Why/How are emotions important and/or functional (intrapersonal, dyadic, in a group)?
