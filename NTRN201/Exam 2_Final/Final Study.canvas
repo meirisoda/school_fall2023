@@ -34,7 +34,7 @@
 		{"id":"31e23332eefe3d63","type":"text","text":"## Energy Metabolism\n### Enzyme-Coenzyme Interactions\n**Apoenzyme**: inactive form of enzyme\n**Cofactor**: substance that combines with an inactive form of an enzyme to activate it\n**Coenzyme**: organic cofactors","x":-1756,"y":-1520,"width":554,"height":258,"color":"2"},
 		{"id":"b04191cef725abe9","type":"text","text":"","x":205,"y":520,"width":130,"height":50,"color":"4"},
 		{"id":"6e54cd4c5dd29d02","x":-2400,"y":120,"width":600,"height":740,"color":"4","type":"text","text":"## Immunity\n### Antioxidants\nProtect cells against **free radicals**, which are molecules with an unpaired electron that are unstable\n**Dietary antioxidant** is a substance in foods that significantly decrease adverse effects of reactive species such as reactive oxygen and nitrogen species on normal physiological function.\nHelp protect and repair - Vitamin E\n- Vitamin C \n- Vitamin A \n- Phytochemicals \n- Selenium (Se)cells."},
-		{"id":"10ad0294171bdb3e","x":-1871,"y":904,"width":250,"height":296,"type":"text","text":"### Carotenoids\nPhytochemicals with health promoting chemicals -- precursors of vitamin A ($beta$-carotene)"}
+		{"id":"10ad0294171bdb3e","x":-1871,"y":904,"width":250,"height":296,"type":"text","text":"### Carotenoids\nPhytochemicals with health promoting chemicals -- precursors of vitamin A ($\\beta$-carotene, $\\alpha$-caro)"}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
