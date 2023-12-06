@@ -32,7 +32,7 @@
 		{"id":"3e809246a18432f8","type":"text","text":"### Osteoporosis \nPresence of a stress-induced fracture OR \nA T-score of 22.5 or lower\n### Kyphosis\nCurvature of the upper spine results from demineralization of the vertebrae\n## DEXA\nDual energy x-ray absorptiometry, generates T score","x":-890,"y":-1240,"width":250,"height":520},
 		{"id":"aea78b364a9c421f","type":"text","text":"# Energy Metabolism\nThe chemical processes involved in maintaining life","x":1180,"y":-31,"width":472,"height":191},
 		{"id":"77f2177b475a6272","type":"text","text":"## Water\nThe universal solvent \n- transports nutrients and wastes\n- primary component of blood and lymph as well as chemical reactions\n### Urine Production\nTypically 1L \n### Fluid Conservation Hormones\n#### Antidiuretic hormone (ADH)\n- secreted by the pituitary gland when blood volume is low\n- tells kidneys to lower excretion which in turn increases blood volume\n#### Aldosterone and Angiotensin\n- Produced by the adrenal glands\n- Tells kidneys to conserve sodium and water \n### Thirst\nControlled by the hypothalamus\nIf you are thirsty, you are already dehydrated ","x":-2400,"y":-1240,"width":600,"height":577,"color":"5"},
-		{"id":"347f91b6564131db","x":-2400,"y":-616,"width":600,"height":496,"color":"5","type":"text","text":"## Electrolyte Balance\nPrimary extracellular ions: **Na+ and Cl-**\nPrimary intracellular ions: **K**"}
+		{"id":"347f91b6564131db","x":-2400,"y":-616,"width":600,"height":496,"color":"5","type":"text","text":"## Electrolyte Balance\nPrimary extracellular ions: **Na+ and Cl-**\nPrimary intracellular ions: **K+** and $PO4-$\n"}
 	],
 	"edges":[
 		{"id":"3f72b8f18078ee8e","fromNode":"5cdbadd76df3a2e4","fromSide":"bottom","toNode":"8e6a5efff649d068","toSide":"top"},
