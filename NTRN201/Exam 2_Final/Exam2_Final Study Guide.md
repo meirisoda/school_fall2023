@@ -10,7 +10,8 @@
 5. What are the different ways the body can produce glucose? 
 	1. what the fuck does this mean lmao
 6. What are the functions of protein in the body? 
-	1. 
+	1. regulates and maintains bodily functions
+	2. <mark class="hltr-yellow">provides the essential form of nitrogen</mark>
 7. What are complementary proteins? 
 8. What do trans fatty acids do to cholesterol? Raise or lower? Which type of cholesterol? 
 9. What are the functions of cholesterol in the body? 
