@@ -140,6 +140,7 @@
 61. How does antioxidant work in the body? 
 	1. protect cells against free radicals 
 62. What is oxidative stress? 
+	1. oxidative stress is 
 63. What is a free radical and why are free radicals thought to be harmful to the body? 
 64. What environmental factors promote oxidative stress from free radicals? 
 65. DNA damage by free radicals sets the stage for what chronic diseases? 
