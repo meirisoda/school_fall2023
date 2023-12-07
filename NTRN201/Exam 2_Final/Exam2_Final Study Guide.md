@@ -160,7 +160,7 @@
 	1. reduce macular degeneration
 	2. prevent CVD
 	3. prevent cancer in the lungs, mouth, skin and prostate
-71. List three function of zinc? 
+71. <mark class="hltr-yellow">List three function of zinc? </mark>
 	1. immunity
 	2. DNA synthesis and function
 	3. wound healing 
