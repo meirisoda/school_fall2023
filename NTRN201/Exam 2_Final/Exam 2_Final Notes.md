@@ -46,4 +46,10 @@ $\downarrow$ ariboflavinosis
 ## Niacin (B3)
 Coenzymes (NAD+ and NADP+)
 catabolism of energy-yielding nutrients
-can be synthesized f
+can be synthesized from tryptophan
+$\downarrow$ pellagra 
+## Biotin (B7)
+coenzyme of glucose production and fat synthesis
+hair and nails
+excreted via bile and urine
+$\downarr
