@@ -36,6 +36,7 @@ milk, cheese, meat, nuts, fish
 ### Sources
 chlorophyll/plant sources, milk and meats
 # Energy Metabolism
+apoenzyme -- inactive form ao
 ## Thiamine (B1)
 ### Functions
 metabolism of carbohydrates and branched chain amino acids
@@ -58,4 +59,6 @@ involved in cell division, metabolism of amino acids and DNA formation
 green leafy vegetables
 $\downarrow$ megaloblastic anemia 
 ## B12
-coenzyme of folate metabolis
+coenzyme of folate metabolism and maintains myelin sheath
+requires IF for absorption
+$\downarrow$ nerve function 
