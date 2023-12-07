@@ -5,3 +5,4 @@
 ### Functions 
 - maintenance of calcium and phosphorus
 - regulates calcium excretion via kidney (along with PTH)
+- 
