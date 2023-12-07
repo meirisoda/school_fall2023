@@ -1,4 +1,4 @@
-                                                                                                                                                                                       # Bone Health
+                                                                                                                                                                                                                          # Bone Health
 **Hydroxyapatite** - crystalline compount containing calcium, phosphorus and sometimes fluoride
 ## Vitamin D 
 15mcg-> 100mg 
