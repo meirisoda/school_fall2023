@@ -1,8 +1,12 @@
 # Final Study Guide
 1. What type of improvements can be made in the typical American diet? 
+	1. Generally eat healthier lmao
 2. MyPlate: basic messages, including foods to increase and reduce 
+	1. blehhhh
 3. What is the storage form of glucose? What is its function? 
+	1. glycogen is the storage form of glucose and it is to provide muscles and the liver with energy
 4. What is dietary fiber? 
+	1. meant to hel
 5. What are the different ways the body can produce glucose? 
 6. What are the functions of protein in the body? 
 7. What are complementary proteins? 
