@@ -195,6 +195,8 @@
 	1. citrus
 	2. plums
 80. What are the primary functions of vitamin E? 
+	1. immune system functions 
+	2. prevent the breakdown of vitamin A and unsaturated fatty acids
 81. What is the primary source of vitamin E? 
 82. What minerals are involved in bone health? 
 83. What is hydroxyapatite? 
