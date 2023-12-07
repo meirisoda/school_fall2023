@@ -156,7 +156,7 @@
 	1. Vitamin E
 69. What are phytochemicals? 
 	1. phytochemicals are parts of plants that are precursors to certain vitamins or antioxidants
-	##
+# Difficulty from here on
 70. <mark class="hltr-yellow">Three functions of phytochemicals? </mark>
 	1. reduce macular degeneration
 	2. prevent CVD
@@ -180,7 +180,7 @@
 	3. prevents drying of the skin and eyes
 	4. promotes resistance to bacterial infection and overall immune system function
 75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
-	1. 
+	1. night blindness,
 76. List two rich food sources of carotenoids? 
 77. List three functions of vitamin C? 
 78. What are the consequences of Vitamin C deficiency? 
