@@ -32,7 +32,7 @@
 14. What is ATP? 
 	1. the form of energy that is needed for cells to work 
 15. How are amino acids metabolized to produce energy? 
-	1. amino acids are 
+	1. amino acids are broken down into enzyme forms 
 16. What are the physiological effects of fasting at short, intermediate, and long time periods? 
 17. Describe the different types of energy production in the body and under what conditions they occur. 
 18. What conditions lead to ketosis? 
