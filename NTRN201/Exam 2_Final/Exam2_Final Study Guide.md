@@ -202,6 +202,7 @@
 82. What minerals are involved in bone health? 
 	1. calcium, phosphorus, magnesium, zinc
 83. What is hydroxyapatite? 
+	1. crystalline compount containing calcium phosphorus, and sometimes fluoride 
 84. What biological factors impact bone health? 
 85. What lifestyle factors impact bone health (i.e. high protein intake)? 
 86. What are the functions of calcium? 
