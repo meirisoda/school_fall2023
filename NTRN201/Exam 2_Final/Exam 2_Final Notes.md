@@ -78,9 +78,14 @@ prevent cancer in the lungs, mouth, skin and prostate
 ### Sources
 fish and fish oils, liver, fortified milk and cereals
 can be synthesized from $\beta$-carotene
+
 $\downarrow$ night blindness and poor growth
 $\uparrow$ fetal malformations, hair loss and bone fraactures
 ## Vitamin E
 -> 1000mg/day
+### Functions
 found in adipose tissue and cell membrane (because PUFA polyunsaturated fatty acids)
-important in areas e
+important in areas exposed to high levels of oxygen
+prevents breakdown of vitamin A and PUFA
+### Sources 
+vegetable oils, nuts and seeds 
