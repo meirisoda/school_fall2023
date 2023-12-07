@@ -148,6 +148,7 @@
 65. DNA damage by free radicals sets the stage for what chronic diseases? 
 	1. cancer
 66. Why are cell membranes susceptible to free radical damage? 
+	1. 
 67. What are the best dietary choices to improve the body’s defense against free radicals? 
 68. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
 69. What are phytochemicals? 
