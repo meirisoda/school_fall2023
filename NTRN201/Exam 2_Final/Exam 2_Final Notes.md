@@ -77,4 +77,6 @@ prevent cancer in the lungs, mouth, skin and prostate
 - promotes resistance to bacterial infection
 ### Sources
 fish and fish oils, liver, fortified milk and cereals
-can be synthesized from $\be$
+can be synthesized from $\beta$-carotene
+$\downarrow$ night blindness and poor growth
+$\uparrow$ fetal malformations, hair loss and 
