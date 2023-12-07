@@ -36,7 +36,8 @@ milk, cheese, meat, nuts, fish
 ### Sources
 chlorophyll/plant sources, milk and meats
 # Energy Metabolism
-apoenzyme -- inactive form ao
+apoenzyme -- inactive form of enzyme
+cofactor -- substance that combines with an inactive form of enzyme 
 ## Thiamine (B1)
 ### Functions
 metabolism of carbohydrates and branched chain amino acids
