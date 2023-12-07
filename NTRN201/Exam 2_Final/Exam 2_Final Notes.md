@@ -34,4 +34,5 @@ milk, cheese, meat, nuts, fish
 - relaxes muscle after contraction
 - provides rigitiy to bones
 ### Sources
-chlorophyll/pla
+chlorophyll/plant sources, milk and meats
+# Energy Metabolism
