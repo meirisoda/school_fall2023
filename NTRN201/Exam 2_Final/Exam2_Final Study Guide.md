@@ -204,8 +204,9 @@
 83. What is hydroxyapatite? 
 	1. crystalline compount containing calcium phosphorus, and sometimes fluoride 
 84. What biological factors impact bone health? 
-	1. 
+	1. estrogen
 85. What lifestyle factors impact bone health (i.e. high protein intake)? 
+	1. physical activity 
 86. What are the functions of calcium? 
 87. What interferes with calcium absorption? 
 88. What are the key functions of phosphorus beyond bone health? 
