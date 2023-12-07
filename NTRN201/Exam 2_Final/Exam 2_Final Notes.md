@@ -107,3 +107,8 @@ animal proteins, fortified cereals and grains, wheat germ, asparagus
 # Blood
 ## Vitamin K
 ### Functions
+- clotting factor
+- important in bone health
+### Sources
+synthesized in the gut by bactera
+liver, dark leafy greens, broccoli
