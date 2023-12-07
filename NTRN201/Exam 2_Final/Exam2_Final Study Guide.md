@@ -171,7 +171,8 @@
 	4. asparagus
 73. What are the consequences of zinc deficiency? 
 	1. growth stunted (height and sexual organ development)
-	2. acne like 
+	2. acne like rashes and taste alterations
+	3. hair loss and poor wound healing
 74. What are the functions of vitamin A? 
 75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
 76. List two rich food sources of carotenoids? 
