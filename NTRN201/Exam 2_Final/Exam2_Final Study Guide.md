@@ -13,7 +13,9 @@
 	1. regulates and maintains bodily functions
 	2. <mark class="hltr-yellow">provides the essential form of nitrogen</mark>
 7. What are complementary proteins? 
+	1. proteins that make up for amino acids that some of the other ones lack
 8. What do trans fatty acids do to cholesterol? Raise or lower? Which type of cholesterol? 
+	1. trans fatty acids 
 9. What are the functions of cholesterol in the body? 
 10. What are the benefits and risks associated with alcohol consumption? 
 11. What are the recommendations for at-risk sub groups related to alcohol consumption? 
