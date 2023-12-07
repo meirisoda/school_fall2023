@@ -24,4 +24,4 @@ As mentioned previously, word-of-mouth as an alternative advertising method was 
 It was found that there was a positive influence of word-of-mouth on individuals' willingness to donate blood; results showed that for people between the ages of 18 and 30 that recommendations were the deciding factor for blood donations at the Red Cross. This level of influence decreased with increasing age. The same could be seen in the role of recommendations being the deciding factor of whether or not someone is more likely to donate in the future. 
 What is interesting is that even though the importance of recommendations on whether or not people donated decreased with age, the likelihood of recommending donations increased with age. 
 
-This article is relevant to my NURS360 community experience as I noticed that there were a lot of open donation time slots. Although there was decent number of donors throughout my 
+This article is relevant to my NURS360 community experience as I noticed that there were a lot of open donation time slots. Although there was decent number of donors throughout my shift, 
