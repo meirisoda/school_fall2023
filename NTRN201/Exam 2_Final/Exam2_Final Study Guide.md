@@ -115,14 +115,15 @@
 	3. who knew
 51. What are the functions of sodium? 
 	1. provide fluid and electrolyte balance 
-	2. nerve transmission
 52. What are high sodium food sources? 
 	1. the average american diet
 53. What are examples of low sodium foods?
 	1. not the average american diet
 54. What are the functions of potassium? 
 	1. aid with fluid retention 
+	2. nerve impulse transmission
 55. List three sources of dietary potassium? 
+	1. unprocessed foods, milk, potatoes
 56. Who is at risk for potassium deficiency? 
 57. Who is at risk for high blood potassium levels? 
 58. What are strategies to reduce the risk of developing hypertension? 
