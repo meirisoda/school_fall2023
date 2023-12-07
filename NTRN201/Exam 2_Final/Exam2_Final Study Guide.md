@@ -6,7 +6,7 @@
 3. What is the storage form of glucose? What is its function? 
 	1. glycogen is the storage form of glucose and it is to provide muscles and the liver with energy
 4. What is dietary fiber? 
-	1. meant to hel
+	1. meant to help with bulking of stool and aid in absorption of nutrients
 5. What are the different ways the body can produce glucose? 
 6. What are the functions of protein in the body? 
 7. What are complementary proteins? 
