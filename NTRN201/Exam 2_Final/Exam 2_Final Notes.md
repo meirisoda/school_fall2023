@@ -79,4 +79,7 @@ prevent cancer in the lungs, mouth, skin and prostate
 fish and fish oils, liver, fortified milk and cereals
 can be synthesized from $\beta$-carotene
 $\downarrow$ night blindness and poor growth
-$\uparrow$ fetal malformations, hair loss and 
+$\uparrow$ fetal malformations, hair loss and bone fraactures
+## Vitamin E
+-> 1000mg/day
+found in adipose tissue and cell membrane (because PUL)
