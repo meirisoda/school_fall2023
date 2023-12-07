@@ -123,8 +123,9 @@
 	1. aid with fluid retention 
 	2. nerve impulse transmission
 55. List three sources of dietary potassium? 
-	1. unprocessed foods, milk, potatoes
+	1. <mark class="hltr-yellow">unprocessed foods, milk, potatoes</mark>
 56. Who is at risk for potassium deficiency? 
+	1. alcoholics 
 57. Who is at risk for high blood potassium levels? 
 58. What are strategies to reduce the risk of developing hypertension? 
 59. Which foods have the highest water content. 
