@@ -61,9 +61,10 @@
 28. What can be used instead of BMI to determine body fatness? 
 	1. body fat percentage 
 29. How does body fat distribution indicate health risk? 
-	1. when you
+	1. when your body fat is distributed mostly around your belly, then it is seen as negative
 30. What the principles of a sound weight loss plan? 
-31. How is weight loss success defined? 3
+	1. must be sus
+31. How is weight loss success defined? 
 32. What are the characteristics of an appropriate weight-loss program? 
 33. What are the classifications of vitamins? 
 34. What are the differences between fat-soluble and water-soluble vitamins? 
