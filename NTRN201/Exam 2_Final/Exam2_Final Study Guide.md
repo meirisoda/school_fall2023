@@ -129,7 +129,16 @@
 128. Are there important nutrients for pregnancy and lactation? If so, what are they? 
 129. What are the benefits of breastfeeding for mothers? 
 130. What is the growth and body mass trajectory for infants? 
-131. How is failure to thrive defined? 132. Describe infant nutrient needs over time. 133. What special vitamin and mineral needs do infants have? 134. How does breastfeeding benefit an infant? 135. How do you compress morbidity? 136. When does physical decline begin in adults? 137. What are the risk factors for dehydration in older adults? 138. What are the benefits of physical activity for older adults? 139. What are risk factors for loss of bone mass? 140. What are the nutritional conditions related to aging and how do you prevent them?
+131. How is failure to thrive defined? 
+132. Describe infant nutrient needs over time. 
+133. What special vitamin and mineral needs do infants have? 
+134. How does breastfeeding benefit an infant? 
+135. How do you compress morbidity? 
+136. When does physical decline begin in adults? 
+137. What are the risk factors for dehydration in older adults? 
+138. What are the benefits of physical activity for older adults? 
+139. What are risk factors for loss of bone mass? 
+140. What are the nutritional conditions related to aging and how do you prevent them?
 # Midterm Content
 ## American Diet
 American diet has increased sodium, carbohydrate, fat and protein intake while not meeting the dietary fiber needs nor some other essential micronutrients. 
