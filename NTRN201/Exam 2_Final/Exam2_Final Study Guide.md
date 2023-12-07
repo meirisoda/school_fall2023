@@ -52,7 +52,7 @@
 24. What is TEF? 
 	1. Thermic effect of food
 25. Define Body Mass Index (BMI)
-	1. ratio between your weight and your height, supposed to be an indicator of health 
+	1. ratio between your weight and your height, supposed to be an indicator of health but often times is not
 26. What are the different BMI categories? 
 27. When is BMI not an accurate predictor of obesity and overweight?
 28. What can be used instead of BMI to determine body fatness? 
