@@ -127,7 +127,10 @@
 56. Who is at risk for potassium deficiency? 
 	1. alcoholics 
 57. Who is at risk for high blood potassium levels? 
+	1. people with CKD
 58. What are strategies to reduce the risk of developing hypertension? 
+	1. reduce sodium intake
+	2. blahblahblah
 59. Which foods have the highest water content. 
 60. What do vitamins A, C, and E function as? 
 61. How does antioxidant work in the body? 
