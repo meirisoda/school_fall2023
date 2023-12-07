@@ -4,6 +4,7 @@
 15mcg-> 100mg 
 Calcitriol is the biologically active form
 $\downarrow$ bone problems, decreased calcium absorption, rickets
+$\uparrow$ 
 ### Functions 
 - maintenance of calcium and phosphorus
 - regulates calcium excretion via kidney (along with PTH)
