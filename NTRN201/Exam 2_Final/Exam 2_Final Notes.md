@@ -92,3 +92,9 @@ vegetable oils, nuts and seeds
 
 $\uparrow$ interferes with vitamin K and anticoagulant medications 
 ## Vitamin C 
+75/90mg.day
+### Functions
+collagen synthesis
+serotonin and norepinephrine synthesis
+## Zinc
+-> 100mg
