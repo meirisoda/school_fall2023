@@ -112,3 +112,9 @@ animal proteins, fortified cereals and grains, wheat germ, asparagus
 ### Sources
 synthesized in the gut by bactera
 liver, dark leafy greens, broccoli
+
+$\downarrow$ reduced clotting function
+## Iron
+8/18mg -> 45mg
+### Functions
+- u
