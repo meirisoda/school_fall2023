@@ -198,6 +198,7 @@
 	1. immune system functions 
 	2. prevent the breakdown of vitamin A and unsaturated fatty acids
 81. What is the primary source of vitamin E? 
+	1. vegetable oils 
 82. What minerals are involved in bone health? 
 83. What is hydroxyapatite? 
 84. What biological factors impact bone health? 
