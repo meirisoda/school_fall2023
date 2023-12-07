@@ -68,4 +68,8 @@ $\downarrow$ nerve function
 ## Carotenoids 
 reduce macular degeneration
 prevent CVD
-prevent cancer in the lungs, mouth, skina
+prevent cancer in the lungs, mouth, skin and prostate 
+## Vitamin A
+900/700mcg -> 3000mcg
+### Functions
+- promote vision, 
