@@ -114,6 +114,7 @@
 	2. extracellular is outside the cell
 	3. who knew
 51. What are the functions of sodium? 
+	1. provide fluid and electrolyte balance 
 52. What are high sodium food sources? 
 53. What are examples of low sodium foods?
 54. What are the functions of potassium? 
