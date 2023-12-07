@@ -153,7 +153,7 @@
 	1. increase the amounts of non processed foods, eat as much natural foods as possible specifically fruits and vegetables
 	2. consume a lot of antioxidants
 68. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
-	1. 
+	1. Vitamin E
 69. What are phytochemicals? 
 70. Three functions of phytochemicals? 
 71. List three function of zinc? 
