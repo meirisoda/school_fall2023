@@ -83,8 +83,12 @@
 37. Where are minerals absorbed in the body? 
 	1. <mark class="hltr-yellow">Typically small intestine</mark>
 38. What are some the issues with mineral absorption? Interactions? Competition? 
-	1. Vitamin C increases iron 
+	1. Vitamin C increases iron absorption
+	2. Vitamin D increases calcium absorption 
+	3. Iron and Zinc interact with eachother
 39. What vitamins are synthesized in the body? 
+	1. Vitamin D can be synthesized by the sun
+	2. Vitamin A
 40. Dietary supplement labels – what does USP mean on the label? 
 41. What is enrichment? Bread and cereals are enriched with what vitamins? 
 42. What types of foods contain Vitamin C? 
