@@ -148,8 +148,9 @@
 65. DNA damage by free radicals sets the stage for what chronic diseases? 
 	1. cancer
 66. Why are cell membranes susceptible to free radical damage? 
-	1. because the lipid biyers are polyunsaturated fatty a
+	1. because the lipid biyers are <mark class="hltr-yellow">polyunsaturated fatty acids (PUFAs) </mark>and they are susceptible to oxidative attack
 67. What are the best dietary choices to improve the body’s defense against free radicals? 
+	1. 
 68. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
 69. What are phytochemicals? 
 70. Three functions of phytochemicals? 
