@@ -104,3 +104,6 @@ serotonin and norepinephrine synthesis
 - development of sexual organs and bones
 ### Sources
 animal proteins, fortified cereals and grains, wheat germ, asparagus
+# Blood
+## Vitamin K
+### Functions
