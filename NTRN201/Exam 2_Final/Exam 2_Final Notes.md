@@ -11,4 +11,6 @@ Calcitriol is the biologically active form
 ### Sources
 - salmon, fortified cereal, fortified milk and egg yolk
 ## Calcium
-1000mg
+1000mg->2500mg
+### Functions
+- bone growth
