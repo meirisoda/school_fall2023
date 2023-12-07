@@ -22,8 +22,9 @@
 	1. Supposed benefits are lowered LDL, better sleep, reduced stress and anxiety
 	2. Risks are increased BP and HR, maladaptive stress responses, cognitive issues
 11. What are the recommendations for at-risk sub groups related to alcohol consumption? 
-	1. 
+	1. lower alcohol consumption lmfao
 12. What are the signs and symptoms of alcohol abuse? 
+	1. 
 13. What is metabolism? 
 14. What is ATP? 
 15. How are amino acids metabolized to produce energy? 
