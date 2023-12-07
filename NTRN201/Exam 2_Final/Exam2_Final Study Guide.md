@@ -200,6 +200,7 @@
 81. What is the primary source of vitamin E? 
 	1. vegetable oils 
 82. What minerals are involved in bone health? 
+	1. calcium, phosphorus, magnesium, zinc
 83. What is hydroxyapatite? 
 84. What biological factors impact bone health? 
 85. What lifestyle factors impact bone health (i.e. high protein intake)? 
