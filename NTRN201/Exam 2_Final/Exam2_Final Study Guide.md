@@ -63,7 +63,9 @@
 29. How does body fat distribution indicate health risk? 
 	1. when your body fat is distributed mostly around your belly, then it is seen as negative
 30. What the principles of a sound weight loss plan? 
-	1. must be sus
+	1. must be sustainable
+	2. not too fast
+	3. provide all the necessary nutrients and shit
 31. How is weight loss success defined? 
 32. What are the characteristics of an appropriate weight-loss program? 
 33. What are the classifications of vitamins? 
