@@ -7,7 +7,7 @@ $\downarrow$ bone problems, decreased calcium absorption, rickets
 $\uparrow$ fetal malformations, hair loss and skin changes, bone pain 
 ### Functions 
 - maintenance of calcium and phosphorus
-- regulates calcium excretion via kidney (along with PTH)
+- regulates calcium excretion via kidney (along with PTH) --> **calcitonin** 
 - immune system function
 - cell cycle regulation
 ### Sources
