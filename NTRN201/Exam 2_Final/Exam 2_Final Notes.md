@@ -37,3 +37,7 @@ milk, cheese, meat, nuts, fish
 chlorophyll/plant sources, milk and meats
 # Energy Metabolism
 ## Thiamine (B1)
+### Functions
+metabolism of carbohydrates and branched chain amino acids
+### Deficiency
+Beriberi and wernicke korsakoff syndrome
