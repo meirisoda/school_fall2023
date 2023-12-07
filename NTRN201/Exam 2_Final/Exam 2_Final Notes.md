@@ -23,4 +23,8 @@ $\uparrow$ fetal malformations, hair loss and skin changes, bone pain
 ### Functions
 - component of hydroxyapatite 
 - part of DNA and RNA 
-- primary component 
+- primary component of ATP
+- allows enzymes and B vitamins to function 
+### Sources
+milk, cheese, meat, nuts, fish
+## Magnesium
