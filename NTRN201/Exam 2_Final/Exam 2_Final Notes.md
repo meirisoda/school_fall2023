@@ -89,3 +89,6 @@ important in areas exposed to high levels of oxygen
 prevents breakdown of vitamin A and PUFA
 ### Sources 
 vegetable oils, nuts and seeds 
+
+$\uparrow$ interferes with vitamin K and anticoagulant medications 
+## Vitamin C 
