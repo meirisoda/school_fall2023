@@ -156,8 +156,12 @@
 	1. Vitamin E
 69. What are phytochemicals? 
 	1. phytochemicals are parts of plants that are precursors to certain vitamins or antioxidants
-70. Three functions of phytochemicals? 
+70. <mark class="hltr-yellow">Three functions of phytochemicals? </mark>
+	1. reduce macular degeneration
+	2. prevent CVD
+	3. prevent cancer in the lungs, mouth, skin and prostate
 71. List three function of zinc? 
+	1. 
 72. List three food sources of zinc? 
 73. What are the consequences of zinc deficiency? 
 74. What are the functions of vitamin A? 
