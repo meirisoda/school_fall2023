@@ -4,4 +4,4 @@
 15mcg-> 100mg 
 ### Functions 
 - maintenance of calcium and phosphorus
-- regulates calcium excretion via kidney ()
+- regulates calcium excretion via kidney (along with PTH)
