@@ -19,7 +19,8 @@
 9. What are the functions of cholesterol in the body? 
 	1. to aid in nerve function and are a precursor to hormones
 10. What are the benefits and risks associated with alcohol consumption? 
-	1. Benefits are supposed 
+	1. Supposed benefits are lowered LDL, better sleep, reduced stress and anxiety
+	2. Risks are increased 
 11. What are the recommendations for at-risk sub groups related to alcohol consumption? 
 12. What are the signs and symptoms of alcohol abuse? 
 13. What is metabolism? 
