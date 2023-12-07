@@ -180,8 +180,9 @@
 	3. prevents drying of the skin and eyes
 	4. promotes resistance to bacterial infection and overall immune system function
 75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
-	1. night blindness,
+	1. night blindness, poor growth and dry skin
 76. List two rich food sources of carotenoids? 
+	1. carrots 
 77. List three functions of vitamin C? 
 78. What are the consequences of Vitamin C deficiency? 
 79. List two rich food sources of vitamin C? 
