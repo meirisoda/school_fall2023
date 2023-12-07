@@ -65,3 +65,7 @@ coenzyme of folate metabolism and maintains myelin sheath
 requires IF for absorption
 $\downarrow$ nerve function 
 # Immunity
+## Carotenoids 
+reduce macular degeneration
+prevent CVD
+prevent cancer in the lungs, mouth, skina
