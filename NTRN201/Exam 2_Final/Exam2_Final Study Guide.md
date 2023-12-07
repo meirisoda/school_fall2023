@@ -67,8 +67,11 @@
 	2. not too fast
 	3. provide all the necessary nutrients and shit
 31. How is weight loss success defined? 
+	1. blehhhhhhhhhhhhhhhhhhhhh
 32. What are the characteristics of an appropriate weight-loss program? 
+	1. ehhhhhhhhhhhhhhhhhhhhhhhh
 33. What are the classifications of vitamins? 
+	1. must be 
 34. What are the differences between fat-soluble and water-soluble vitamins? 
 35. How are fat soluble vitamins absorbed in the body? 
 36. What are the classifications of minerals? 
