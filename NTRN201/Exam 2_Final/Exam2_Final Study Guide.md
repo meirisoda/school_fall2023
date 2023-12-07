@@ -20,7 +20,7 @@
 	1. to aid in nerve function and are a precursor to hormones
 10. What are the benefits and risks associated with alcohol consumption? 
 	1. Supposed benefits are lowered LDL, better sleep, reduced stress and anxiety
-	2. Risks are increased 
+	2. Risks are increased BP and HR, maladaptive stress responses, cognitive issues
 11. What are the recommendations for at-risk sub groups related to alcohol consumption? 
 12. What are the signs and symptoms of alcohol abuse? 
 13. What is metabolism? 
