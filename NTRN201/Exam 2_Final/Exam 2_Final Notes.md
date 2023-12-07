@@ -36,3 +36,4 @@ milk, cheese, meat, nuts, fish
 ### Sources
 chlorophyll/plant sources, milk and meats
 # Energy Metabolism
+## Thiamine (B1)
