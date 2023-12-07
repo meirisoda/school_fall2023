@@ -72,4 +72,9 @@ prevent cancer in the lungs, mouth, skin and prostate
 ## Vitamin A
 900/700mcg -> 3000mcg
 ### Functions
-- promote vision, 
+- promote vision and growth
+- skin and eyes
+- promotes resistance to bacterial infection
+### Sources
+fish and fish oils, liver, fortified milk and cereals
+can be synthesized from $\be$
