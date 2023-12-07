@@ -26,8 +26,11 @@
 12. What are the signs and symptoms of alcohol abuse? 
 	1. physiological symptoms such as stress and anxiety when not drinking 
 	2. increased cortisol levels
+	3. sleep disturbances
 13. What is metabolism? 
+	1. the sum of all chemical processes involved in bodily function
 14. What is ATP? 
+	1. the form of energy that is needed for cells to work 
 15. How are amino acids metabolized to produce energy? 
 16. What are the physiological effects of fasting at short, intermediate, and long time periods? 
 17. Describe the different types of energy production in the body and under what conditions they occur. 
