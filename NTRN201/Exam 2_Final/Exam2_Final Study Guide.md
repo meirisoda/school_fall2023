@@ -71,7 +71,8 @@
 32. What are the characteristics of an appropriate weight-loss program? 
 	1. ehhhhhhhhhhhhhhhhhhhhhhhh
 33. What are the classifications of vitamins? 
-	1. must be 
+	1. must be organic and also essential for the body to function
+	2. ie depletion causes problems and are fixed upon replenishing the missing vitamins
 34. What are the differences between fat-soluble and water-soluble vitamins? 
 35. How are fat soluble vitamins absorbed in the body? 
 36. What are the classifications of minerals? 
