@@ -42,8 +42,11 @@
 19. How is metabolism regulated? 
 	1. Metabolism is regulated by your hormones, age, current nutritional status 
 20. What is energy balance? Positive energy balance? Negative energy balance? 
+	1. blehhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 21. What contributes to total energy expenditure? 
+	1. blehhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 22. What is BMR? 
+	1. basal metabolic rate is the amount of energy needed to just sustain bodily function
 23. What effects BMR? 
 24. What is TEF? 
 25. Define Body Mass Index (BMI) 
