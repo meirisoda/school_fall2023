@@ -82,4 +82,5 @@ $\downarrow$ night blindness and poor growth
 $\uparrow$ fetal malformations, hair loss and bone fraactures
 ## Vitamin E
 -> 1000mg/day
-found in adipose tissue and cell membrane (because PUL)
+found in adipose tissue and cell membrane (because PUFA polyunsaturated fatty acids)
+important in areas e
