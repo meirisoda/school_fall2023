@@ -56,9 +56,12 @@
 26. What are the different BMI categories? 
 	1. underweight, normal, overweight
 27. When is BMI not an accurate predictor of obesity and overweight?
-	1. m
+	1. muscle mass
+	2. also as for when, pretty much all the fucking time lmao
 28. What can be used instead of BMI to determine body fatness? 
+	1. body fat percentage 
 29. How does body fat distribution indicate health risk? 
+	1. when you
 30. What the principles of a sound weight loss plan? 
 31. How is weight loss success defined? 3
 32. What are the characteristics of an appropriate weight-loss program? 
