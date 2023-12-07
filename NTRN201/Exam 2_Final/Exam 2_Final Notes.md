@@ -20,3 +20,5 @@ $\uparrow$ fetal malformations, hair loss and skin changes, bone pain
 - cellular metabolism
 ## Phosphorus
 700mg->3-4g/day
+### Functions
+- component of h
