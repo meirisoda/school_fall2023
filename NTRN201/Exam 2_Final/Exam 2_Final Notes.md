@@ -22,3 +22,4 @@ $\uparrow$ fetal malformations, hair loss and skin changes, bone pain
 700mg->3-4g/day
 ### Functions
 - component of hydroxyapatite 
+- part 
