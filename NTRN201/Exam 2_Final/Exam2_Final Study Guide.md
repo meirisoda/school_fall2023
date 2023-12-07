@@ -95,7 +95,33 @@
 94. How is vitamin D converted to its active form? What organs are involved? 
 95. Food sources of vitamin D? 
 96. What is vitamin D deficiency called in children and in adults? 
-97. What are the key functions of magnesium other than bone health? 98. What plant sources are rich in magnesium? 99. How is thiamin involved in energy metabolism? 100. What is the thiamin-deficiency disease called? 101. What are the major sources of thiamin? 102. How is riboflavin involved in energy metabolism? 103. What are the symptoms associated with riboflavin deficiency? 104. How is niacin involved in energy metabolism? 105. The niacin-deficiency disease is known as? 106. What two B vitamins are critical to red blood cell synthesis? 107. What is anemia? What are the different types, their causes, and their symptoms? 108. What is hemostasis? 109. What are the functions of vitamin K? 110. What are the major food sources of vitamin K? 111. List two functions of folate (vitamin B9)? 112. How can maternal folate deficiency impact a fetus? 113. List three food sources of folate? 114. What are the functions of vitamin B12? 115. What compounds or factors can interfere with the absorption of vitamin B12? 116. What are the food sources of vitamin B12? 117. How can a strict vegan find reliable sources of vitamin B12? 118. What special compound is required for B12 absorption? 119. List three functions of iron? 120. What are heme and nonheme iron? 121. What can you do to enhance your absorption of nonheme iron? 122. What is hemoglobin? Why is iron important in this part of the red blood cell? 123. Which micronutrient deficiencies and toxicities can cause fetal malformations? 124. Characterize fetal development during each trimester – don’t drive yourself crazy, think of one or two big things that happen in each trimester. 125. What conditions affect pregnancy outcomes negatively? 126. What dietary practices can be harmful to a fetus? What are the consequences? 127. What nutrition-related conditions do pregnant women experience and what are the treatments? 128. Are there important nutrients for pregnancy and lactation? If so, what are they? 129. What are the benefits of breastfeeding for mothers? 130. What is the growth and body mass trajectory for infants? 131. How is failure to thrive defined? 132. Describe infant nutrient needs over time. 133. What special vitamin and mineral needs do infants have? 134. How does breastfeeding benefit an infant? 135. How do you compress morbidity? 136. When does physical decline begin in adults? 137. What are the risk factors for dehydration in older adults? 138. What are the benefits of physical activity for older adults? 139. What are risk factors for loss of bone mass? 140. What are the nutritional conditions related to aging and how do you prevent them?
+97. What are the key functions of magnesium other than bone health? 
+98. What plant sources are rich in magnesium? 
+99. How is thiamin involved in energy metabolism? 
+100. What is the thiamin-deficiency disease called? 
+101. What are the major sources of thiamin? 
+102. How is riboflavin involved in energy metabolism? 
+103. What are the symptoms associated with riboflavin deficiency? 
+104. How is niacin involved in energy metabolism? 
+105. The niacin-deficiency disease is known as? 
+106. What two B vitamins are critical to red blood cell synthesis? 
+107. What is anemia? What are the different types, their causes, and their symptoms? 
+08. What is hemostasis? 
+108. What are the functions of vitamin K?
+109. What are the major food sources of vitamin K? 
+110. List two functions of folate (vitamin B9)? 
+111. How can maternal folate deficiency impact a fetus? 
+112. List three food sources of folate? 
+113. What are the functions of vitamin B12?
+114. What compounds or factors can interfere with the absorption of vitamin B12? 
+115. What are the food sources of vitamin B12? 
+116. How can a strict vegan find reliable sources of vitamin B12?
+117. What special compound is required for B12 absorption? 
+118. List three functions of iron? 
+119. What are heme and nonheme iron? 
+120. What can you do to enhance your absorption of nonheme iron? 122. What is hemoglobin? Why is iron important in this part of the red blood cell? 123. Which micronutrient deficiencies and toxicities can cause fetal malformations? 124. Characterize fetal development during each trimester – don’t drive yourself crazy, think of one or two big things that happen in each trimester. 
+121. What conditions affect pregnancy outcomes negatively? 
+122. What dietary practices can be harmful to a fetus? What are the consequences? 127. What nutrition-related conditions do pregnant women experience and what are the treatments? 128. Are there important nutrients for pregnancy and lactation? If so, what are they? 129. What are the benefits of breastfeeding for mothers? 130. What is the growth and body mass trajectory for infants? 131. How is failure to thrive defined? 132. Describe infant nutrient needs over time. 133. What special vitamin and mineral needs do infants have? 134. How does breastfeeding benefit an infant? 135. How do you compress morbidity? 136. When does physical decline begin in adults? 137. What are the risk factors for dehydration in older adults? 138. What are the benefits of physical activity for older adults? 139. What are risk factors for loss of bone mass? 140. What are the nutritional conditions related to aging and how do you prevent them?
 # Midterm Content
 ## American Diet
 American diet has increased sodium, carbohydrate, fat and protein intake while not meeting the dietary fiber needs nor some other essential micronutrients. 
