@@ -155,6 +155,7 @@
 68. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
 	1. Vitamin E
 69. What are phytochemicals? 
+	1. phytochemicals are parts of plants that are precursors to certain vitamins or antioxidants
 70. Three functions of phytochemicals? 
 71. List three function of zinc? 
 72. List three food sources of zinc? 
