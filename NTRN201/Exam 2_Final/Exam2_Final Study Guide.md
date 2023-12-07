@@ -81,8 +81,9 @@
 36. What are the classifications of minerals? 
 	1. Major and minor
 37. Where are minerals absorbed in the body? 
-	1. Typically 
+	1. <mark class="hltr-yellow">Typically small intestine</mark>
 38. What are some the issues with mineral absorption? Interactions? Competition? 
+	1. Vitamin C increases iron 
 39. What vitamins are synthesized in the body? 
 40. Dietary supplement labels – what does USP mean on the label? 
 41. What is enrichment? Bread and cereals are enriched with what vitamins? 
