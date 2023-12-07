@@ -101,7 +101,8 @@
 	1. skin and blood
 46. What hormones participate in fluid conservation in the body? What role do they play? 
 	1. <mark class="hltr-yellow">ADH and aldosterone and angiotensin</mark>
-	2. ADH 
+	2. ADH tells kidneys to lower excretion to increase (or maintain) blood volume
+	3. aldosterone and angiotensin ar
 47. Is thirst a good indicator of hydration status? Why or why not? 
 48. What are symptoms of dehydration/heat exhaustion/stroke? 
 49. Can a person consume too much water? 
