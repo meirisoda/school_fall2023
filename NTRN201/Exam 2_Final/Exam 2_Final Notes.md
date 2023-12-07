@@ -3,6 +3,7 @@
 ## Vitamin D 
 15mcg-> 100mg 
 Calcitriol is the biologically active form
+$\downarrow$ 
 ### Functions 
 - maintenance of calcium and phosphorus
 - regulates calcium excretion via kidney (along with PTH)
@@ -17,4 +18,4 @@ Calcitriol is the biologically active form
 - muscule contraction
 - cellular metabolism
 ## Phosphorus
-700mg-->
+700mg->3-4g/day
