@@ -43,3 +43,7 @@ $\downarrow$ Beriberi and wernicke korsakoff syndrome
 ## Riboflavin
 involved in energy metabolism, B-vitamin metabolism, antioxidant
 $\downarrow$ ariboflavinosis
+## Niacin (B3)
+Coenzymes (NAD+ and NADP+)
+catabolism of energy-yielding nutrients
+can be synthesized f
