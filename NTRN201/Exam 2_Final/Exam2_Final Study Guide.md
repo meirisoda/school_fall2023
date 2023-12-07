@@ -77,8 +77,11 @@
 	1. Fat soluble are stored in fat, and are affected if your fat absorption is affected -- <mark class="hltr-yellow">it is not readily excreted by the body</mark>
 	2. Water soluble is stored in water, absorbed in the small intestine and liver, transported throughout the body thorugh the portal vein and then excreted through urine 
 35. How are fat soluble vitamins absorbed in the body? 
+	1. in fat lmao 9Hence the fucking name
 36. What are the classifications of minerals? 
+	1. Major and minor
 37. Where are minerals absorbed in the body? 
+	1. Typically 
 38. What are some the issues with mineral absorption? Interactions? Competition? 
 39. What vitamins are synthesized in the body? 
 40. Dietary supplement labels – what does USP mean on the label? 
