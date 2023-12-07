@@ -10,3 +10,5 @@ Calcitriol is the biologically active form
 - cell cycle regulation
 ### Sources
 - salmon, fortified cereal, fortified milk and egg yolk
+## Calcium
+1000mg
