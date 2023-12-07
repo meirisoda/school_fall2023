@@ -13,4 +13,8 @@ Calcitriol is the biologically active form
 ## Calcium
 1000mg->2500mg
 ### Functions
-- bone growth
+- bone growth and stuff
+- muscule contraction
+- cellular metabolism
+## Phosphorus
+700mg-->
