@@ -41,3 +41,5 @@ chlorophyll/plant sources, milk and meats
 metabolism of carbohydrates and branched chain amino acids
 ### Deficiency
 Beriberi and wernicke korsakoff syndrome
+## Riboflavin
+involved in energy metabolism, B-vitamin metabolism, antioxidant
