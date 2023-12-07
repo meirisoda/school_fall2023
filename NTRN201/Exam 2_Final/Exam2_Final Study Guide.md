@@ -40,7 +40,7 @@
 18. What conditions lead to ketosis? 
 	1. When the body is depleted of glucose and has to turn to fat for energy 
 19. How is metabolism regulated? 
-	1. Metabolism is regulated by 
+	1. Metabolism is regulated by your hormones, age, current nutritional status 
 20. What is energy balance? Positive energy balance? Negative energy balance? 
 21. What contributes to total energy expenditure? 
 22. What is BMR? 
