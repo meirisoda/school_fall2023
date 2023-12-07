@@ -174,6 +174,8 @@
 	2. acne like rashes and taste alterations
 	3. hair loss and poor wound healing
 74. What are the functions of vitamin A? 
+	1. immunity
+	2. promote vision, growth
 75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
 76. List two rich food sources of carotenoids? 
 77. List three functions of vitamin C? 
