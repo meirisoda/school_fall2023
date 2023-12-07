@@ -103,4 +103,4 @@ serotonin and norepinephrine synthesis
 - protein metabolism, wound healing and growht
 - development of sexual organs and bones
 ### Sources
-animal proteins, fortified cereals a
+animal proteins, fortified cereals and grains, wheat germ, asparagus
