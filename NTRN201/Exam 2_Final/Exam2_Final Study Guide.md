@@ -207,6 +207,7 @@
 	1. estrogen
 85. What lifestyle factors impact bone health (i.e. high protein intake)? 
 	1. physical activity 
+	2. smoking and excessive alcohol intake will decrease bone density
 86. What are the functions of calcium? 
 87. What interferes with calcium absorption? 
 88. What are the key functions of phosphorus beyond bone health? 
