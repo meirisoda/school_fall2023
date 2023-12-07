@@ -165,7 +165,13 @@
 	2. DNA synthesis and function
 	3. wound healing 
 72. List three food sources of zinc? 
+	1. animal proteins
+	2. fortified cereals and grains
+	3. wheat germ
+	4. asparagus
 73. What are the consequences of zinc deficiency? 
+	1. growth stunted (height and sexual organ development)
+	2. acne like 
 74. What are the functions of vitamin A? 
 75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
 76. List two rich food sources of carotenoids? 
