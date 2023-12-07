@@ -52,4 +52,6 @@ $\downarrow$ pellagra
 coenzyme of glucose production and fat synthesis
 hair and nails
 excreted via bile and urine
-$\downarr
+## Folate (B9)
+400/600mcg/day -> 1000mcg (may mask B12 defiiciency)
+involved in cell division, metabolism of 
