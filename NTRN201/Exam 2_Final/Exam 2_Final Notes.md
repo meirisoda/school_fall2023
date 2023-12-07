@@ -117,4 +117,8 @@ $\downarrow$ reduced clotting function
 ## Iron
 8/18mg -> 45mg
 ### Functions
-- u
+- used as part of many enzymes and proteins
+- needed for brain and immune fx
+- detoxify drugs in the liver
+
+$\downarrow$ iron deficiency anemia
