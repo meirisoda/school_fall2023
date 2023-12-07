@@ -39,7 +39,7 @@ chlorophyll/plant sources, milk and meats
 ## Thiamine (B1)
 ### Functions
 metabolism of carbohydrates and branched chain amino acids
-### Deficiency
-Beriberi and wernicke korsakoff syndrome
+$\downarrow$ Beriberi and wernicke korsakoff syndrome
 ## Riboflavin
 involved in energy metabolism, B-vitamin metabolism, antioxidant
+$\downarrow$ ariboflavinosis
