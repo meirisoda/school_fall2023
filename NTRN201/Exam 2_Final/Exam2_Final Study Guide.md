@@ -102,101 +102,104 @@
 46. What hormones participate in fluid conservation in the body? What role do they play? 
 	1. <mark class="hltr-yellow">ADH and aldosterone and angiotensin</mark>
 	2. ADH tells kidneys to lower excretion to increase (or maintain) blood volume
-	3. aldosterone and angiotensin ar
+	3. aldosterone and angiotensin are produced by the adrenal glands and tells kidneys to conserve sodium and water
 47. Is thirst a good indicator of hydration status? Why or why not? 
+	1. no
 48. What are symptoms of dehydration/heat exhaustion/stroke? 
+	1. wah faint moment
 49. Can a person consume too much water? 
-50. What is the difference between intracellular and extracellular fluid? 
-51. What are the functions of sodium? 
-52. What are high sodium food sources? 
-53. What are examples of low sodium foods?
-54. What are the functions of potassium? 
-55. List three sources of dietary potassium? 
-56. Who is at risk for potassium deficiency? 
-57. Who is at risk for high blood potassium levels? 
-58. What are strategies to reduce the risk of developing hypertension? 
-59. Which foods have the highest water content. 
-60. What do vitamins A, C, and E function as? 
-61. How does antioxidant work in the body? 
-62. What is oxidative stress? 
-63. What is a free radical and why are free radicals thought to be harmful to the body? 
-64. What environmental factors promote oxidative stress from free radicals? 
-65. DNA damage by free radicals sets the stage for what chronic diseases? 
-66. Why are cell membranes susceptible to free radical damage? 
-67. What are the best dietary choices to improve the body’s defense against free radicals? 
-68. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
-69. What are phytochemicals? 
-70. Three functions of phytochemicals? 
-71. List three function of zinc? 
-72. List three food sources of zinc? 
-73. What are the consequences of zinc deficiency? 
-74. What are the functions of vitamin A? 
-75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
-76. List two rich food sources of carotenoids? 
-77. List three functions of vitamin C? 
-78. What are the consequences of Vitamin C deficiency? 
-79. List two rich food sources of vitamin C? 
-80. What are the primary functions of vitamin E? 
-81. What is the primary source of vitamin E? 
-82. What minerals are involved in bone health? 
-83. What is hydroxyapatite? 
-84. What biological factors impact bone health? 
-85. What lifestyle factors impact bone health (i.e. high protein intake)? 
-86. What are the functions of calcium? 
-87. What interferes with calcium absorption? 
-88. What are the key functions of phosphorus beyond bone health? 
-89. What are the primary food sources of phosphorus? 
-90. What is the biologically active form of vitamin D? 
-91. What are three functions of vitamin D? 
-92. How do parathyroid hormone (PTH) and calcitonin work together to maintain balanced calcium levels in the bloodstream? What is calcitonin’s role? 
-93. List the risk factors that impair vitamin D status? 
-94. How is vitamin D converted to its active form? What organs are involved? 
-95. Food sources of vitamin D? 
-96. What is vitamin D deficiency called in children and in adults? 
-97. What are the key functions of magnesium other than bone health? 
-98. What plant sources are rich in magnesium? 
-99. How is thiamin involved in energy metabolism? 
-100. What is the thiamin-deficiency disease called? 
-101. What are the major sources of thiamin? 
-102. How is riboflavin involved in energy metabolism? 
-103. What are the symptoms associated with riboflavin deficiency? 
-104. How is niacin involved in energy metabolism? 
-105. The niacin-deficiency disease is known as? 
-106. What two B vitamins are critical to red blood cell synthesis? 
-107. What is anemia? What are the different types, their causes, and their symptoms?
-108. What is hemostasis? 
-109. What are the functions of vitamin K?
-110. What are the major food sources of vitamin K? 
-111. List two functions of folate (vitamin B9)? 
-112. How can maternal folate deficiency impact a fetus? 
-113. List three food sources of folate? 
-114. What are the functions of vitamin B12?
-115. What compounds or factors can interfere with the absorption of vitamin B12? 
-116. What are the food sources of vitamin B12? 
-117. How can a strict vegan find reliable sources of vitamin B12?
-118. What special compound is required for B12 absorption? 
-119. List three functions of iron? 
-120. What are heme and nonheme iron? 
-121. What can you do to enhance your absorption of nonheme iron? 
-122. What is hemoglobin? Why is iron important in this part of the red blood cell? 
-123. Which micronutrient deficiencies and toxicities can cause fetal malformations? 
-124. Characterize fetal development during each trimester – don’t drive yourself crazy, think of one or two big things that happen in each trimester. 
-125. What conditions affect pregnancy outcomes negatively? 
-126. What dietary practices can be harmful to a fetus? What are the consequences?
-127. What nutrition-related conditions do pregnant women experience and what are the treatments? 
-128. Are there important nutrients for pregnancy and lactation? If so, what are they? 
-129. What are the benefits of breastfeeding for mothers? 
-130. What is the growth and body mass trajectory for infants? 
-131. How is failure to thrive defined? 
-132. Describe infant nutrient needs over time. 
-133. What special vitamin and mineral needs do infants have? 
-134. How does breastfeeding benefit an infant? 
-135. How do you compress morbidity? 
-136. When does physical decline begin in adults? 
-137. What are the risk factors for dehydration in older adults? 
-138. What are the benefits of physical activity for older adults? 
-139. What are risk factors for loss of bone mass? 
-140. What are the nutritional conditions related to aging and how do you prevent them?
+50. 
+51. What is the difference between intracellular and extracellular fluid? 
+52. What are the functions of sodium? 
+53. What are high sodium food sources? 
+54. What are examples of low sodium foods?
+55. What are the functions of potassium? 
+56. List three sources of dietary potassium? 
+57. Who is at risk for potassium deficiency? 
+58. Who is at risk for high blood potassium levels? 
+59. What are strategies to reduce the risk of developing hypertension? 
+60. Which foods have the highest water content. 
+61. What do vitamins A, C, and E function as? 
+62. How does antioxidant work in the body? 
+63. What is oxidative stress? 
+64. What is a free radical and why are free radicals thought to be harmful to the body? 
+65. What environmental factors promote oxidative stress from free radicals? 
+66. DNA damage by free radicals sets the stage for what chronic diseases? 
+67. Why are cell membranes susceptible to free radical damage? 
+68. What are the best dietary choices to improve the body’s defense against free radicals? 
+69. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
+70. What are phytochemicals? 
+71. Three functions of phytochemicals? 
+72. List three function of zinc? 
+73. List three food sources of zinc? 
+74. What are the consequences of zinc deficiency? 
+75. What are the functions of vitamin A? 
+76. What are the consequences and causes of vitamin A deficiency? Toxicity? 
+77. List two rich food sources of carotenoids? 
+78. List three functions of vitamin C? 
+79. What are the consequences of Vitamin C deficiency? 
+80. List two rich food sources of vitamin C? 
+81. What are the primary functions of vitamin E? 
+82. What is the primary source of vitamin E? 
+83. What minerals are involved in bone health? 
+84. What is hydroxyapatite? 
+85. What biological factors impact bone health? 
+86. What lifestyle factors impact bone health (i.e. high protein intake)? 
+87. What are the functions of calcium? 
+88. What interferes with calcium absorption? 
+89. What are the key functions of phosphorus beyond bone health? 
+90. What are the primary food sources of phosphorus? 
+91. What is the biologically active form of vitamin D? 
+92. What are three functions of vitamin D? 
+93. How do parathyroid hormone (PTH) and calcitonin work together to maintain balanced calcium levels in the bloodstream? What is calcitonin’s role? 
+94. List the risk factors that impair vitamin D status? 
+95. How is vitamin D converted to its active form? What organs are involved? 
+96. Food sources of vitamin D? 
+97. What is vitamin D deficiency called in children and in adults? 
+98. What are the key functions of magnesium other than bone health? 
+99. What plant sources are rich in magnesium? 
+100. How is thiamin involved in energy metabolism? 
+101. What is the thiamin-deficiency disease called? 
+102. What are the major sources of thiamin? 
+103. How is riboflavin involved in energy metabolism? 
+104. What are the symptoms associated with riboflavin deficiency? 
+105. How is niacin involved in energy metabolism? 
+106. The niacin-deficiency disease is known as? 
+107. What two B vitamins are critical to red blood cell synthesis? 
+108. What is anemia? What are the different types, their causes, and their symptoms?
+109. What is hemostasis? 
+110. What are the functions of vitamin K?
+111. What are the major food sources of vitamin K? 
+112. List two functions of folate (vitamin B9)? 
+113. How can maternal folate deficiency impact a fetus? 
+114. List three food sources of folate? 
+115. What are the functions of vitamin B12?
+116. What compounds or factors can interfere with the absorption of vitamin B12? 
+117. What are the food sources of vitamin B12? 
+118. How can a strict vegan find reliable sources of vitamin B12?
+119. What special compound is required for B12 absorption? 
+120. List three functions of iron? 
+121. What are heme and nonheme iron? 
+122. What can you do to enhance your absorption of nonheme iron? 
+123. What is hemoglobin? Why is iron important in this part of the red blood cell? 
+124. Which micronutrient deficiencies and toxicities can cause fetal malformations? 
+125. Characterize fetal development during each trimester – don’t drive yourself crazy, think of one or two big things that happen in each trimester. 
+126. What conditions affect pregnancy outcomes negatively? 
+127. What dietary practices can be harmful to a fetus? What are the consequences?
+128. What nutrition-related conditions do pregnant women experience and what are the treatments? 
+129. Are there important nutrients for pregnancy and lactation? If so, what are they? 
+130. What are the benefits of breastfeeding for mothers? 
+131. What is the growth and body mass trajectory for infants? 
+132. How is failure to thrive defined? 
+133. Describe infant nutrient needs over time. 
+134. What special vitamin and mineral needs do infants have? 
+135. How does breastfeeding benefit an infant? 
+136. How do you compress morbidity? 
+137. When does physical decline begin in adults? 
+138. What are the risk factors for dehydration in older adults? 
+139. What are the benefits of physical activity for older adults? 
+140. What are risk factors for loss of bone mass? 
+141. What are the nutritional conditions related to aging and how do you prevent them?
 # Midterm Content
 ## American Diet
 American diet has increased sodium, carbohydrate, fat and protein intake while not meeting the dietary fiber needs nor some other essential micronutrients. 
