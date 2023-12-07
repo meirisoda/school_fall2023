@@ -186,8 +186,11 @@
 77. List three functions of vitamin C?
 	1. immune system function 
 	2. collagen synthesis
-serotonin a
+	3. serotonin and norepinephrine synthesis
 78. What are the consequences of Vitamin C deficiency? 
+	1. Decreased immune system function, poor skin, 
+	2. scurvy
+	3. wehhhhhhhhh
 79. List two rich food sources of vitamin C? 
 80. What are the primary functions of vitamin E? 
 81. What is the primary source of vitamin E? 
