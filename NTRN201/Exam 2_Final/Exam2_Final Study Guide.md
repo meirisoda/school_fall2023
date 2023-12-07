@@ -142,7 +142,7 @@
 62. What is oxidative stress? 
 	1. <mark class="hltr-yellow">oxidative stress is the imbalance between free radicals and the antioxidants in your body</mark>
 63. What is a free radical and why are free radicals thought to be harmful to the body? 
-	1. free radicals are molecules that are missing an electron and are unstable 
+	1. free radicals are molecules that are missing an electron and are unstable, so they try to steal some your own cells
 64. What environmental factors promote oxidative stress from free radicals? 
 65. DNA damage by free radicals sets the stage for what chronic diseases? 
 66. Why are cell membranes susceptible to free radical damage? 
