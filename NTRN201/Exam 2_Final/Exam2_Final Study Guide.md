@@ -144,7 +144,9 @@
 63. What is a free radical and why are free radicals thought to be harmful to the body? 
 	1. free radicals are molecules that are missing an electron and are unstable, so they try to steal some your own cells
 64. What environmental factors promote oxidative stress from free radicals? 
+	1. high amounts of oxygen, UV light, reduced ozone layer
 65. DNA damage by free radicals sets the stage for what chronic diseases? 
+	1. cancer
 66. Why are cell membranes susceptible to free radical damage? 
 67. What are the best dietary choices to improve the body’s defense against free radicals? 
 68. What fat-soluble vitamin serves as an antioxidant in cell membranes? 
