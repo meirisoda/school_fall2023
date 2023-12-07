@@ -95,9 +95,10 @@
 42. What types of foods contain Vitamin C? 
 	1. citrus
 43. Why are refined grains less healthy than whole grains? 
-	1. 
 44. What are the functions of water in the body? 
-45. How does water regulate body temperature? 
+	1. lubricant, universal solvent, blood, CSF 
+45. How does water regulate body temperature?
+	1. skin and blood
 46. What hormones participate in fluid conservation in the body? What role do they play? 
 47. Is thirst a good indicator of hydration status? Why or why not? 
 48. What are symptoms of dehydration/heat exhaustion/stroke? 
