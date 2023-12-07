@@ -17,7 +17,7 @@
 8. What do trans fatty acids do to cholesterol? Raise or lower? Which type of cholesterol? 
 	1. trans fatty acids raise cholesterol levels (specifically LDL)
 9. What are the functions of cholesterol in the body? 
-	1. 
+	1. to aid in nerve function and are a precursor to hormones
 10. What are the benefits and risks associated with alcohol consumption? 
 11. What are the recommendations for at-risk sub groups related to alcohol consumption? 
 12. What are the signs and symptoms of alcohol abuse? 
