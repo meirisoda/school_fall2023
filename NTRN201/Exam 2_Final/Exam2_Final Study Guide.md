@@ -89,7 +89,7 @@
 39. What vitamins are synthesized in the body? 
 	1. Vitamin D can be synthesized by the sun
 	2. Vitamin K can be synthesized in the gut by bacteria
-	3. Vitamin E can be synthesized by tryptophan in the sunli
+	3. <mark class="hltr-yellow">Vitamin E can be synthesized by tryptophan in the sunlight</mark>
 40. Dietary supplement labels – what does USP mean on the label? 
 41. What is enrichment? Bread and cereals are enriched with what vitamins? 
 42. What types of foods contain Vitamin C? 
