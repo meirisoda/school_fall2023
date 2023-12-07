@@ -53,5 +53,9 @@ coenzyme of glucose production and fat synthesis
 hair and nails
 excreted via bile and urine
 ## Folate (B9)
-400/600mcg/day -> 1000mcg (may mask B12 defiiciency)
-involved in cell division, metabolism of 
+400/600mcg/day -> 1000mcg (may mask B12 deficiency)
+involved in cell division, metabolism of amino acids and DNA formation
+green leafy vegetables
+$\downarrow$ megaloblastic anemia 
+## B12
+coenzyme of folate metabolis
