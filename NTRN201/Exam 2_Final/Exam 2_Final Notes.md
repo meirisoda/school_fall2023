@@ -98,3 +98,9 @@ collagen synthesis
 serotonin and norepinephrine synthesis
 ## Zinc
 -> 100mg
+### Functions
+- DNA synthesis and function
+- protein metabolism, wound healing and growht
+- development of sexual organs and bones
+### Sources
+animal proteins, fortified cereals a
