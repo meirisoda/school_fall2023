@@ -7,7 +7,7 @@ $\downarrow$ bone problems, decreased calcium absorption, rickets
 $\uparrow$ fetal malformations, hair loss and skin changes, bone pain 
 ### Functions 
 - maintenance of calcium and phosphorus
-- regulates calcium excretion via kidney (along with PTH) --> **calcitonin** 
+- regulates calcium excretion via kidney (along with PTH) --> **calcitonin** decreases calcium levels
 - immune system function
 - cell cycle regulation
 ### Sources
@@ -64,3 +64,4 @@ $\downarrow$ megaloblastic anemia
 coenzyme of folate metabolism and maintains myelin sheath
 requires IF for absorption
 $\downarrow$ nerve function 
+# Immunity
