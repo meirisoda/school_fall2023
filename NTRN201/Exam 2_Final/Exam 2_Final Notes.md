@@ -28,3 +28,10 @@ $\uparrow$ fetal malformations, hair loss and skin changes, bone pain
 ### Sources
 milk, cheese, meat, nuts, fish
 ## Magnesium
+400mg/d
+### Functions
+- nerve and heart function
+- relaxes muscle after contraction
+- provides rigitiy to bones
+### Sources
+chlorophyll/pla
