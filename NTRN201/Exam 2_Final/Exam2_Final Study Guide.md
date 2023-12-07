@@ -24,7 +24,8 @@
 11. What are the recommendations for at-risk sub groups related to alcohol consumption? 
 	1. lower alcohol consumption lmfao
 12. What are the signs and symptoms of alcohol abuse? 
-	1. 
+	1. physiological symptoms such as stress and anxiety when not drinking 
+	2. 
 13. What is metabolism? 
 14. What is ATP? 
 15. How are amino acids metabolized to produce energy? 
