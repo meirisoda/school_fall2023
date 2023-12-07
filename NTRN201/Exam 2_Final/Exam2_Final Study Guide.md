@@ -38,6 +38,7 @@
 17. Describe the different types of energy production in the body and under what conditions they occur. 
 	1. 
 18. What conditions lead to ketosis? 
+	1. 
 19. How is metabolism regulated? 
 20. What is energy balance? Positive energy balance? Negative energy balance? 
 21. What contributes to total energy expenditure? 
