@@ -74,8 +74,8 @@
 	1. must be organic and also essential for the body to function
 	2. ie depletion causes problems and are fixed upon replenishing the missing vitamins
 34. What are the differences between fat-soluble and water-soluble vitamins? 
-	1. Fat soluble are stored in fat, and are affected if your fat absorption is affected -- it is not readily excreted by the body
-	2. 
+	1. Fat soluble are stored in fat, and are affected if your fat absorption is affected -- <mark class="hltr-yellow">it is not readily excreted by the body</mark>
+	2. Water soluble is stored in water, absorbed in the small intestine and liver, transported throughout the body thorugh the portal vein and then excreted through urine 
 35. How are fat soluble vitamins absorbed in the body? 
 36. What are the classifications of minerals? 
 37. Where are minerals absorbed in the body? 
