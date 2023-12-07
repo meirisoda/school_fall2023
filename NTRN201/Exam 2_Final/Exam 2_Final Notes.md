@@ -21,4 +21,4 @@ $\uparrow$ fetal malformations, hair loss and skin changes, bone pain
 ## Phosphorus
 700mg->3-4g/day
 ### Functions
-- component of h
+- component of hydroxyapatite 
