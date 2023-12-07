@@ -182,8 +182,11 @@
 75. What are the consequences and causes of vitamin A deficiency? Toxicity? 
 	1. night blindness, poor growth and dry skin
 76. List two rich food sources of carotenoids? 
-	1. carrots 
-77. List three functions of vitamin C? 
+	1. carrots and spinach
+77. List three functions of vitamin C?
+	1. immune system function 
+	2. collagen synthesis
+serotonin a
 78. What are the consequences of Vitamin C deficiency? 
 79. List two rich food sources of vitamin C? 
 80. What are the primary functions of vitamin E? 
