@@ -68,6 +68,7 @@ Note: are.na links contain pdfs
 Archtectonics of Game Spaces: The Spatial Logic of the Virtual and Its Meaning for the Real -- https://are.na/block/20487089
 Defining Digital Space Through a Visual Language --  https://dspace.mit.edu/bitstream/handle/1721.1/33801/48022976-MIT.pdf?sequence=2 
 The Coming Age of Calm Technology -- https://are.na/block/11968748
+The Psychology and Therapeutic Application of Horro 
 The Terminal Space (from Heterotopias Zine Issue 002) -- https://www.heterotopiaszine.com/002-2/ 
 What never lived cannot die: Alienation, architecture, and NaissancE -- https://caneandrinse.com/alienation-architecture-and-naissancee/ 
 ### Images
