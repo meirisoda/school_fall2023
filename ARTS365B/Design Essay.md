@@ -30,7 +30,7 @@ Computer graphics and programming have been developed to the point that somtimes
 A Sony Walkman TPS-L2 modeled in Blender. (Artist: Reza Mortazavi)
 ```
 
-The other direction that was taken with the development and evolution of digital spaces and tools were not to create worlds that mimicked our own, but instead gave us completely different realities. With infinite possibilities came the creation of worlds that cou
+The other direction that was taken with the development and evolution of digital spaces and tools were not to create worlds that mimicked our own, but instead gave us completely different realities. With infinite possibilities came the creation of worlds that could not possibly exist. Fictional worlds have eOne may immediately think of fantasy worlds, depicted in games like Skyrim 
 
 Where on the Earth would we be able to experience this sort of shift in perspective? We have built our cities and land to accommodate us, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us? The design of the architecture and landscape in NaissancE 
 
