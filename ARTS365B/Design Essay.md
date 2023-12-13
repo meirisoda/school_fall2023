@@ -59,6 +59,7 @@ electric calm
 hyper-reality and space
 ```
 It was quite difficult to wrap all of these into one cohesive idea, and the only words I could think of were "portals" and "ambient spaces". 
+I defined *ambient spaces* 
 
 ## Bibliography and References
 ### Essays
