@@ -40,8 +40,6 @@ The only sense of direction that is given by following the orb of light, which c
 ```
 
 ddsfsfsfsfs
-
-
 ## Important Notes
 I would like to note that this paper is not only an analysis of digital spaces, but also an exploration and a process of self-realization of the art and practice I would like to develop. 
 When writing this paper, I wrote down a couple of key words and phrases that popped into my mind: 
@@ -55,7 +53,7 @@ Doors/portals and interactivity
 A peek into reality inside digital spaces 
 NaissancE
 Open tabs are cognitive spaces
-electric calm 
+an electric calm 
 hyper-reality and space
 ```
 It was quite difficult to wrap all of these into one cohesive idea, and the only words I could think of were "portals" and "ambient spaces". 
