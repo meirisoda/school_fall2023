@@ -59,7 +59,7 @@ electric calm
 hyper-reality and space
 ```
 It was quite difficult to wrap all of these into one cohesive idea, and the only words I could think of were "portals" and "ambient spaces". 
-I defined *ambient spaces* 
+I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject 
 
 ## Bibliography and References
 ### Essays
