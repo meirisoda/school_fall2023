@@ -32,6 +32,8 @@ A Sony Walkman TPS-L2 modeled in Blender. (Artist: Reza Mortazavi)
 
 The other direction that was taken with the development and evolution of digital spaces and tools were not to create worlds that mimicked our own, but instead gave us completely different realities. With infinite possibilities came the creation of fantasical worlds. Fictional worlds exist in literature, in television and other mediums, but one medium that I find fascinating is games. 
 
+Games provide interactive experiences like no other. They are immersive 
+
 I've written about games in a previous class and explored the therapeutic applications that horror games could have. In that essay I wrote about the effects of interactivity (or agency, having control over the movement and direction of experience) and that "part of it is due to the games giving a player “a mediated enactive experience through which to identify within a virtual world, and then experience such senses as presence and autonomy, thus inducing greater emotional response(s). 
 
 Where on the Earth would we be able to experience this sort of shift in perspective? We have built our cities and land to accommodate us, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us? The design of the architecture and landscape in NaissancE 
