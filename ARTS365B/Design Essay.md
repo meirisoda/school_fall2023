@@ -41,7 +41,7 @@ Where on the Earth would we be able to experience this sort of shift in perspect
 The only sense of direction that is given by following the orb of light, which constantly moves at a faster pace than the player, leaving them behind.
 ```
 
-Blah Bla
+Blahblahblah
 ## Important Notes
 I would like to note that this paper is not only an analysis of digital spaces, but also an exploration and a process of self-realization of the art and practice I would like to develop. 
 When writing this paper, I wrote down a couple of key words and phrases that popped into my mind: 
