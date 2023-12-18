@@ -24,7 +24,7 @@ The physical world has been sculpted and built upon by humans as much as it coul
 
 Computer graphics and programming have been developed to the point that somtimes it is impossible to discern between what is "real" and what is not. 
 
-![[Pasted image 20231212184443.png|300]]
+![[Pasted image 20231212184443.png|200]]
 
 ```
 A Sony Walkman TPS-L2 modeled in Blender. (Artist: Reza Mortazavi)
