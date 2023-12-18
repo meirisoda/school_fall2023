@@ -48,6 +48,8 @@ Where on the Earth would we be able to experience this sort of shift in perspect
 ![[Pasted image 20231218182819.png|600]]
 
 ![[Pasted image 20231218182900.png|600]]
+
+![[Pasted image 20231218182936.png|600]]
 ## Important Notes
 I would like to note that this paper is not only an analysis of digital spaces, but also an exploration and a process of self-realization of the art and practice I would like to develop. 
 When writing this paper, I wrote down a couple of key words and phrases that popped into my mind: 
