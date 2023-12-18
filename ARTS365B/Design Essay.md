@@ -36,7 +36,7 @@ Games provide interactive experiences like no other. They are immersive and are 
 
 By giving us complete agency not only on where to go, and what actions to do (as players) but also in the spaces that we create, many extremes can be explored. These physical spaces now no longer have to follow the laws of physics, but also be able to reflect other things. Architecture and environment become a medium for expression. 
 
-The design of the architecture and landscape in NaissancE a great example of this. The entirety of the game is set in non-textured basic forms that slowly complicate into monolithic structures, stretching for distances beyond comprehension. The only thing that exists in the game is the player, who is left to explore and make their way out. It is a lonely experience that is amplified by the architecture and the design of the space. 
+The design of the architecture and landscape in NaissancE a great example of this. The entirety of the game is set in non-textured basic forms that slowly complicate into monolithic structures, stretching for distances beyond comprehension. The only thing that exists in the game is the player, who is left to explore and make their way out. It is a lonely yet somewhat comfexperience that is amplified by the architecture and the design of the space. 
 
 ![[Pasted image 20231217222502.png|600]]
 
@@ -44,6 +44,7 @@ The design of the architecture and landscape in NaissancE a great example of thi
 ```
 The only sense of direction that is given by following the orb of light, which constantly moves at a faster pace than the player, leaving them behind.
 ```
+
 Where on the Earth would we be able to experience this sort of shift in perspective? We have built our cities and land to accommodate us, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us?
 
 Blahblahblah
