@@ -43,7 +43,7 @@ The design of the architecture and landscape in NaissancE a great example of thi
 The only sense of direction that is given by following the orb of light, which constantly moves at a faster pace than the player, leaving them behind.
 ```
 
-Where on the Earth would we be able to experience this sort of shift in perspective? We have built our cities and land to accommodate us and our stories, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us? Traversing a world 
+Where on the Earth would we be able to experience this sort of shift in perspective? We have built our cities and land to accommodate us and our stories, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us? Traversing a world that is somehow so familiar y
 
 ## Important Notes
 I would like to note that this paper is not only an analysis of digital spaces, but also an exploration and a process of self-realization of the art and practice I would like to develop. 
