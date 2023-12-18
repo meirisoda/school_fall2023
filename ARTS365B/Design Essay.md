@@ -1,8 +1,6 @@
 # Ambient and Liminal Spaces
 ```
 Ambient space, also known as hodological space (from the Greek word 'hodos', which means "way") refers to the space of possible movement. (Wikipedia)
-
-Liminal is used to describe a place or state of change or transition; this may be physical (e.g. a doorway) or psychological (e.g. the period of [adolescence](https://en.wikipedia.org/wiki/Adolescence "Adolescence")).[[3]](https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)#cite_note-3) Liminal space imagery often depicts this sense of "in-between", capturing transitional places
 ```
 
 Something I think about a lot is the effect that space has in directing our emotions and the way we approach the world. How does the way a space is designed, whether it is interior - somebody's home, a restaurant, a school; or exterior - the entrance to one's apartment complex, a city park; or digital, direct emotions and cognition? This is something that architects, interior or industrial designers and other professions consider all the time. The way that a building is constructed and the colors used in any structure have effects on our subconscious. For a psychological example, the interior of hospitals are typically white, which gives an impression of sterility, which in turn gives patients and visitors the image of safer medical care. A more direct example of the way space and the way things are designed is hostile urban architecture - benches that have spikes on them are a very clear and direct way to indicate that people are not welcome (to sit) there. It directs us to understand that the city does not provide infrastructure for homeless or disabled people (contains some nuance).
