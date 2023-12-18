@@ -36,7 +36,8 @@ Games provide interactive experiences like no other. They are immersive and are 
 
 By giving us complete agency not only on where to go, and what actions to do (as players) but also in the spaces that we create, many extremes can be explored. These physical spaces now no longer have to follow the laws of physics, but also be able to reflect other things. Architecture and environment become a medium for expression. 
 
-The design of the architecture and landscape in NaissancE a great example of this. The entirety of the game is set in non-textured basic forms that slowly complicate into monolithic structures, stretching for distances beyond comprehension. 
+The design of the architecture and landscape in NaissancE a great example of this. The entirety of the game is set in non-textured basic forms that slowly complicate into monolithic structures, stretching for distances beyond comprehension. Ex
+
 ![[Pasted image 20231217222502.png|600]]
 
 ![[Pasted image 20231212155742.png|600]]
