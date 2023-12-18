@@ -1,4 +1,4 @@
-# Ambient Spaces and Digital Worlds
+# Ambient and Liminal Spaces
 ```
 Ambient space, also known as hodological space (from the Greek word 'hodos', which means "way") refers to the space of possible movement. (Wikipedia)
 ```
