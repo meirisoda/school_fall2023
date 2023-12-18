@@ -46,7 +46,7 @@ The only sense of direction that is given by following the orb of light, which c
 Where on the Earth would we be able to experience this sort of shift in perspective? 
 We have built our cities and land to accommodate us and our stories, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us? Navigating the architecture in NaissancE is extremely difficult and frustrating, as the structures aren't really meant to be explored. Often times you will fall into a vast nothingness, because the game expects for you to be able to cross a gap that is almost impossible. This repetition of wanting to navigate a world that obviously has something to show but the very structure limiting outselves, trying to traverse a world that is somehow so familiar yet hostile very precisely lays down the difference between wandering through architecture and space and engaging with it. 
 
-Just by making your way through vast structures that actively reject your explorations, it makes you feel quite small. It forces one to shift perspective, as mentioned previously, from 
+Just by making your way through vast structures that actively reject your explorations, it makes you feel quite small. It forces one to shift perspective, as mentioned previously, from inwards and the stories of 
 
 ![[Pasted image 20231218182819.png|600]]
 
