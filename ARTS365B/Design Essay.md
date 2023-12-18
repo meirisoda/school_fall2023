@@ -1,4 +1,4 @@
-# Ambient Spaces and Transience
+# Ambient Spaces and Digital Worlds
 ```
 Ambient space, also known as hodological space (from the Greek word 'hodos', which means "way") refers to the space of possible movement. (Wikipedia)
 ```
@@ -62,7 +62,7 @@ an electric calm
 hyper-reality and space
 ```
 It was quite difficult to wrap all of these into one cohesive idea, and the only words I could think of were "portals" and "ambient spaces". 
-I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject, both by itself and also in my art. A lack of an obvious definition 
+I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject, both by itself and also in my art. A lack of an obvious definition leaves meaning to be interpreted by the viewe
 ## Bibliography and References
 ### Essays
 Note: are.na links contain pdfs
