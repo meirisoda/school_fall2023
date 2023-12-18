@@ -62,7 +62,8 @@ an electric calm
 hyper-reality and space
 ```
 It was quite difficult to wrap all of these into one cohesive idea, and the only words I could think of were "portals" and "ambient spaces". 
-I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject, both by itself and also in my art. A lack of an obvious definition leaves meaning to be interpreted by the viewer, who could be me or any other person. Another word that would describe the spaces and structures I create can be *limi*
+I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject, both by itself and also in my art. A lack of an obvious definition leaves meaning to be interpreted by the viewer, who could be me or any other person. Another word that would describe the spaces and structures I create can be *liminal*, of which liminal spaces have been a popular topic on social media over the past couple years. 
+I believe liminal to be a state of transien
 ## Bibliography and References
 ### Essays
 Note: are.na links contain pdfs
