@@ -45,7 +45,6 @@ The only sense of direction that is given by following the orb of light, which c
 
 Where on the Earth would we be able to experience this sort of shift in perspective? We have built our cities and land to accommodate us and our stories, and we can build our digital spaces to accommodate us. but what happens when the structures around us no longer are meant for us?
 
-Blahblahblah
 ## Important Notes
 I would like to note that this paper is not only an analysis of digital spaces, but also an exploration and a process of self-realization of the art and practice I would like to develop. 
 When writing this paper, I wrote down a couple of key words and phrases that popped into my mind: 
