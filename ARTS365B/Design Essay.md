@@ -64,7 +64,7 @@ Liminal spaces, is used to describe a place or state of change or transition; th
 
 
 <div style="page-break-after: always;"></div>
-```
+
 ## Some Notes
 I would like to note that this paper is not only an analysis of digital spaces, but also an exploration and a process of self-realization of the art and practice I would like to develop. 
 When writing this paper, I wrote down a couple of key words and phrases that popped into my mind: 
