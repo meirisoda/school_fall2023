@@ -84,7 +84,7 @@ liminal spaces?
 transience
 ```
 
-I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject, both by itself and also in my art. A lack of an obvious definition leaves meaning to be interpreted by the viewer, who could be me or any other person. Another word that would describe the spaces and structures I create can be *liminal*, of which liminal spaces have been a popular topic on social media over the past couple years. I believe liminal to be a state of transience, when one thing ends and another is about to begin, but you are not quite there yet. An exploration of borders and boundaries. 
+I defined *ambient spaces* above as the space of possible movement. I believe ambience to be a very important subject, both by itself and also in my art. A lack of an obvious definition leaves meaning to be interpreted by the viewer, who could be me or any other person. Another word that would describe the spaces and structures I create can be *liminal*, of which liminal spaces have been a popular topic on social media over the past couple years. I believe liminal to be a state of transience, when one thing ends and another is about to begin, but you are not quite there yet. An exploration of borders and boundaries. Being in a state of limbo is often very unsettling and uncomfortable, but that uneasiness is strangely comforting to me. While it 
 ## Bibliography and References
 ### Essays
 Note: are.na links contain pdfs
